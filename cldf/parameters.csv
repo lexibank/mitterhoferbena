@@ -1,0 +1,356 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+eye,eye,1248,EYE
+eyebrow,eyebrow,1173,EYEBROW
+ear,ear,1247,EAR
+mouth,mouth,674,MOUTH
+jawbone,jawbone,798,JAW
+nose,nose,1221,NOSE
+chin,chin,1510,CHIN
+beard,beard,678,BEARD
+tooth,tooth,1380,TOOTH
+tongue,tongue,1205,TONGUE
+head,head,1256,HEAD
+hairhuman,hair (human),1040,HAIR
+neck,neck,1333,NECK
+belly,belly,1251,BELLY
+back,back,1291,BACK
+backbone,backbone,805,SPINE
+knee,knee,1371,KNEE
+leg,leg,1297,LEG
+foot,foot,1301,FOOT
+arm,arm,1673,ARM
+hand,hand,1277,HAND
+fingernail,fingernail,1258,FINGERNAIL
+finger,finger,1303,FINGER
+armpit,armpit,1886,ARMPIT
+skinhuman,skin (human),2613,SKIN (HUMAN)
+skinanimal,skin (animal),2614,SKIN (ANIMAL)
+bone,bone,1394,BONE
+blood,blood,946,BLOOD
+heart,heart,1223,HEART
+lung,lung,688,LUNG
+liver,liver,1224,LIVER
+voice,voice,1363,VOICE
+hornofanimal,horn (of animal),1393,HORN (ANATOMY)
+wingofbird,wing (of bird),1257,WING
+feathers,feathers,1201,FEATHER
+tailofmammal,tail (of mammal),1220,TAIL
+egg,egg,744,EGG
+honey,honey,942,HONEY
+milkofcow,milk (of cow),635,MILK
+meat,meat,634,MEAT
+person,person,683,PERSON
+man,man,1554,MAN
+husband,husband,1200,HUSBAND
+woman,woman,962,WOMAN
+wife,wife,1199,WIFE
+father,father,1217,FATHER
+mother,mother,1216,MOTHER
+brotheroldersamesex,"brother (older, same sex)",1759,OLDER BROTHER
+mothersbrother,mother's brother,1984,MOTHER'S BROTHER
+child,child,2099,CHILD
+sonboy,son/boy,2391,BOY OR SON
+daughtergirl,daughter/girl,2392,DAUGHTER OR GIRL
+twins,twins,1005,TWINS
+chief,chief,301,CHIEFTAIN
+god,God,1944,GOD
+sickness,sickness,1986,DISEASE
+sore,sore,51,SORE
+medicine,medicine,1372,MEDICINE
+bodyhuman,body (human),1480,BODY
+name,name,1405,NAME
+wildanimal,wild animal,958,WILD ANIMAL
+dog,dog,2009,DOG
+cat,cat,1208,CAT
+elephant,elephant,1290,ELEPHANT
+lion,lion,1386,LION
+bat,bat,1793,BAT
+butterfly,butterfly,1791,BUTTERFLY
+goat,goat,1502,GOAT
+cow,cow,1007,COW
+bull,bull,1008,BULL
+calf,calf,1989,CALF
+chicken,chicken,1318,CHICKEN
+cockroooster,cock/roooster,1878,COCK
+bird,bird,937,BIRD
+snake,snake,730,SNAKE
+fish,fish,227,FISH
+bee,bee,665,BEE
+headlouse,head louse,310,HEAD LOUSE
+tree,tree,906,TREE
+barkoftree,bark (of tree),1204,BARK
+leaf,leaf,628,LEAF
+branchoftree,branch (of tree),1531,BRANCH
+shadeoftree,shade (of tree),1388,SHADE
+walkingstick,walking stick,1296,WALKING STICK
+rootoftree,root (of tree),670,ROOT
+seed,seed,714,SEED
+grass,grass,606,GRASS
+flowers,flowers,239,FLOWER
+thorn,thorn,124,THORN
+field,field,212,FIELD
+house,house,1252,HOUSE
+wall,wall,933,WALL (OF HOUSE)
+village,village,930,VILLAGE
+path,path,2252,PATH
+thingobject,thing/object,738,THING
+rope,rope,1218,ROPE
+thread,thread,1161,THREAD
+knot,knot,760,KNOT
+chair,chair,1476,CHAIR
+stool,stool,2058,STOOL
+salt,salt,1274,SALT
+fingermillet,finger millet,931,MILLET
+gruel,gruel,1167,GRUEL
+hunger,hunger,1864,HUNGER
+thirst,thirst,848,THIRST
+utensil,utensil,738,THING
+cookingpotclay,cooking pot (clay),1462,POT
+burdenloadcarriedonhead,"burden, load (carried on head)",1679,LOAD
+ironmetal,iron/metal,621,IRON
+hoe,hoe,284,HOE
+knife,knife,1352,KNIFE
+bigknife,big knife,1352,KNIFE
+dullknife,dull (knife),379,BLUNT
+sharpknife,sharp (knife),1396,SHARP
+axe,axe,677,AXE
+spear,spear,945,SPEAR
+arrow,arrow,977,ARROW
+hole,hole,1667,HOLE
+enemy,enemy,1358,ENEMY
+war,war,935,WAR
+fireforcookingheat,fire (for cooking)/heat,221,FIRE
+firewood,firewood,10,FIREWOOD
+smoke,smoke,778,SMOKE (EXHAUST)
+ashesma,ash(es) (ma),646,ASH
+nighttime,night (time),1233,NIGHT
+darkness,darkness,11,DARKNESS
+moon,moon,1313,MOON
+month,month,1370,MONTH
+star,star,1430,STAR
+sun,sun,1343,SUN
+daytime,daytime,1225,DAY (NOT NIGHT)
+today,today,1283,TODAY
+yesterday,yesterday,1174,YESTERDAY
+tomorrow,tomorrow,1329,TOMORROW
+sky,sky,1732,SKY
+clouds,clouds,1489,CLOUD
+windn,wind (N),960,WIND
+rainn,rain (N),658,RAIN (PRECIPITATION)
+water,water,948,WATER
+river,river,666,RIVER
+lake,lake,624,LAKE
+dew,dew,1977,DEW
+ice,ice,617,ICE
+mountain,mountain,639,MOUNTAIN
+stonefistsizedrock,stone (fistsized)/rock,2125,STONE OR ROCK
+earthsoil,earth (soil),1228,EARTH (SOIL)
+sand,sand,671,SAND
+dust,dust,2,DUST
+year,year,1226,YEAR
+onething,one (thing),1493,ONE
+twothings,two (things),1498,TWO
+three,three,492,THREE
+four,four,1500,FOUR
+five,five,493,FIVE
+six,six,1703,SIX
+seven,seven,1704,SEVEN
+eight,eight,1705,EIGHT
+nine,nine,1483,NINE
+ten,ten,1515,TEN
+hotweather,hot (weather),1286,HOT
+coldweather,cold (weather),2483,COLD (OF WEATHER)
+longthing,long (thing),1203,LONG
+shortthing,short (thing),1645,SHORT
+bigthing,big (thing),1202,BIG
+smallthing,small (thing),1246,SMALL
+widepath,wide (path),1243,WIDE
+narrowpath,narrow (path),1267,NARROW
+heavything,heavy (thing),1210,HEAVY
+lightweight,light (weight),1052,LIGHT (WEIGHT)
+difficulttest,difficult (test),584,DIFFICULT
+easytest,easy (test),686,EASY
+goodthing,good (thing),1035,GOOD
+badthing,bad (thing),1292,BAD
+leftside,left (side),244,LEFT
+rightside,right (side),1019,RIGHT
+inside,inside,1606,INSIDE
+outside,outside,762,OUTSIDE
+far,far,1406,FAR
+near,near,1942,NEAR
+newthing,new (thing),1231,NEW
+allthings,all (things),98,ALL
+manythings,many (things),1198,MANY
+fewthings,few (things),1242,FEW
+redthing,red (thing),156,RED
+blackthing,black (thing),163,BLACK
+whitething,white (thing),1335,WHITE
+who,who?,1235,WHO
+why,why?,1270,WHY
+what,what?,1236,WHAT
+dirtyclothes,dirty (clothes),1230,DIRTY
+rottenfruit,rotten (fruit),1728,ROTTEN
+drycloth,dry (cloth),1398,DRY
+wetcloth,wet (cloth),1726,WET
+fullbottle,full (bottle),1429,FULL
+sit,sit,1416,SIT
+standup3rdsg,stand up (3rd Sg),570,STAND UP
+standupimp,stand up (Imp),570,STAND UP
+sleep,sleep,1585,SLEEP
+awaken,awaken,825,AWAKE
+askforsthg,ask for sthg.,,
+bring,bring,692,BRING
+getobtain,get/obtain,694,GET
+take,take,1749,TAKE
+carrychildonback,carry (child on back),465,CARRY ON BACK
+hold,hold,1448,HOLD
+sell,sell,1571,SELL
+buy,buy,1869,BUY
+fearv,fear (V),1419,FEAR (BE AFRAID)
+givehim,give (him),1447,GIVE
+sendhim,send (him),1127,SEND
+bitev,bite (V),1403,BITE
+eat,eat,1336,EAT
+drinkv,drink (V),1401,DRINK
+boilwater,boil (water),792,BOIL (OF LIQUID)
+pour,pour,1487,POUR
+vomit,vomit,1278,VOMIT
+cough,cough,879,COUGH
+sneeze,sneeze,1621,SNEEZE
+breathe,breathe,1407,BREATHE
+suckbaby,suck (baby),1421,SUCK
+spit,spit,1440,SPIT
+blowwind,blow (wind),175,BLOW (OF WIND)
+blowperson,blow (person),176,BLOW (WITH MOUTH)
+whistlev,whistle (V),1025,WHISTLE
+yawn,yawn,1028,YAWN
+sing,sing,1261,SING
+playchild,play (child),1413,PLAY
+dance,dance,1879,DANCE
+laugh,laugh,1355,LAUGH
+crychild,cry (child),1839,CRY
+barkdog,bark (dog),1206,BARKING
+say,say,1458,SAY
+askquestion,ask (question),1309,ASK (INQUIRE)
+look,look,1819,LOOK
+showv,show (V),1039,SHOW
+hear,hear,1408,HEAR
+die,die,1494,DIE
+know,know,1410,KNOW (SOMETHING)
+countv,count (V),1420,COUNT
+wantlike,want/like,1784,WANT
+helpv,help (V),1897,HELP
+walkv,walk (V),1443,WALK
+runv,run (V),1519,RUN
+pullrope,pull (rope),1455,PULL
+come,come,1446,COME
+leavev,leave (V),1752,LEAVE
+fallv,fall (V),2234,FALL (OF SNOW AND RAIN)
+turnv,turn (V),1588,TURN
+burnsthg,burn (sthg),141,BURN (SOMETHING)
+burypeople,bury (people),1719,BURY
+diginthefield,dig (in the field),1418,DIG
+weedvbyhand,weed (V-by hand),,
+plantv,plant (V),1486,PLANT (SOMETHING)
+harvestv,harvest (V),611,HARVEST
+grind,grind,1033,GRIND
+huntv,hunt (V),1435,HUNT
+cultivate,cultivate,1541,CULTIVATE
+workv,work (V),984,WORK (LABOUR)
+buildhouse,build (house),1840,BUILD
+pushv,push (V),1452,PUSH
+make,make,734,MAKE
+sew,sew,1457,SEW
+throw,throw,1456,THROW
+hitv,hit (V),1433,HIT
+slaughterv,slaughter (V),1796,SLAUGHTER
+cuthorizontallyegatree,"cut (horizontally, e.g., a tree)",1432,CUT
+washv,wash (V),1453,WASH
+hidev,hide (V),602,HIDE (CONCEAL)
+marryofman,marry (of man),2164,MARRY (AS MAN)
+steal,steal,713,STEAL
+killv,kill (V),1417,KILL
+stab,stab,1434,STAB
+flyofbird,fly (of bird),1441,FLY (MOVE THROUGH AIR)
+goin,go in,749,ENTER
+goout,go out,1107,GO OUT
+movev,move (V),765,MOVE
+returnv,return (V),581,COME BACK
+dreamv,dream (V),1920,DREAM (SOMETHING)
+coagulateofblood,coagulate (of blood),2395,CONGEAL (BLOOD)
+makeofferingstothedead,make offerings to the dead,1103,SACRIFICE
+mixv,mix (V),2017,MIX
+openv,open (V),1156,OPEN
+closev,close (V),1046,SHUT
+remember,remember,707,REMEMBER
+forget,forget,1523,FORGET
+answerv,answer (V),1275,ANSWER
+breakv,break (V),680,BREAK (DESTROY OR GET DESTROYED)
+coverup,cover (up),761,COVER
+bringupachild,bring up a child,501,LIFT
+follow,follow,1085,FOLLOW
+getlost,get lost,423,GET LOST
+stirv,stir (V),696,STIR
+knockv,knock (V),2396,KNOCK
+takeleave,take leave,,
+swallowv,swallow (V),897,SWALLOW
+lick,lick,319,LICK
+sniff,sniff,375,SNIFF
+kneel,kneel,66,KNEEL
+bathe,bathe,138,BATHE
+stopdoing,stop doing,1928,CEASE
+scratchoneself,scratch oneself,1436,SCRATCH
+ant,ant,587,ANT
+ball,ball,1845,BALL
+bamboo,bamboo,1927,BAMBOO
+basket,basket,1539,BASKET
+bean,bean,832,BEAN
+begin,begin,1806,BEGIN
+book,book,963,BOOK
+case,case,1465,BOX
+corn,corn,506,MAIZE
+door,door,1567,DOOR
+eyelid,eyelid,17,EYELID
+nforest,(n) forest,420,FOREST
+fox,fox,1312,FOX
+frog,frog,503,FROG
+goodness,goodness,1035,GOOD
+grandmother,grandmother,1496,GRANDMOTHER
+happiness,happiness,1495,HAPPY
+hate,hate,1607,HATE
+helpn,help (N),1897,HELP
+herd,herd,1143,OVEN
+here,here,136,HERE
+hundred,hundred,1634,HUNDRED
+thousand,thousand,1843,THOUSAND
+insect,insect,620,INSECT
+journey,journey,2393,JOURNEY
+bena,Bena,,
+grainbin,grain bin,,
+locust,locust,810,LOCUST
+money,money,1559,MONEY
+mosquito,mosquito,1509,MOSQUITO
+njombe,Njombe,,
+pain,pain,1783,PAIN
+pity,pity,1141,PITY
+potato,potato,593,POTATO
+sheep,sheep,1331,SHEEP
+shoe,shoe,1381,SHOE
+us,us,2310,US (OBLIQUE CASE OF WE)
+song,song,1096,SONG
+sunflower,sunflower,1956,SUNFLOWER
+sweetpotato,sweet potato,159,SWEET POTATO
+teacher,teacher,1038,TEACHER
+trickv,trick (V),3230,DECEIVE
+town,town,1391,TOWN
+truth,truth,1638,TRUTH
+wasp,wasp,1517,WASP
+youcan,you can,,
+allthepeople,all the people,,
+ourcow,our cow,,
+ourfields,our fields,212,FIELD
+ourchair,our chair,,
+ourchairs,our chairs,1476,CHAIR
+ourtrees,our trees,906,TREE
+thismychair,this my chair,,
+up,up,1591,UP

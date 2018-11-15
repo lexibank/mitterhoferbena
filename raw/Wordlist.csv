@@ -1,0 +1,356 @@
+NUMBER	LONG_WORDLIST	SHORT_WORDLIST	CONCEPT	Swahili	CHECKED	Ihanja	Ikuna	Itambo	Itipula	Kanamalenga	Liwengi	Lwanzali	Makanjaula	Ujindile	Ukalawa	Utalingoro	Utengule	Wangama
+1	1	25	eye	jicho	+	liːho	liːho	liːho	liːho	liːho	liːho	liːho	liːho	liːho	liːho	liːho	liːho	liːho
+2	2	26	eyebrow	nyushi	+	ŋiːti	ŋiti	ŋuːmbi	ŋuːmbi	ŋiːti	ŋope	lukumbi	ŋoːpe	ŋuːmbi	ŋuːmbi	ŋuːmbi	ŋuː6	ŋuːmbi
+3	3		ear	sikio	+		lisiːhitsa		liːtwi	lisiːhidʒa	libulugutu/lisiːhidza			lisiːçitsa	litwi			
+4	4		mouth	mdomo	+		mulomo		mulomo	mulomo	mulomo			mlomo	mulomo			
+5	5		jawbone	taya	+		saja		lusaja	isaja	mateːte			saːja	kilefu			
+6	6		nose	pua	+		mula		mula	mula	muːla			mula	mula			
+7	7		chin	kidevu	+		hilefu		kideːfu	hilefu	hileːfu			hilefu	kilefu			
+8	8		beard	ndevu	+		nuːtsa		ndeːfu	nuːtdʒa	ʃinuːndza			nuːtsa	ndefu			
+9	9		tooth	jino	+		liːno		liːno	liːno	liːno			liːno	liːno			
+10	10		tongue	ulimi	+		lumiaːŋgo		lumwili	lulimi	lulime			luliːmu	lumili			
+11	11		head	kichwa	+		mutwe		mutuwe	mutuwe	mutuwe			mutwe	mutwe			
+12	12		hair (human)	nywele	+		fwiːli		fwiːli	fwiːli	fwili			fwiːli	fwiːli			
+13	13		neck	shingo	+		siːŋgo		siːŋgo	isiːŋgo	siːŋgo			siːŋgo	siːŋgo			
+14	14		belly	tumbo	+		lileme		lileme	lileme	lileme			lileːme	lileme			
+15	15		back	mgongo	+		mugoːŋgo		mugoːŋgo	mugoːŋgo	mugoːŋgo			mugoːŋgo	mugoːŋgo			
+16	16		backbone	uti wa mgongo	+					mugoːŋgo								
+17	17		knee	goti	+				lifugamilo	lifugamilo	lifugamilo			lifugamilo	kifugamilo			
+18	18		leg	mguu	+				ligulu	ligulu	ligulu			ligulu	ligulu			
+19	19		foot	mguu_(unyayo)	+				lwaːjo	ludʒajo	lwaːjo			lwaːjo	lwaːjo			
+	20	2	arm	mkono		liwoho		liwoko	liwoko	liwoho	liwoho	liwokʰo	liwoho	liwoːço	liwoːko	liwoho	liwoho	liwoːho
+21	21		hand	mkono_(kiganja)	+				kigaːnsa	higaːndʒa	higaːnza			higaːnsa	kigaːnsa			
+22	22		fingernail	kucha	+				lukoːnsi	luɲoːʋe	lukonze			ŋoːnze	ludole			
+	23	29	finger	kidole		ʃaːla		kiaːla	kiaːla	ʃaːla	ʃaːla	kʰiaːla	hidole	çiwoːho	kiaːla	hikoːndze	ʃaːla	ʃiaːla
+24	24		armpit	kwapa	+				waːpa	gwaːpa	uwaːpa			uwaːpi	uwaːpa			
+25	25		skin (human)	ngozi_(ya_binadamu)	+					ɲiŋgo	ŋgola				ŋgosi			
+26	26		skin (animal)	ngozi_(ya_mnyama)	+				ŋguo	ɲiŋgo	ŋgola			ŋiːŋgo	ŋgosi			
+27	27		bone	mfupa	+				kitsege	hitdʒege	hidzege			hitseke	kitsege			
+	28	12	blood	damu		ɖaːnɖa		daːnda	daːnda	ɖaːnɖa	daːnda	idaːnda	daːnda	ɖaːnda	ɖaːnɖa	daːnda	daːnda	ɖaːnɖa
+29	29		heart	moyo	+				nuːmbula	nuːmbula	numbula			nuːmbula	nuːmbula			
+30	30		lung	pafu	+				mahafwa	mbafu	lihafwa			mahafu	majaja			
+31	31		liver	ini	+		mutima		mtima	mutima	mutima			mtima	mtima			
+32	32		voice	sauti_(ya_mtu)	+		sawuti		sawuti	indoːŋgele	hutsoːva			luoːve	sauti			
+33	33		horn (of animal)	pembe_(ya_mnyama)	+		lipeːmbe		lipeːmbe	lupeːmbe	lipeːmbe			lupeːmbe	lupeːmbe			
+34	34		wing (of bird)	ubawa_(wa_ndege)	+		lipaːmbagilo		lipaːnde	lupabatilo	lipabatilo			lipiːça	lupabatilo			
+35	35		feathers	manyoya_(ya_ndege)	+		ligala		ligala	lugala	magala			magala	magala			
+36	36		tail (of mammal)	mkia_(k.m._wa_paka)	+		mukila		mukila	mukila	mukila			mukila	mkila			
+37	37	23	egg	yai	+	likaːŋa	likaːŋa	likaːŋa	likaːŋa	likaːŋa	likaːŋa	likaːŋa	likaːŋa	likaːŋa	likaːŋa	likaːŋa	likaːŋa	likaːŋa
+38	38	10	honey	asali_(ya_nyuki)	+	luːhi	luːhi	luːki	luːki	luːhi	luːhi	luːki	luːhi	luːçi	luːki	luːhi	luːçi	lunçi
+39	39		milk (of cow)	maziwa_(ya_kunywa_ya_ng'ombe)	+		litsiʋa		matsiva	litʃiʋa	madziːva			matsiva	matsiʋa			
+40	40		meat	nyama	+		ɲama		njama	ɲama	njama			ɲama	njama			
+41	41		person	mtu	+		muːnu		muːnu	muːnu	muːnu			muːnu	muːnu			
+42	42	57	man	mwanamume	+	mugoːsi	mwaɖaːda	mugoːsi	mugoːsi	mugoːsi	mugoːsi	mukigoːsi	mugoːsi	mugoːsi	mukigoːsi	mugoːsi	mugoːsi	mugoːsi
+43	43	47	husband	mume	+	mugoːsi_ʋaːŋgu	mugoːsi_ʋaːŋgu	mugoːsi	mugoːsi	mugoːsi_ʋaːŋgu	mwadaːda	mukigoːsi	mugoːsi	mugoːsi ʋaːŋgu	mukigoːsi	mugoːsi	mugoːsi ʋaːŋgu	mugoːsi ʋaːŋgu
+44	44	84	woman	mwanamke	+	mudala	mwajuːʋa	mukidala	mdala	mudala	mwajuːva	mukidala	mdala	mdala	mukidɑla	mudala	mwajuːʋa	muɖaːla
+45	45		wife	mke	+		muːnu		mdala	mudala ʋaːŋgu	mwajuːva			mdala	mukidɑla			
+46	46		father	baba_(mzazi)	+		daːda		ɖaːɖa	ɖaːɖo	lusehe			ɖaːɖa	ɖaːɖa			
+47	47		mother	mama_(mzazi)	+		ujuːʋa		juːva	juːʋa	juːva			juːʋa	juːva			
+48	48	63	brother (older, same sex)	kaka_(mkubwa_wa_kiume)	+	maːmxo	muhatsa	maːma	maːma	maːma	maːma	umaːma	muhaːtsavo	maːma	maːma	umaːmo	maːma	umaːma
+49	49		mother's brother	mjomba	+		jaːja		jaːja	jaːja	jaːja			jaːja	jaːja			
+50	50		child	mtoto	+		mwaːna		mwana	mwaːna	mwaːna			mwaːna	mwaːna			
+	51	14	son/boy	mtoto wa kiume/mvulana	+	mudiːmi	mudiːmi	mudiːmi	mdiːmi	mudiːmi	mudiːmi	mudiːmi	mdiːmi	mudiːmi	mdiːmi	mdiːmi	mudiːmi	mudiːmi
+	52	33	daughter/girl	mtoto wa kike/msichana	+	muhiːntsa	muhiːnsa	muhiːnsa	muhinsa	muhiːndʒa	muhiːnsa	muhiːnsa	muhiːnsa	muhiːnsa	muhiːnsa	muhiːntʃa	muhiːnza	muhiːnsa
+53	53		twins	mapacha	+		mapatsa		mapatʃa	ʋaŋguŋgu	vataŋgo			muŋguːŋgu	ʋaɲawiːnsi			
+54	54		chief	mtemi/chifu	+		mutwa		mutwa	mutuwa	mutuwa			mutwa	mutua			
+55	55		God	Mungu	+		ŋguluʋi		ŋguluʋi	ŋguluʋi	hwaŋguluvi			ŋguluʋi	ŋguluvi			
+56	56		sickness	ugonjwa	+		wutamwa		wutaːmwa	wutamwa	wutaːmwa			wutamwa	wutamwa			
+57	57		sore	kidonda	+		likoːŋo		liʋaːmba	litoːŋo	hivaːmba			hiʋaːmba	kikoːŋo			
+58	58		medicine	dawa	+		mugoda		mugoda	mugoda	mugoda			mgoda	daːʋa			
+59	59		body (human)	mwili	+		muvili		muʋiːli	muʋili	muvili			muʋili	muʋili			
+60	60		name	jina	+		litaːwa		litaːwa	litaːwa	litaːwa			litaːwa	litaːwa			
+61	61		wild animal	mnyama_(wa_porini)	+		likoːho		ŋoːko	mɲawa ja mudaːsi	ŋoho			hikanu	kikoːko			
+62	62		dog	mbwa	+		libwa		libuwa	libwa	libuwa			libwa	libwa			
+63	63	16	cat	paka	+	himugogo	limkoko	kimiːsi	kimiːsi	ɲawu	limisi	kimiːsi	limisi	ɲawu	kimiːsi	liːmisi	ɲawu/ʃimugogo	imisi
+64	64	24	elephant	tembo	+	lideːmbwe	ndeːmbwe	liteːmbo	lideːmbwe	lideːmbwe	lideːmbwe	ndeːmbwe	lideːmbwe	lideːmbwe	lideːmbwe	lideːmbwe	lideːmbwe	ndeːmbwe
+65	65	55	lion	simba	+	likoːho	litsuːxa	lisiːmba	ɲalupala	ɲalupala	liboːnzi	ɲalupala	liboːnsi	ɲalupala	lisiːmba	liboːnsi	ɲalupala	ɲalupala
+66	66		bat	popo	+		himbudiːmbudi		kimbudiːmbudi	limbudiːmbudi	himbudiːmbudi			linduliːnduli	kimbudiːmbudi			
+67	67		butterfly	kipepeo	+		lipuŋguluːsi		lipuŋguluːsi	lipuŋguluːsi	lipuŋgwuːsi			himbulujuːsi	lipuŋguluːsi			
+68	68	34	goat	mbuzi	+	mene	mmene	mmene	mmene	mene	mmene	immene	mmene	mmene	mmene	mmene	mmene	mene
+69	69	21	cow	ng'ombe	+	seːŋga	seːŋga	seːŋga	seːŋga	seːŋga	seːŋga	seːŋga	seːŋga	seːŋga	seːŋga	seːŋga	seːŋga	seːŋga
+70	70		bull	ng'ombe dume	+		likambaːho		likambaːko	likambaho	likhambaːho			likambaːxo	likambaːko			
+71	71		calf	ndama	+		hagwaːda		ndama	ndama	ndama			ndama	ŋgwaːda			
+72	72	18	chicken	kuku	+	ŋuːhu	ŋuːhu	ŋuːku	ŋuːku	iŋuhu	ŋuhu	ŋuːku	ŋuhu	ŋuːhu	ŋuːku	ŋuːhu	ŋuːhu	ŋuːhu
+73	73		cock/roooster	jogoo	+		litsogolo		liːtsogolo	litdʒogolo	litsogolo			koːŋgoʋi	liʋiːsi			
+74	74		bird	ndege	+		hadege		lidege	hidege	hidege			çideke	kidege			
+75	75		snake	nyoka	+		lioːxa		liːdʒoka	lijoːha	liːjoho			lidʒoxa	liːoka			
+76	76		fish	samaki	+		soːmba		soːmba	swi	soːmba			soːmba	soːmba			
+77	77	9	bee	nyuki	+	ntsuhi	ntsuhi	ntsuki	ntsuːki	ndʒuhi	ndsuhi	ntsuːki	ntsuhi	ntsuːxi	ntsuki	ntʃuhi	intsuhi	inzuhi
+78	78		head louse	chawa	+		lisosolo		lisosolo	lisosolo	lisosolo			sosolo	lisosolo			
+79	79	81	tree	mti	+	libihi	libihi	libiki	libiki	libihi	libihi	libiki	libiçi	libiçi	libiki	libiçi	libiçi	libihi
+80	80	6	bark (of tree)	gamba_(la_mti)	+	libaːnsi	gaːnda	ligola	likoːna	libandi	likoːna	likoːna	libaːntsi	magaːnda	libaːnsi	libaːnsi	libaːndu	ilibaːnzi
+81	81	54	leaf	jani_(la_mti)	+	lihamba	lihaːnso	likwati	lihaːnso	lituːndu	lihaːmba/lihanzo	likʷaːti	lihaːnso	lituːndu	likwaːti	lihaːnsi	lihaːmba	lituːndu
+82	82		branch (of tree)	tawi_(la_mti)	+		lipago		lipago	linagatʃi	lipago			limako	lipaːnda			
+83	83		shade (of tree)	kivuli_(cha_mti)	+		mwifuni		mwigiːsila	mwiŋgiːki	musiːho			mwisiːxo	mwiːfuɲi			
+84	84		walking stick	fimbo_(ya_kutembelea)	+		msaga		musagi	lusoːndʒo	musagi			msaka	musaga			
+85	85		root (of tree)	mzizi	+		lidela		mudela	iːdela	mudeːla			lileːla	mudandalitsi			
+86	86	69	seed	mbegu_(kwa_jumla)	+	mbeju	mbeju	mmbeju	mmbeju	mbeju	mbeːju	imbeju	mmbeju	mmbeju	mbeju	mmbeju	mmbeːju	mbeju
+87	87		grass	nyasi	+		lisoli		lisoli	lisoli	lisoli			lisoli	lisoli			
+88	88		flowers	maua_(ya_kupamba)	+		liluʋa		maua	maluʋa	vuluːva			mavuːva	wuluːva			
+89	89		thorn	mwiba	+		musuː6		mwiːfwa	musuː6	musuː6			mwiːfwa	lihomi			
+90	90	28	field	shamba	+	muguːnda	muguːnda	muguːnda	muguːnda	muguːnda	muguːnda	muguːnda	muguːnda	muguːnda	lilaʋa	muguːnda	muguːnda	muguːnda
+91	91	43	house	nyumba	+	kaːje	kaːje	kaːja	njuːmba	kaːje	kʰaːja	kaːja	kaːje	kaːja	kaːje	boːma	kaːje	ikaːje
+92	92		wall	ukuta	+		lukaːnsi		lukaːnsi	lukaːndʒi	lukaːnsi			lukaːnsi	lukaːnsi			
+93	93		village	kijiji	+		luʋala		kidʒidʒi	ikaːje	hidʒiːdʒi			hidʒiːdʒi	kidʒidʒi			
+94	94		path	njia	+		ŋaːsi		ŋaːsi	ŋaːsi	ŋaːsi			ŋaːsi	ŋaːsi			
+95	95		thing/object	kitu	+		hiːnu		kiːnu	hiːnu	ʃiːnu			hiːnu	kiːnu			
+96	96		rope	kamba	+		mutsitsi		mpiːŋgo	lutʃitʃi	mpiŋgo			mulegesi	mpiŋgo			
+97	97		thread	uzi	+		lusawula		lusawula	lusawulwa	lusawula			lusaʋulwa	lusawulwa			
+98	98		knot	kifundo	+		hihudiho		kihudiko	ihudiho	ʃihudiho			hihudiːho	kihuːndo			
+99	99	17	chair	kiti	+	hideːgo	hideːgo	kideːgo	kideːgo	hidego	ʃideːgo	kideːgo	hidego	hideːgo	kideːgo	hideːgo	higoda	hideːgo
+100	100	75	stool	kigoda/kiti cha	+	kienyeji	higoda	kideːgo	kideːgo	hidego	ʃideːgo	kideːgo	kigoda	hiɲalwaŋgula	kiɲawaŋgula	higoda	higoda	hideːgo
+101	101		salt	chumvi	+		muːɲo		muːnjo	muːɲo	muːnjo			muːɲo	muːɲo			
+102	102		finger millet	ulezi	+		wuletsi		wuletsi	wuletʃi	wuletsi			wuleːtsi	wuletsi			
+103	103		gruel	uji	+		wubaːga		wuːdʒi	wubaːga	wubaːga			wubaːga	wuhopi			
+104	104	46	hunger	njaa	+	ntʃala	ntsala	lipuːŋge	ntsaːla	ntʃala	ntsaːla	ntsala	ntsala	ntsala	ntsala	nsala	nzala	ntsala
+105	105		thirst	kiu	+		ŋeːlu		ŋelu	ŋelu	ndikʰelwiːhe			ŋeːlo	ŋeːlu			
+106	106		utensil	chombo	+		fikoːŋolo		fioːmbo	hitoːŋga	fiːnu			ʃioːmbo	kikoŋolo			
+107	107	66	cooking pot (clay)	chungu	+	hiʋia	hiʋia	kiʋia	kiʋia	hiʋia	ʃivia	kiʋiːa	hiʋia	çiʋia	kiːʋia	hiːʋia	hiʋia	hiːʋia
+108	108		burden, load (carried on head)	mzigo	+		mutsigo		mutsigo	mutdʒigo	mutsigo			mutsigo	mutsigo			
+109	109		iron/metal	chuma	+		çuːma		kiuma	ʃuːma	ʃuːha			ʃuːma	kiuːma			
+110	110		hoe	jembe	+		ligimilo		ligumilo	ligimilo	ligimilo			ligimilo	ligimilo			
+111	111	52	knife	kisu	+	himaːge	himaːge	kimaːge	kimaːge	himaːge	ʃimaːga	kimaːge	himaːge	himaːge	kimaːge	himaːge	himaːge	umumaːge
+112	112		big knife	panga	+		lipaːŋga		lipaːŋga	lipaːŋga	lipaːŋga			lipaːŋga	lipaːnŋga			
+113	113		dull (knife)	(kisu)_kibutu	+		ʃifuːpie		kiŋgajawuːgi	hibuːŋgifu	sihifjuːle			çiluːgi	kimtiːli			
+114	114		sharp (knife)	(kisu)_kikali	+		ʃimawuːgi		kinawuːgi	çuːgi	ʃinawuːgi			wuːgi	kina			
+115	115		axe	shoka	+		silaŋga		soːka/ŋgiːnda	eʋeːga	ŋgiːnda			ʋeːga	ŋgiːnda			
+116	116		spear	mkuki	+		mugoça		mugoha	mugoha	mugoha			mugoha	mugoha			
+117	117		arrow	mshale	+		wahila			ludibulo				ndibulo	lusale			
+118	118		hole	shimo	+		muliːndi		muliːndi	liliːndi	muliːndi			liliːndi	liliːndi			
+119	119		enemy	adui	+		mutaʋaːŋgu		adui	mutaʋaːŋgu	mubaja			wukaʋa	mtaʋaːŋgo			
+120	120		war	vita	+		magoça		fiːla	mugoha	ʃigoha			fiːta	magoha			
+121	121		fire (for cooking)/heat	moto	+		moːto		moːto	moːto	moːto			moːto	moːto			
+122	122		firewood	kuni	+		sagala		sagala	sagala	sagala			sagala	ʃagala			
+123	123		smoke	moshi	+		lioːsi		lijoːsi	lioːsi	lioːsi			lioːsi	lioːsi			
+124	124	3	ash(es) (ma)	jivu	+	lifiːnsa	lifiːnsa	kifu	kidʒeːŋge	lifiːndʒa	ʃeːŋge	kifu	lieŋge	lifiːnza	kifu	lieːŋge	lifiːnza	lifiːnsa
+125	125	61	night (time)	usiku	+	kilo	kilo	kilo	kiːlo	kiːlo	kilo	kilo	kilo	kiːlo	kilo	kiːlo	kilo	
+126	126		darkness	giza	+		wutiːtu		kiːsi	wutiːtu	hutiːtu			wutiːtu	kiːsi			
+127	127		moon	mwezi	+		mpalamwensi		mbalamuetsi	mueːdʒi	luvalamwetsi			luʋalamweːtsi	luʋalamweːtsi			
+128	128		month	mwezi	+					mueːdʒi	mweːtsi			mweːtsi	mwetsi			
+129	129		star	nyota	+		lutoːndwe		lutoːndwe	lutoːndwe	lutoːndwi			lutoːndwe	lutoːndwi			
+130	130		sun	jua	+		litsuʋa		litsuʋa	litdʒuʋa	litsuwa			litsuʋa	litsuʋa			
+131	131		daytime	mchana	+		pamuːɲi		muːɲi	muːɲ	muːɲi			muːɲ	pamuːɲi			
+132	132		today	leo	+		neːŋuli		leːlo	neːŋuni	ineːŋuni			ileːlo	neːŋuli			
+133	133		yesterday	jana	+		golo		golo	igolo	golo			igolo	gɔlɔ			
+134	134		tomorrow	kesho	+		ʃilaːo		kilawo	hilaːwu	ʃilaːwo			çilawo	kilaːwo			
+135	135	83	sky	anga/mbingu/juu	+	huʃaːɲa	wulaːŋga	kukiaːɲa	wulaːŋga	wulaːŋga	wulaːŋga	kukiaːɲa	ʃaːɲa	wulaːŋga	kukiaɲa	huʃaːɲa	huʃaːɲa	
+136	136		clouds	mawingu	+		mafuːndi		mafuːnde	mafuluxa	mafuːnde			mafuluxa	lifuːnde			
+137	137		wind (N)	upepo	+		ŋaːla		liʋelo	ŋaːla	immepo			mmepo	ŋaːla			
+138	138		rain (N)	mvua	+		ndoːɲa		ndoːɲa	ndoːɲa	ndoːnja			noːɲa	ndoːɲa			
+139	139		water	maji	+		luleːŋga		luleːŋga	luleːŋga	luleːŋga			luleːŋga	luleːŋga			
+140	140		river	mto	+		mukoga		luleːŋga	mukoga	mukoga			mukoga	luleːŋga			
+	141	53	lake	ziwa	+	ɲantsa	ɲaːnsa	litaːnda		lilaːmba	mukuo	kilaːmba	litsiːmba	ɲaːnsa			mukoga mukomi	litambaːtsi
+142	142		dew	umande	+		limetsi		limetsi	limetdʒi	limetsi			limetsi	limetsi			
+143	143		ice	barafu	+		ɲawuseʋe		maseʋe	likuŋguːku	maseve			ŋaːla	maseʋe			
+144	144		mountain	mlima	+		hiduːnda		kiduːnda	hiduːnda	ʃiduːnda			hiduːnda	kiduːnda			
+145	145	68	stone (fistsized)/rock	jiwe_(ukubwa_wa_kofi)	+	ligaːŋga	ligaːŋga	ligaːŋga	ligaŋga	likaːŋga	ligaːŋga	ligaːŋga	likaːŋga	ligaːŋga	ligaːŋga	ligaːŋga	ligaːŋga	ligaːŋga
+146	146		earth (soil)	udongo	+		liloːŋgo		mugaːŋga	liloːŋgo	mugaːŋga			lidope	mugaːŋga			
+147	147		sand	mchanga	+		mugaːŋga		muhaːŋga	muhaːŋga	muhaːŋga			muhaːŋga	luhaːŋga			
+148	148		dust	mavumbi	+		lifuːna		lufuːna	lifuːna	lufuːna			lifuːna	lufuna			
+149	149		year	mwaka	+		mwaːxa		mwaːka	mwaːha	mwaːha			mwaːha	mwaka			
+150	150		one (thing)	kimoja	+		himwiːŋga		kimwiŋga	lubiçi	ʃimwiːŋga			çimwiːŋga	kimwiːŋga			
+151	151		two (things)	viwili	+		viwili		fiʋili	tʃiʋili	fiwili			fiʋili	fiʋili			
+152	152		three	vitatu	+		fidatu		fidaːti	tʃidaːtu	fidaːtu			fidaːtu	fidatu			
+153	153		four	vinne	+		fitaji		fitaji	kitaji	fitaji			fitaji	fitaji			
+154	154		five	vitano	+		fihaːnu		fihaːnu	tʃihaːnu	fihaːno			fihaːnu	fihaːnu			
+155	155		six	sita	+		filimutaːnda		mtaːnda	tʃilimutaːnda	fimtaːnda			mutaːnda	filimtaːnda			
+156	156		seven	saba	+		filimufuŋati		mfuːŋgati	tʃilimfuŋati	finjikoːnza/mufuːŋati			mufuŋati	filimfuŋati			
+157	157		eight	vinane	+		filimunaːna		mnaːna	tʃilimunaːna	fimunaːna			munaːna	filimunaːna			
+158	158		nine	tisa	+		fiɲgoːnsa			ɲgoːndʒa				igoːnza	fiɲigoːnsa			
+159	159		ten	kumi	+		fiɲkumi		igoːnsa	ɲtʃumi	mufuŋati			litʃumi	fiɲikiumi			
+	160	39	hot (weather)	joto (hali ya hewa)	+		lifuhiːtse	lifuke	kupijo	lufuge	fuːha	kupio	ufuːgafu	mafuhe	mafuke	fuːgafu		hufe wunofu
+161	161	19	cold (weather)	baridi_(hali_ya_hewa)	+	ŋaːla	ŋaːla	ŋaːla	ŋaːla	ŋaːla	ŋaːla	ŋɑːla	ŋaːla	ŋaːla	ŋaːla	ŋaːla	ŋaːla	ŋaːla
+162	162		long (thing)	(kitu)_kirefu	+		ʃitaːli		kitaːli	hitaːli	ʃitali			hitaːli	kitaːli			
+163	163		short (thing)	(kitu)_kifupi	+		ʃifupi		kifupi	hifupi	ʃifupi			hifupi	kifupi			
+164	164		big (thing)	(kitu)_kikubwa	+		hikomi		kikomi	hikomi	ʃikʰomi			çikomi	kikomi			
+165	165		small (thing)	(kitu)_kidogo	+		hidebe		kidebe	hidebe	ʃidebe			hideːbe	kidebe			
+166	166		wide (path)	(njia)_pana	+		ŋgomi		ŋgomi	ŋgomi	ʃikʰomi			ŋgombi	ŋgomi			
+167	167		narrow (path)	(njia)_nyembamba	+		ndoːdo		ndebe	ɖoːɖo	ʃidebe			fiɲe	ndebe			
+168	168		heavy (thing)	(kitu)_kizito	+		hisito		kitsito	hisito	ʃitsiːto			çitsiːto	kisito			
+169	169		light (weight)	(kitu)_chepesi	+		hipeːfu		kiebepe	hipeːfu	hipeːfu			ʃebeːbe	kiebeːpe			
+170	170		difficult (test)	(mtihani)_mgumu	+		mkaːŋgafu		mgumu	mutalamu	mukafu			mutalamu	mtalamu			
+171	171		easy (test)	(mtihani)_rahisi	+		mpeːfu		rahisi	mpeːfu	ʃiebepe			mupeːfu	kiba			
+172	172		good (thing)	(kitu)_kizuri	+		hinofu		kinofu	hinoːfu	ʃinofu			çinofu	kinofu			
+173	173		bad (thing)	(kitu)_kibaya	+		hibaja		kibaja	hiʋiːfu	hitsafu/ʃibaja			çiʋiːʋi	kiwiːfu			
+174	174		left (side)	(upande_wa)_kushoto	+		huŋgi		kuːŋigi	huŋiːki	kuŋigi			kuŋiki	kuŋigi			
+175	175		right (side)	(upande_wa)_kulia	+		huːndio		kuːndio	hundio	kundio			huːndio	kuːndio			
+176	176		inside	ndani	+		mugati		mugati	mugati	hugati			mugati	mugati			
+177	177		outside	nje	+		hwiːʋala		kwiʋaːla	hwiʋala	hwiwala			hwiʋala	kwiʋala			
+178	178		far	mbali	+		hutaːli		kutaːli	hutaːli	hutaːli			kwaːli	kutaːli			
+179	179	60	near	karibu	+	biːhi	biːhi	piːpi	piːpi	biːhi	biːhi	piːpi		biːhi	biːhi		biːhi	biːhi
+180	180		new (thing)	(kitu)_kipya	+		hipia		mpja	hipia	ʃipia			hipia	kipja			
+181	181		all (things)	vitu_(vyote)	+		fioːnda		fioːnda	fioːnda	fioːnde			fioːnda	fioːnda			
+182	182		many (things)	vitu_(vingi)	+		fiolofu		fiolofu	fioloːfu	fioŋoː6			fioloːfu	fiolofu			
+183	183		few (things)	vitu_(vichache)	+		fikeːfu		fikeːfu	fikeːfu	fidebe			fikeːfu	fikeːfu			
+184	184		red (thing)	kitu_(chekundu)	+		hiduːŋu		duːŋu	hiduŋu	ʃiduːŋu			çiduːŋu	kiduːŋu			
+185	185		black (thing)	kitu_(cheusi)	+		hitiːtu		kitiːtu	hitiːtu	ʃitiːtu			çitiːtu	kitiːtu			
+186	186		white (thing)	kitu_(cheupe)	+		ʃeːlu		kiʋalafu	hieːlu	ʃivalafu			ʃeːlu	kiʋalafu			
+187	187		who?	nani?	+		ani		ani	naːni	ani			naːni	ani			
+188	188		why?	kwa nini?	+		wuliːwuli		utiːtewuli	aŋgewuli	hwawuli			ʃeːçiçi	wuli			
+189	189		what?	nini?	+		ʃiʃi		kiːki	hihi	ʃiːʃi			çiːçi	kiki			
+190	190		dirty (clothes)	(nguo)_chafu	+		ntsafu		mtsafu	likoji	patsafu			ntsafu	gulamile			
+191	191		rotten (fruit)	tunda_(bovu)	+		liwoːfu		liwofu	liwoːfu	liwuolile			wolile	liwoːfu			
+192	192		dry (cloth)	kitambaa_(kikavu)	+		hilagalafu		kigaːmu	hikaːŋgafu	ʃigaːmu			çilagafu	kihaŋgalafu			
+193	193		wet (cloth)	kitambaa_(chenye_majimaji)	+		hidodi		kidodi	ɲaluleːŋga	ʃidodi			çitomile	kinɲaːfu			
+194	194		full (bottle)	(chupa)_imejaa	+		imemile		kimemile	jimemile	imemile			jimemile	jimemile			
+195	195		sit	amekaa kitako/kaa!	+		ikalile		iːkalile	akoŋome	utaːmile			iːkalile	kitendileme wikale			
+196	196a	73a	stand up (3rd Sg)	amesimama_(3PSg)	+	wime	wiːme	wiːme	wime	wiːme	wuiːme	wiːme		wime			wiːme	wiːme
+	196b	73b	stand up (Imp)	simama! (Imp)			iːmile		iːmile	iːmile	iːmile			iːmile	iːmile			
+198	197		sleep	amelala_(usingizi)/lala!	+		agonelie		agonile	agoneːlie	agonile			agoneːlie	agonelie			
+199	198		awaken	ameamka/amka!	+		asisimwihe		alamuwike	alamuwiːhe	alamwuihe			alamwiːhe	alamwiːke			
+200	199		ask for sthg.	anaomba_(kitu)/omba!	+		iɲiliha		iŋilika	aɲilihi	injiliha			ɲilixa	iːɲlika			
+201	200		bring	analeta_(kitu)/leta!	+		ileːta		ileːta	ileːta	ahumeːla			ileːta	ileːta			
+202	201		get/obtain	anapata_(kitu)	+		iːpata		ndikwaːnuka	aːnuçie	ahumpeːla			apeʋiːlwe	iːpata			
+203	202		take	amechukua_(kitu)/chukua!	+		ategwe		ategue/aɲamue	ateguwe	agedʒile							
+204	203		carry (child on back)	amebeba/beba!	+		abaːbie		abaːpile	abaːbile	abaːbile							
+205	204		hold	ameshika/shika!	+		akoleːlie		akamue	akolie	akamwe							
+206	205		sell	anauza/uza!	+		ligutsa		ligutsa	igutʃa	iguːtsa							
+207	206		buy	ananunua/nunua!	+		iːgula		iːgula	iːgula	iːgula							
+208	207		fear (V)	anaogopa/ogopa!	+		iːhogopa		iːkoːgopa	ihoːgopa	ihogopa							
+209	208		give (him)	anampa/umpe!	+		ampeːla		akumpeːla	ampeːla	ahumpeːla							
+210	209		send (him)	anamtuma/umtu me!	+		amutuma		mgumutuma	atumiːlwe	ahumuseːŋa							
+211	210		bite (V)	anauma/uma!	+		iːluma		iːluma	iwawa	iːluma							
+212	211		eat	anakula/kula!	+		iːlja		iːlia	iːlja	iːlia							
+213	212		drink (V)	anakunywa/kuny wa!	+		iːɲwa		iːɲuwa	iːɲwa	iːnjuwa							
+214	213		boil (water)	anachemsha maji/chemsha!	+		ipuː6a		iːpjuː6a	atelihe	iːpjuːfja							
+215	214		pour	amemimina/mim ina!	+		isoːpa		alafiːtse	iːpuŋgula	asuhuwe							
+216	215		vomit	anatapika/tapika!	+		ideːha		ideːka	ideːha	iːdeːha							
+217	216		cough	anakohoa/kohoa!	+		igohomola		iːgohomala	igohomola	iːgohomola							
+218	217		sneeze	anapiga chafya/piga chafya!	+		itiasaːmula		iːtiasaːmula	itjasamula	iːtjasaːmula							
+219	218		breathe	anapumua/pumu a!	+		iːhweheːla		iːkweheːla	ihwehela	iːhweheːla							
+220	219		suck (baby)	ananyonya/nyon ya!	+		iːhoːŋa		iːkoŋa	ihoːŋa	ihoːŋa							
+221	220		spit	anatema mate/tema mate!	+		ifuːɲa		ifuːɲa	ifuːɲa	ifuːnja mati							
+222	221		blow (wind)	(upepo)_unavuma	+		jipuːla		jipuːla	jipuːla	ʃipula ŋaːla							
+223	222		blow (person)	(mtu)_anapuliza/puliza!	+		iːpuːla		ipuːla	ipuːla	ipuːlila							
+224	223		whistle (V)	anapiga mluzi/piga mluzi!	+		iːpeːmba		ipeːmba	ipeːmba	iːpeːmba							
+225	224		yawn	anapiga miayo/piga miayo!	+		iːhwahaːmula		ikwahaːmula	ihwahamula	ihwahaːmula							
+226	225		sing	anaimba_(wimbo)/imba!	+		ihwiːmba		iwuŋga	ihwiːmba	iːhwiːmba							
+227	226		play (child)	(mtoto)_anacheza/cheza!	+		iːkina		iːkina	iːkina	iːkina							
+228	227		dance	anacheza ngoma/cheza ngoma!	+		iːkina ŋgoma		iːkina ŋgoma	iːkina ŋgoma	iːkina ŋgoma							
+229	228		laugh	anacheka/cheka!	+		iːheha		iːheka	iːheha	iːheha							
+230	229		cry (child)	(mtoto)_analia/lia!	+		iweːmba		iveːmba	iʋeːmba	iːweːmba							
+231	230		bark (dog)	(mbwa)_anabweka/bwek a!	+		jiwaːga		liʋaːga	jiʋaːga	liːŋaŋa							
+232	231		say	anasema/sema!	+		itsoʋa		iːtsoʋa	iloːŋga	iːtsova							
+233	232		ask (question)	anauliza_(swali)/uliza!	+		iwuːtsa		iːwuːtsa	iwuːtdʒa	iwuːtsa							
+234	233		look	at anatazama/taza ma!	+		iːlola		iːlola	iːlola	iːlola							
+235	234		show (V)	anaonyesha_(kitu)/onyesha!	+		iːlagila		iːlaga	ilagila	iːlaga							
+236	235		hear	anasikia_(sauti)/sikia!	+		iːpuliha		iːpulika	iːpuliha	iːpwiha							
+237	236		die	anakufa	+		iːfwa		iːfwa	afwe	iːfwa							
+238	237		know	anajua	+		itseːla		alumaɲile	ihweleʋa	amanjile							
+239	238		count (V)	anahesabu/hesab u!	+		iʋalila		iːʋalila	iʋalila	iːvalila							
+240	239		want/like	anapenda	+		ikeːla/idoboha		iːkeːla	idoboha	iːkʰeːla							
+241	240		help (V)	anasaidia/saidia!	+		itaːŋga		iːtaːŋga	iːtaŋgilitdʒa	iːtaːŋga							
+242	241		walk (V)	anatembea/temb ea!	+		igeːnda		igeːnda	igeːnda	igeːnda							
+243	242		run (V)	anakimbia/kimbi a!	+		iːɲla		iːɲila	iɲla	iːnjila							
+244	243		pull (rope)	anavuta_(kamba)/vuta!	+		iːkwega		iːkwega	ikweːga	iːkwega							
+245	244		come	anakuja/njoo!	+		ihwaːtsa		iːkwatsa	ihwatdʒa	ihwatsa							
+246	245		leave (V)	ameondoka/ond oka!	+		ahegile		ahegile	ahegile	ahegile							
+247	246		fall (V)	anaanguka/angu ka!	+		iːgwa		iːgwa	agwe	iːgwa							
+248	247		turn (V)	anageuka/geuka!	+		iːpituha		iːseːduka	ipituha	iːseːduha							
+249	248		burn (sthg)	anachoma/chom a!	+		iːɲaːɲa		iːɲaɲa	iɲaːɲa	injaːnja							
+250	249		bury (people)	anazika_(mtu)/zika!	+		isiːla		isiːla	isiːla	iːsila							
+251	250		dig (in the field)	anachimba_(shambani)/chim ba!	+		iːgima		iːgima	iːgima	iːgima							
+252	251		weed (V-by hand)	anapalilia/palilia!	+		ikaːtila		iːkaːtila	iːkaːtila	ikaːtila							
+253	252		plant (V)	anapanda/panda!	+		ijaːla		iːjaːla	ijaːla	iːjala							
+254	253		harvest (V)	anavuna/vuna!	+		isogola		iːsogola	ikuːndʒa	ivaːmbula							
+255	254		grind	anasaga/saga!	+		iːhaːlula		iːhalula	ihaːnula	iːhamla							
+256	255		hunt (V)	anawinda/winda!	+		ifwiːma		iːfwiːma	ifwiːma	iːfwiːma							
+257	256		cultivate	analima/lima!	+		iːlima		iːlima	iːlima	iːlima							
+258	257		work (V)	anafanya kazi/fanya kazi!	+		iːpagala		iːfanjakazi	iːlima malimo	iːfania							
+259	258		build (house)	anajenga_(nyumba)/jenga!	+		iːtseːŋga		iːtseŋga	idʒeːŋga	iːtseːŋga							
+260	259		push (V)	anasukuma/suku ma!	+		iːdima		iːdima	isuŋanitdʒa	iːdima							
+261	260		make	anatengeneza/te ngeneza!	+		iwuiapa		iːtengeneza	igelanidʒa	iːwujapa							
+262	261		sew	anashona/shona!	+		iːhona		iːhona	iːhona	iːhona							
+263	262		throw	anatupa/tupa!	+		iːtaːga		iːtaga	itaːga	iːkuga							
+264	263		hit (V)	anapiga/piga!	+		iːtoʋa		iːtoʋa	iːtoʋa	iːtova							
+265	264		slaughter (V)	anachinja/chinja!	+		iːdumula		iːhinsa	idumula	iːdumla							
+266	265		cut (horizontally, e.g., a tree)	anakata_(mti)/kata!	+		iheːŋga		iːdumula	iheːŋga	iːnjeːnja							
+267	266		wash (V)	anasafisha_(vyombo)/safish a!	+		ihogofia		ihogofja	ikalafia	iːkalafja							
+268	267		hide (V)	anaficha_(kitu)/ficha!	+		iː6ha		iː6ha	iː6ha	iː6ha							
+269	268		marry (of man)	anaoa	+		itoːla		itoːla	itoːla	iːtoːla							
+270	269		steal	anaibaiba!	+		ihiːtsa		ihiːtsa	ihiːdʒa	ihiːtsa							
+271	270		kill (V)	anaua/ua!	+		iːkʰoma		iːkoma	iːkoma	iːkʰona							
+272	271		stab	anachoma_(kwa_kisu)/choma!	+		iːhoma			iːhoma	iːhoma							
+273	272		fly (of bird)	anaruka/ruka!	+		itsuːmba		iːguluka	itʃuːmba	iːtsuːmba							
+274	273		go in	anaingia/ingia!	+		ihwiːŋgila		iːkwiŋgiːla	ihwiːŋgila	iːhwiːŋgila							
+275	274		go out	anatoka/toka!	+		iːhuma		iːhuma	iːhuma	iːhuma							
+276	275		move (V)	anahama/hama!	+		ihaːma		iːhama	ihaːma	iːhega							
+277	276		return (V)	anarudi/rudi!	+		ipiluha		iːpiluka	ipiluha	iːgomoha							
+278	277		dream (V)	anaota ndoto/ota ndoto!	+		iloːta		iluluːta	iloːta maloːto	iːloːta							
+279	278		coagulate (of blood)	(damu)_imeganda	+		jigimile		iːgimile	jigimile	ifiːmbile							
+280	279		make offerings to the dead	anatambika/tam bika	+		ifuːɲa		iːfuɲa	ifuːɲa	iːtʰehela							
+281	280		mix (V)	anachanganya/c hanganya!	+		ihaːnsa		iːtimbula	iluːŋga	iːhansa							
+282	281		open (V)	anafungua_(mlango)/fungua!	+		idiːndula		idiːndula	idiːndula	idiːndula							
+283	282		close (V)	anafunga_(mlango)/funga!	+		idiːnda		idiːnda	idiːnda	idiːnda							
+284	283		remember	anakumbuka/ku mbuka!	+		ihwihwuːha		iːkwiːwuka	ihwiwuha	iːwihe							
+285	284		forget	anasahau/sahau!	+		iseːmwa		aseːmiːlwe	iseːmwa	iːseːmwa							
+286	285		answer (V)	anajibu_(swali)/jibu!	+		iganula		ʋidiŋine	iːhiga	ihwidiha							
+287	286		break (V)	anavunja/vunja!	+		iːkoma		iːdeɲa	ipadʒula	iːmenjula							
+288	287		cover (up)	anafunika/funika!	+		iːgubiha		igubika	agubiçie	iːgubiha							
+289	288		bring up a child	analea_(mtoto)/lea!	+		ikoːŋga		iːkoŋga	ikoːŋga	iːkoŋga							
+290	289		follow	anafuata/fuata!	+		ifuaːta		iːfuata	ihelela	wiloŋwitse							
+291	290		get lost	amepotea_(njiani)/potea!	+		ajagile		ajagile	ajagile	ajagile							
+292	291		stir (V)	anakoroga/korog a!	+		itiːmbula		itimbula	isaːŋga	itiːmbula							
+293	292		knock (V)	anagonga_(mlango)/gonga!	+		ikoŋoːna		iːkoŋona	iːtoʋa	ihodetsa							
+294	293		take leave	anaaga/aga!	+		ahwilaga		ahwitawula	ihwiːlaga	ahwiːlaga							
+295	294		swallow (V)	anameza/meza!	+		iːmila		iːmila	iːmila	iːmila							
+296	295		lick	analamba/lamba!	+		inaːʋa		iːnaːʋa	inaːla	iːmiaŋga							
+297	296		sniff	ananusa/nusa!	+		inuːsa		iːnusa	inuːsa	iːfutiːla							
+298	297		kneel	anapiga magoti/piga magoti!	+		ifugama		iːfugama	ifugama	afugiːme							
+299	298		bathe	anaoga/oga!	+		ikalaʋa		iːkoːga	ikalaʋa	iːkalava							
+300	299		stop doing	anaacha/acha!	+		ibiçila		iːbihila	ahululeha	ahwilehela							
+301	300		scratch oneself	anajikuna	+		ihwiːhuːʋa		akwiːkapa	ahwiːhuʋa	ahwiːkapu							
+302		1	ant	siafu	+	ɲalafu		lihalafu				lihalafu						
+303		4	ball	mpira	+	mpila		mpira deni				mpira						
+304		5	bamboo	mwanzi	+	lilaːsi		lilɑːsi				lilaːsi						
+305		7	basket	kikapu	+	ndilo		kikoːndo/ndiːlo				kikoːndo/ndiːlo						
+306		8	bean	haragwe	+	doːki		mbwaːnda				mbwaːnda						
+307		11	begin	kuanza	+	huʋaːŋga		kuʋaːŋga				kuvaːŋga						
+308		13	book	kitabu	+	ihaːte		lihaːmba/haːte				ihaːte						
+309		15	case	kesi	+	noːŋgwa		noːndwa				noːŋgwa						
+310		20	corn	mahindi	+	litsebele		matʃebele				matsebele						
+311		22	door	mlango	+	lwuiːtsi		lwuiːtsi				lwiːtsi						
+312		27	eyelid	kibukio cha jicho	+			kiːho										
+313		30	(n) forest	pori(ni)	+	hwikuːŋu		kudaːsi				daːsi						
+314		31	fox	mbwa mwitu	+	likeheʋa		likeːʋe				likeːkeʋa						
+315		32	frog	chura	+	liŋgodofu		liuːla				liula						
+316		35	goodness	uzuri	+	wunofu		wunofu				wunofu						
+317		36	grandmother	bibi	+	paːpa		paːpa				paːpa						
+318		37	happiness	furaha	+	lukeːlo		lukeːlo				lukheːlo						
+319		38	hate	chukia	+	huʋiːpa		ligoːga				kuʋiːpa						
+320		40	help (N)	msaada	+	lutaːŋgo		lutaŋgo				lutʰaːŋgo						
+321		41	herd	kundi la wanyama	+	lupiːŋga		kipiːŋga				lupiːŋga						
+322		42	here	hapa	+	baːha		apa				apʰa						
+323		44	hundred	mia	+	ligana limwiːŋga		ligana				ligana limwiːŋga						
+324		45	thousand	elfu	+	mbilima		mbilima imwinga				mbilima jimwiŋga						
+325		48	insect	mdudu	+	ligoːŋgoli		kikɔːko				kikʰoːkʰo						
+326		49	journey	safari	+	lugeːndo		lugeːndo				lugeːndo						
+327		50	Bena	Kibena	+	hibena		kibena				kibena						
+328		51	grain bin	kihenge	+	hisaːntsi		kisaːntʃi				kisaːnsi						
+329		56	locust	nzige	+	nɖeːɖe		maːnsi				maɖeːɖe						
+330		58	money	pesa	+	ligobeli		mapesa				kʲuma/lipeːsa						
+331		59	mosquito	mbu	+	ntsuguni		kimugege				limugege						
+332		62	Njombe	Njombe	+	Huntsoːmbe		Kuntsombe				Intsoːmbe						
+333		64	pain	maumivu	+	wuʋaː6		wuʋaː6				umuwaː6						
+334		65	pity	huruma	+	lusuːŋgu		lusuːŋgu				lusuːŋgu						
+335		67	potato	kiazi	+	lijawo		lijawo				ilijawo						
+336		70	sheep	kondoo	+	ŋgoːnde		ŋgoːnde				iŋolo						
+337		71	shoe	kiatu	+	hilaːtu		kilaːto				kilaːto						
+338		72	us	sisi	+	uhweːhwe		neːfwe				uneːfwe						
+339		73	song	wimbo	+	luwiːmbo		lwiːmbo				lwiːmbo						
+340		76	sunflower	alizeti	+	lindeːndele		baŋgamajeːje				ibaŋgajeːje						
+341		77	sweet potato	kiazi kitamu	+	lijawo		lijawo				liawo						
+342		78	teacher	mwalimu	+	mwuigitsi		mwiganitsi				muwulaniːtsi						
+343		79	trick (V)	kudanganya	+	mudeːsi		kutsaːŋga				kutsaːŋga						
+344		80	town	mji	+	mutsiːni		mudiːni				iːɲi						
+345		82	truth	ukweli	+	ndaʃieːne		lwandakiene				ulwakoːlwi						
+346		85	wasp	nyigu	+	lindeːmbwe		matendeːfwa				lindendeːfwa						
+347		86	you can	unaweza	+	hwiweːsa		ndiweːsa				ndiʋeːsa						
+348		87	all the people	watu wote	+	aʋaːnu woːnda		ʋaːnu ʋoːnta				aʋaːnu woːnda						
+349		88	our cow	ng'ombe wetu	+	seːŋga tseːsu		seːŋga ja ʋiːsu				seːŋga tsɪːsu						
+350		89	our fields	mashamba yetu	+	miguːnda geːsu		miguːnda ja ʋiːsu				miguːnda gɪːsu						
+351		90	our chair	kiti chetu	+	hidego ʃeːsu		kidego kia ʋiːsu				kidego kɪːsu						
+352		91	our chairs	viti vyetu	+	fidego fieːsu		fidego fia ʋiːsu										
+353		92	our trees	miti yetu	+	mabihi geːsu		mabiki ga ʋisu										
+		93	this my chair	kiti hiki changu		ihideːgo ihi ʃaːŋgu		kideːgo iki kiaŋgu										
+		94	up			huʃaːɲa		kukiaːɲa				kukiaːɲa						
