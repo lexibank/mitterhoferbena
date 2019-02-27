@@ -27,7 +27,8 @@ class Dataset(BaseDataset):
 
     def cmd_download(self, **kw):
         """
-        Download files to the raw/ directory. You can use helpers methods of `self.raw`, e.g.
+        Download files to the raw/ directory. You can use helpers methods of
+        `self.raw`, e.g.
 
         >>> self.raw.download(url, fname)
         """
@@ -35,7 +36,7 @@ class Dataset(BaseDataset):
 
     def split_forms(self, item, value):
         value = self.lexemes.get(value, value)
-        return [self.clean_form(item, form) for form in [value]]
+        return [self.clean_form(item, form) for form in value.split('/')]
 
     def cmd_install(self, **kw):
         """
@@ -54,8 +55,7 @@ class Dataset(BaseDataset):
 
         header, rest = csv[0], csv[1:]
         idx = 1
-        
-        
+
         with self.cldf as ds:
             D = {0: ['doculect', 'concept', 'form']}
             for line in rest:
@@ -76,8 +76,8 @@ class Dataset(BaseDataset):
 
             ds.add_sources(*self.raw.read_bib())
             ds.add_languages(id_factory=lambda l: l['Name'])
-            for idx, language, concept, form in wl.iter_rows('doculect',
-                    'concept', 'form'):
+            for idx, language, concept, form in \
+                wl.iter_rows('doculect', 'concept', 'form'):
                 for row in ds.add_lexemes(
                         Language_ID=language,
                         Parameter_ID=slug(concept),

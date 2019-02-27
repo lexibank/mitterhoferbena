@@ -16,15 +16,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb",
-                "concepticon_version": "pyconcepticon-1.4.0-63-g85acb1f"
+                "glottolog_version": "pyglottolog-1.2.1-135-gce9d923",
+                "concepticon_version": "pyconcepticon-1.4.0-80-g9ff47e3"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 2005,
+            "dc:extent": 2017,
             "tableSchema": {
                 "columns": [
                     {
@@ -51,7 +51,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
+                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
                         "required": true,
                         "name": "Value"
                     },
