@@ -23,14 +23,14 @@ Makanjaula-eyebrow-1,,Makanjaula,eyebrow,ŋoːpe,ŋoːpe,ŋ oː p e,,Mitterhofer
 Ujindile-eyebrow-1,,Ujindile,eyebrow,ŋuːmbi,ŋuːmbi,ŋ uː m b i,,Mitterhofer2013,,false
 Ukalawa-eyebrow-1,,Ukalawa,eyebrow,ŋuːmbi,ŋuːmbi,ŋ uː m b i,,Mitterhofer2013,,false
 Utalingoro-eyebrow-1,,Utalingoro,eyebrow,ŋuːmbi,ŋuːmbi,ŋ uː m b i,,Mitterhofer2013,,false
-Utengule-eyebrow-1,,Utengule,eyebrow,ŋuː6,ŋuː6,ŋ uː 6,,Mitterhofer2013,,false
+Utengule-eyebrow-1,,Utengule,eyebrow,ŋuː6,ŋuː6,ŋ uː <?>,,Mitterhofer2013,,false
 Wangama-eyebrow-1,,Wangama,eyebrow,ŋuːmbi,ŋuːmbi,ŋ uː m b i,,Mitterhofer2013,,false
-Ikuna-ear-1,,Ikuna,ear,lisiːhitsa,lisiːhitsa,l i s iː h i t s a,,Mitterhofer2013,,false
-Itipula-ear-1,,Itipula,ear,liːtwi,liːtwi,l iː t w i,,Mitterhofer2013,,false
-Kanamalenga-ear-1,,Kanamalenga,ear,lisiːhidʒa,lisiːhidʒa,l i s iː h i d ʒ a,,Mitterhofer2013,,false
-Liwengi-ear-1,,Liwengi,ear,libulugutu/lisiːhidza,libulugutu/lisiːhidza,l i b u l u g u t u / l i s iː h i d z a,,Mitterhofer2013,,false
-Ujindile-ear-1,,Ujindile,ear,lisiːçitsa,lisiːçitsa,l i s iː ç i t s a,,Mitterhofer2013,,false
-Ukalawa-ear-1,,Ukalawa,ear,litwi,litwi,l i t w i,,Mitterhofer2013,,false
+Ikuna-ear-1,,Ikuna,ear,lisiːhitsa,lisiːhitsa,l i s iː h i ts a,,Mitterhofer2013,,false
+Itipula-ear-1,,Itipula,ear,liːtwi,liːtwi,l iː tw i,,Mitterhofer2013,,false
+Kanamalenga-ear-1,,Kanamalenga,ear,lisiːhidʒa,lisiːhidʒa,l i s iː h i dʒ a,,Mitterhofer2013,,false
+Liwengi-ear-1,,Liwengi,ear,libulugutu/lisiːhidza,libulugutu/lisiːhidza,<???>,,Mitterhofer2013,,false
+Ujindile-ear-1,,Ujindile,ear,lisiːçitsa,lisiːçitsa,l i s iː ç i ts a,,Mitterhofer2013,,false
+Ukalawa-ear-1,,Ukalawa,ear,litwi,litwi,l i tw i,,Mitterhofer2013,,false
 Ikuna-mouth-1,,Ikuna,mouth,mulomo,mulomo,m u l o m o,,Mitterhofer2013,,false
 Itipula-mouth-1,,Itipula,mouth,mulomo,mulomo,m u l o m o,,Mitterhofer2013,,false
 Kanamalenga-mouth-1,,Kanamalenga,mouth,mulomo,mulomo,m u l o m o,,Mitterhofer2013,,false
@@ -55,11 +55,11 @@ Kanamalenga-chin-1,,Kanamalenga,chin,hilefu,hilefu,h i l e f u,,Mitterhofer2013,
 Liwengi-chin-1,,Liwengi,chin,hileːfu,hileːfu,h i l eː f u,,Mitterhofer2013,,false
 Ujindile-chin-1,,Ujindile,chin,hilefu,hilefu,h i l e f u,,Mitterhofer2013,,false
 Ukalawa-chin-1,,Ukalawa,chin,kilefu,kilefu,k i l e f u,,Mitterhofer2013,,false
-Ikuna-beard-1,,Ikuna,beard,nuːtsa,nuːtsa,n uː t s a,,Mitterhofer2013,,false
+Ikuna-beard-1,,Ikuna,beard,nuːtsa,nuːtsa,n uː ts a,,Mitterhofer2013,,false
 Itipula-beard-1,,Itipula,beard,ndeːfu,ndeːfu,n d eː f u,,Mitterhofer2013,,false
-Kanamalenga-beard-1,,Kanamalenga,beard,nuːtdʒa,nuːtdʒa,n uː t d ʒ a,,Mitterhofer2013,,false
+Kanamalenga-beard-1,,Kanamalenga,beard,nuːtdʒa,nuːtdʒa,n uː t dʒ a,,Mitterhofer2013,,false
 Liwengi-beard-1,,Liwengi,beard,ʃinuːndza,ʃinuːndza,ʃ i n uː n d z a,,Mitterhofer2013,,false
-Ujindile-beard-1,,Ujindile,beard,nuːtsa,nuːtsa,n uː t s a,,Mitterhofer2013,,false
+Ujindile-beard-1,,Ujindile,beard,nuːtsa,nuːtsa,n uː ts a,,Mitterhofer2013,,false
 Ukalawa-beard-1,,Ukalawa,beard,ndefu,ndefu,n d e f u,,Mitterhofer2013,,false
 Ikuna-tooth-1,,Ikuna,tooth,liːno,liːno,l iː n o,,Mitterhofer2013,,false
 Itipula-tooth-1,,Itipula,tooth,liːno,liːno,l iː n o,,Mitterhofer2013,,false
@@ -67,24 +67,24 @@ Kanamalenga-tooth-1,,Kanamalenga,tooth,liːno,liːno,l iː n o,,Mitterhofer2013,
 Liwengi-tooth-1,,Liwengi,tooth,liːno,liːno,l iː n o,,Mitterhofer2013,,false
 Ujindile-tooth-1,,Ujindile,tooth,liːno,liːno,l iː n o,,Mitterhofer2013,,false
 Ukalawa-tooth-1,,Ukalawa,tooth,liːno,liːno,l iː n o,,Mitterhofer2013,,false
-Ikuna-tongue-1,,Ikuna,tongue,lumiaːŋgo,lumiaːŋgo,l u m iaː ŋ g o,,Mitterhofer2013,,false
-Itipula-tongue-1,,Itipula,tongue,lumwili,lumwili,l u m w i l i,,Mitterhofer2013,,false
+Ikuna-tongue-1,,Ikuna,tongue,lumiaːŋgo,lumiaːŋgo,l u m i aː ŋ g o,,Mitterhofer2013,,false
+Itipula-tongue-1,,Itipula,tongue,lumwili,lumwili,l u mw i l i,,Mitterhofer2013,,false
 Kanamalenga-tongue-1,,Kanamalenga,tongue,lulimi,lulimi,l u l i m i,,Mitterhofer2013,,false
 Liwengi-tongue-1,,Liwengi,tongue,lulime,lulime,l u l i m e,,Mitterhofer2013,,false
 Ujindile-tongue-1,,Ujindile,tongue,luliːmu,luliːmu,l u l iː m u,,Mitterhofer2013,,false
 Ukalawa-tongue-1,,Ukalawa,tongue,lumili,lumili,l u m i l i,,Mitterhofer2013,,false
-Ikuna-head-1,,Ikuna,head,mutwe,mutwe,m u t w e,,Mitterhofer2013,,false
+Ikuna-head-1,,Ikuna,head,mutwe,mutwe,m u tw e,,Mitterhofer2013,,false
 Itipula-head-1,,Itipula,head,mutuwe,mutuwe,m u t u w e,,Mitterhofer2013,,false
 Kanamalenga-head-1,,Kanamalenga,head,mutuwe,mutuwe,m u t u w e,,Mitterhofer2013,,false
 Liwengi-head-1,,Liwengi,head,mutuwe,mutuwe,m u t u w e,,Mitterhofer2013,,false
-Ujindile-head-1,,Ujindile,head,mutwe,mutwe,m u t w e,,Mitterhofer2013,,false
-Ukalawa-head-1,,Ukalawa,head,mutwe,mutwe,m u t w e,,Mitterhofer2013,,false
-Ikuna-hairhuman-1,,Ikuna,hairhuman,fwiːli,fwiːli,f w iː l i,,Mitterhofer2013,,false
-Itipula-hairhuman-1,,Itipula,hairhuman,fwiːli,fwiːli,f w iː l i,,Mitterhofer2013,,false
-Kanamalenga-hairhuman-1,,Kanamalenga,hairhuman,fwiːli,fwiːli,f w iː l i,,Mitterhofer2013,,false
-Liwengi-hairhuman-1,,Liwengi,hairhuman,fwili,fwili,f w i l i,,Mitterhofer2013,,false
-Ujindile-hairhuman-1,,Ujindile,hairhuman,fwiːli,fwiːli,f w iː l i,,Mitterhofer2013,,false
-Ukalawa-hairhuman-1,,Ukalawa,hairhuman,fwiːli,fwiːli,f w iː l i,,Mitterhofer2013,,false
+Ujindile-head-1,,Ujindile,head,mutwe,mutwe,m u tw e,,Mitterhofer2013,,false
+Ukalawa-head-1,,Ukalawa,head,mutwe,mutwe,m u tw e,,Mitterhofer2013,,false
+Ikuna-hairhuman-1,,Ikuna,hairhuman,fwiːli,fwiːli,fw iː l i,,Mitterhofer2013,,false
+Itipula-hairhuman-1,,Itipula,hairhuman,fwiːli,fwiːli,fw iː l i,,Mitterhofer2013,,false
+Kanamalenga-hairhuman-1,,Kanamalenga,hairhuman,fwiːli,fwiːli,fw iː l i,,Mitterhofer2013,,false
+Liwengi-hairhuman-1,,Liwengi,hairhuman,fwili,fwili,fw i l i,,Mitterhofer2013,,false
+Ujindile-hairhuman-1,,Ujindile,hairhuman,fwiːli,fwiːli,fw iː l i,,Mitterhofer2013,,false
+Ukalawa-hairhuman-1,,Ukalawa,hairhuman,fwiːli,fwiːli,fw iː l i,,Mitterhofer2013,,false
 Ikuna-neck-1,,Ikuna,neck,siːŋgo,siːŋgo,s iː ŋ g o,,Mitterhofer2013,,false
 Itipula-neck-1,,Itipula,neck,siːŋgo,siːŋgo,s iː ŋ g o,,Mitterhofer2013,,false
 Kanamalenga-neck-1,,Kanamalenga,neck,isiːŋgo,isiːŋgo,i s iː ŋ g o,,Mitterhofer2013,,false
@@ -114,11 +114,11 @@ Kanamalenga-leg-1,,Kanamalenga,leg,ligulu,ligulu,l i g u l u,,Mitterhofer2013,,f
 Liwengi-leg-1,,Liwengi,leg,ligulu,ligulu,l i g u l u,,Mitterhofer2013,,false
 Ujindile-leg-1,,Ujindile,leg,ligulu,ligulu,l i g u l u,,Mitterhofer2013,,false
 Ukalawa-leg-1,,Ukalawa,leg,ligulu,ligulu,l i g u l u,,Mitterhofer2013,,false
-Itipula-foot-1,,Itipula,foot,lwaːjo,lwaːjo,l w aː j o,,Mitterhofer2013,,false
-Kanamalenga-foot-1,,Kanamalenga,foot,ludʒajo,ludʒajo,l u d ʒ a j o,,Mitterhofer2013,,false
-Liwengi-foot-1,,Liwengi,foot,lwaːjo,lwaːjo,l w aː j o,,Mitterhofer2013,,false
-Ujindile-foot-1,,Ujindile,foot,lwaːjo,lwaːjo,l w aː j o,,Mitterhofer2013,,false
-Ukalawa-foot-1,,Ukalawa,foot,lwaːjo,lwaːjo,l w aː j o,,Mitterhofer2013,,false
+Itipula-foot-1,,Itipula,foot,lwaːjo,lwaːjo,lw aː j o,,Mitterhofer2013,,false
+Kanamalenga-foot-1,,Kanamalenga,foot,ludʒajo,ludʒajo,l u dʒ a j o,,Mitterhofer2013,,false
+Liwengi-foot-1,,Liwengi,foot,lwaːjo,lwaːjo,lw aː j o,,Mitterhofer2013,,false
+Ujindile-foot-1,,Ujindile,foot,lwaːjo,lwaːjo,lw aː j o,,Mitterhofer2013,,false
+Ukalawa-foot-1,,Ukalawa,foot,lwaːjo,lwaːjo,lw aː j o,,Mitterhofer2013,,false
 Ihanja-arm-1,,Ihanja,arm,liwoho,liwoho,l i w o h o,,Mitterhofer2013,,false
 Itambo-arm-1,,Itambo,arm,liwoko,liwoko,l i w o k o,,Mitterhofer2013,,false
 Itipula-arm-1,,Itipula,arm,liwoko,liwoko,l i w o k o,,Mitterhofer2013,,false
@@ -131,46 +131,46 @@ Ukalawa-arm-1,,Ukalawa,arm,liwoːko,liwoːko,l i w oː k o,,Mitterhofer2013,,fal
 Utalingoro-arm-1,,Utalingoro,arm,liwoho,liwoho,l i w o h o,,Mitterhofer2013,,false
 Utengule-arm-1,,Utengule,arm,liwoho,liwoho,l i w o h o,,Mitterhofer2013,,false
 Wangama-arm-1,,Wangama,arm,liwoːho,liwoːho,l i w oː h o,,Mitterhofer2013,,false
-Itipula-hand-1,,Itipula,hand,kigaːnsa,kigaːnsa,k i g aː n s a,,Mitterhofer2013,,false
-Kanamalenga-hand-1,,Kanamalenga,hand,higaːndʒa,higaːndʒa,h i g aː n d ʒ a,,Mitterhofer2013,,false
+Itipula-hand-1,,Itipula,hand,kigaːnsa,kigaːnsa,k i g aː ns a,,Mitterhofer2013,,false
+Kanamalenga-hand-1,,Kanamalenga,hand,higaːndʒa,higaːndʒa,h i g aː n dʒ a,,Mitterhofer2013,,false
 Liwengi-hand-1,,Liwengi,hand,higaːnza,higaːnza,h i g aː n z a,,Mitterhofer2013,,false
-Ujindile-hand-1,,Ujindile,hand,higaːnsa,higaːnsa,h i g aː n s a,,Mitterhofer2013,,false
-Ukalawa-hand-1,,Ukalawa,hand,kigaːnsa,kigaːnsa,k i g aː n s a,,Mitterhofer2013,,false
-Itipula-fingernail-1,,Itipula,fingernail,lukoːnsi,lukoːnsi,l u k oː n s i,,Mitterhofer2013,,false
+Ujindile-hand-1,,Ujindile,hand,higaːnsa,higaːnsa,h i g aː ns a,,Mitterhofer2013,,false
+Ukalawa-hand-1,,Ukalawa,hand,kigaːnsa,kigaːnsa,k i g aː ns a,,Mitterhofer2013,,false
+Itipula-fingernail-1,,Itipula,fingernail,lukoːnsi,lukoːnsi,l u k oː ns i,,Mitterhofer2013,,false
 Kanamalenga-fingernail-1,,Kanamalenga,fingernail,luɲoːʋe,luɲoːʋe,l u ɲ oː ʋ e,,Mitterhofer2013,,false
 Liwengi-fingernail-1,,Liwengi,fingernail,lukonze,lukonze,l u k o n z e,,Mitterhofer2013,,false
 Ujindile-fingernail-1,,Ujindile,fingernail,ŋoːnze,ŋoːnze,ŋ oː n z e,,Mitterhofer2013,,false
 Ukalawa-fingernail-1,,Ukalawa,fingernail,ludole,ludole,l u d o l e,,Mitterhofer2013,,false
 Ihanja-finger-1,,Ihanja,finger,ʃaːla,ʃaːla,ʃ aː l a,,Mitterhofer2013,,false
-Itambo-finger-1,,Itambo,finger,kiaːla,kiaːla,k iaː l a,,Mitterhofer2013,,false
-Itipula-finger-1,,Itipula,finger,kiaːla,kiaːla,k iaː l a,,Mitterhofer2013,,false
+Itambo-finger-1,,Itambo,finger,kiaːla,kiaːla,k i aː l a,,Mitterhofer2013,,false
+Itipula-finger-1,,Itipula,finger,kiaːla,kiaːla,k i aː l a,,Mitterhofer2013,,false
 Kanamalenga-finger-1,,Kanamalenga,finger,ʃaːla,ʃaːla,ʃ aː l a,,Mitterhofer2013,,false
 Liwengi-finger-1,,Liwengi,finger,ʃaːla,ʃaːla,ʃ aː l a,,Mitterhofer2013,,false
-Lwanzali-finger-1,,Lwanzali,finger,kʰiaːla,kʰiaːla,kʰ iaː l a,,Mitterhofer2013,,false
+Lwanzali-finger-1,,Lwanzali,finger,kʰiaːla,kʰiaːla,kʰ i aː l a,,Mitterhofer2013,,false
 Makanjaula-finger-1,,Makanjaula,finger,hidole,hidole,h i d o l e,,Mitterhofer2013,,false
 Ujindile-finger-1,,Ujindile,finger,çiwoːho,çiwoːho,ç i w oː h o,,Mitterhofer2013,,false
-Ukalawa-finger-1,,Ukalawa,finger,kiaːla,kiaːla,k iaː l a,,Mitterhofer2013,,false
+Ukalawa-finger-1,,Ukalawa,finger,kiaːla,kiaːla,k i aː l a,,Mitterhofer2013,,false
 Utalingoro-finger-1,,Utalingoro,finger,hikoːndze,hikoːndze,h i k oː n d z e,,Mitterhofer2013,,false
 Utengule-finger-1,,Utengule,finger,ʃaːla,ʃaːla,ʃ aː l a,,Mitterhofer2013,,false
-Wangama-finger-1,,Wangama,finger,ʃiaːla,ʃiaːla,ʃ iaː l a,,Mitterhofer2013,,false
+Wangama-finger-1,,Wangama,finger,ʃiaːla,ʃiaːla,ʃ i aː l a,,Mitterhofer2013,,false
 Itipula-armpit-1,,Itipula,armpit,waːpa,waːpa,w aː p a,,Mitterhofer2013,,false
-Kanamalenga-armpit-1,,Kanamalenga,armpit,gwaːpa,gwaːpa,g w aː p a,,Mitterhofer2013,,false
+Kanamalenga-armpit-1,,Kanamalenga,armpit,gwaːpa,gwaːpa,gw aː p a,,Mitterhofer2013,,false
 Liwengi-armpit-1,,Liwengi,armpit,uwaːpa,uwaːpa,u w aː p a,,Mitterhofer2013,,false
 Ujindile-armpit-1,,Ujindile,armpit,uwaːpi,uwaːpi,u w aː p i,,Mitterhofer2013,,false
 Ukalawa-armpit-1,,Ukalawa,armpit,uwaːpa,uwaːpa,u w aː p a,,Mitterhofer2013,,false
 Kanamalenga-skinhuman-1,,Kanamalenga,skinhuman,ɲiŋgo,ɲiŋgo,ɲ i ŋ g o,,Mitterhofer2013,,false
 Liwengi-skinhuman-1,,Liwengi,skinhuman,ŋgola,ŋgola,ŋ g o l a,,Mitterhofer2013,,false
 Ukalawa-skinhuman-1,,Ukalawa,skinhuman,ŋgosi,ŋgosi,ŋ g o s i,,Mitterhofer2013,,false
-Itipula-skinanimal-1,,Itipula,skinanimal,ŋguo,ŋguo,ŋ g uo,,Mitterhofer2013,,false
+Itipula-skinanimal-1,,Itipula,skinanimal,ŋguo,ŋguo,ŋ g u o,,Mitterhofer2013,,false
 Kanamalenga-skinanimal-1,,Kanamalenga,skinanimal,ɲiŋgo,ɲiŋgo,ɲ i ŋ g o,,Mitterhofer2013,,false
 Liwengi-skinanimal-1,,Liwengi,skinanimal,ŋgola,ŋgola,ŋ g o l a,,Mitterhofer2013,,false
 Ujindile-skinanimal-1,,Ujindile,skinanimal,ŋiːŋgo,ŋiːŋgo,ŋ iː ŋ g o,,Mitterhofer2013,,false
 Ukalawa-skinanimal-1,,Ukalawa,skinanimal,ŋgosi,ŋgosi,ŋ g o s i,,Mitterhofer2013,,false
-Itipula-bone-1,,Itipula,bone,kitsege,kitsege,k i t s e g e,,Mitterhofer2013,,false
-Kanamalenga-bone-1,,Kanamalenga,bone,hitdʒege,hitdʒege,h i t d ʒ e g e,,Mitterhofer2013,,false
+Itipula-bone-1,,Itipula,bone,kitsege,kitsege,k i ts e g e,,Mitterhofer2013,,false
+Kanamalenga-bone-1,,Kanamalenga,bone,hitdʒege,hitdʒege,h i t dʒ e g e,,Mitterhofer2013,,false
 Liwengi-bone-1,,Liwengi,bone,hidzege,hidzege,h i d z e g e,,Mitterhofer2013,,false
-Ujindile-bone-1,,Ujindile,bone,hitseke,hitseke,h i t s e k e,,Mitterhofer2013,,false
-Ukalawa-bone-1,,Ukalawa,bone,kitsege,kitsege,k i t s e g e,,Mitterhofer2013,,false
+Ujindile-bone-1,,Ujindile,bone,hitseke,hitseke,h i ts e k e,,Mitterhofer2013,,false
+Ukalawa-bone-1,,Ukalawa,bone,kitsege,kitsege,k i ts e g e,,Mitterhofer2013,,false
 Ihanja-blood-1,,Ihanja,blood,ɖaːnɖa,ɖaːnɖa,ɖ aː n ɖ a,,Mitterhofer2013,,false
 Itambo-blood-1,,Itambo,blood,daːnda,daːnda,d aː n d a,,Mitterhofer2013,,false
 Itipula-blood-1,,Itipula,blood,daːnda,daːnda,d aː n d a,,Mitterhofer2013,,false
@@ -188,9 +188,9 @@ Kanamalenga-heart-1,,Kanamalenga,heart,nuːmbula,nuːmbula,n uː m b u l a,,Mitt
 Liwengi-heart-1,,Liwengi,heart,numbula,numbula,n u m b u l a,,Mitterhofer2013,,false
 Ujindile-heart-1,,Ujindile,heart,nuːmbula,nuːmbula,n uː m b u l a,,Mitterhofer2013,,false
 Ukalawa-heart-1,,Ukalawa,heart,nuːmbula,nuːmbula,n uː m b u l a,,Mitterhofer2013,,false
-Itipula-lung-1,,Itipula,lung,mahafwa,mahafwa,m a h a f w a,,Mitterhofer2013,,false
+Itipula-lung-1,,Itipula,lung,mahafwa,mahafwa,m a h a fw a,,Mitterhofer2013,,false
 Kanamalenga-lung-1,,Kanamalenga,lung,mbafu,mbafu,m b a f u,,Mitterhofer2013,,false
-Liwengi-lung-1,,Liwengi,lung,lihafwa,lihafwa,l i h a f w a,,Mitterhofer2013,,false
+Liwengi-lung-1,,Liwengi,lung,lihafwa,lihafwa,l i h a fw a,,Mitterhofer2013,,false
 Ujindile-lung-1,,Ujindile,lung,mahafu,mahafu,m a h a f u,,Mitterhofer2013,,false
 Ukalawa-lung-1,,Ukalawa,lung,majaja,majaja,m a j a j a,,Mitterhofer2013,,false
 Ikuna-liver-1,,Ikuna,liver,mutima,mutima,m u t i m a,,Mitterhofer2013,,false
@@ -202,9 +202,9 @@ Ukalawa-liver-1,,Ukalawa,liver,mtima,mtima,m t i m a,,Mitterhofer2013,,false
 Ikuna-voice-1,,Ikuna,voice,sawuti,sawuti,s a w u t i,,Mitterhofer2013,,false
 Itipula-voice-1,,Itipula,voice,sawuti,sawuti,s a w u t i,,Mitterhofer2013,,false
 Kanamalenga-voice-1,,Kanamalenga,voice,indoːŋgele,indoːŋgele,i n d oː ŋ g e l e,,Mitterhofer2013,,false
-Liwengi-voice-1,,Liwengi,voice,hutsoːva,hutsoːva,h u t s oː v a,,Mitterhofer2013,,false
-Ujindile-voice-1,,Ujindile,voice,luoːve,luoːve,l uoː v e,,Mitterhofer2013,,false
-Ukalawa-voice-1,,Ukalawa,voice,sauti,sauti,s au t i,,Mitterhofer2013,,false
+Liwengi-voice-1,,Liwengi,voice,hutsoːva,hutsoːva,h u ts oː v a,,Mitterhofer2013,,false
+Ujindile-voice-1,,Ujindile,voice,luoːve,luoːve,l u oː v e,,Mitterhofer2013,,false
+Ukalawa-voice-1,,Ukalawa,voice,sauti,sauti,s a u t i,,Mitterhofer2013,,false
 Ikuna-hornofanimal-1,,Ikuna,hornofanimal,lipeːmbe,lipeːmbe,l i p eː m b e,,Mitterhofer2013,,false
 Itipula-hornofanimal-1,,Itipula,hornofanimal,lipeːmbe,lipeːmbe,l i p eː m b e,,Mitterhofer2013,,false
 Kanamalenga-hornofanimal-1,,Kanamalenga,hornofanimal,lupeːmbe,lupeːmbe,l u p eː m b e,,Mitterhofer2013,,false
@@ -255,12 +255,12 @@ Ukalawa-honey-1,,Ukalawa,honey,luːki,luːki,l uː k i,,Mitterhofer2013,,false
 Utalingoro-honey-1,,Utalingoro,honey,luːhi,luːhi,l uː h i,,Mitterhofer2013,,false
 Utengule-honey-1,,Utengule,honey,luːçi,luːçi,l uː ç i,,Mitterhofer2013,,false
 Wangama-honey-1,,Wangama,honey,lunçi,lunçi,l u n ç i,,Mitterhofer2013,,false
-Ikuna-milkofcow-1,,Ikuna,milkofcow,litsiʋa,litsiʋa,l i t s i ʋ a,,Mitterhofer2013,,false
-Itipula-milkofcow-1,,Itipula,milkofcow,matsiva,matsiva,m a t s i v a,,Mitterhofer2013,,false
-Kanamalenga-milkofcow-1,,Kanamalenga,milkofcow,litʃiʋa,litʃiʋa,l i t ʃ i ʋ a,,Mitterhofer2013,,false
+Ikuna-milkofcow-1,,Ikuna,milkofcow,litsiʋa,litsiʋa,l i ts i ʋ a,,Mitterhofer2013,,false
+Itipula-milkofcow-1,,Itipula,milkofcow,matsiva,matsiva,m a ts i v a,,Mitterhofer2013,,false
+Kanamalenga-milkofcow-1,,Kanamalenga,milkofcow,litʃiʋa,litʃiʋa,l i tʃ i ʋ a,,Mitterhofer2013,,false
 Liwengi-milkofcow-1,,Liwengi,milkofcow,madziːva,madziːva,m a d z iː v a,,Mitterhofer2013,,false
-Ujindile-milkofcow-1,,Ujindile,milkofcow,matsiva,matsiva,m a t s i v a,,Mitterhofer2013,,false
-Ukalawa-milkofcow-1,,Ukalawa,milkofcow,matsiʋa,matsiʋa,m a t s i ʋ a,,Mitterhofer2013,,false
+Ujindile-milkofcow-1,,Ujindile,milkofcow,matsiva,matsiva,m a ts i v a,,Mitterhofer2013,,false
+Ukalawa-milkofcow-1,,Ukalawa,milkofcow,matsiʋa,matsiʋa,m a ts i ʋ a,,Mitterhofer2013,,false
 Ikuna-meat-1,,Ikuna,meat,ɲama,ɲama,ɲ a m a,,Mitterhofer2013,,false
 Itipula-meat-1,,Itipula,meat,njama,njama,n j a m a,,Mitterhofer2013,,false
 Kanamalenga-meat-1,,Kanamalenga,meat,ɲama,ɲama,ɲ a m a,,Mitterhofer2013,,false
@@ -274,7 +274,7 @@ Liwengi-person-1,,Liwengi,person,muːnu,muːnu,m uː n u,,Mitterhofer2013,,false
 Ujindile-person-1,,Ujindile,person,muːnu,muːnu,m uː n u,,Mitterhofer2013,,false
 Ukalawa-person-1,,Ukalawa,person,muːnu,muːnu,m uː n u,,Mitterhofer2013,,false
 Ihanja-man-1,,Ihanja,man,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false
-Ikuna-man-1,,Ikuna,man,mwaɖaːda,mwaɖaːda,m w a ɖ aː d a,,Mitterhofer2013,,false
+Ikuna-man-1,,Ikuna,man,mwaɖaːda,mwaɖaːda,mw a ɖ aː d a,,Mitterhofer2013,,false
 Itambo-man-1,,Itambo,man,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false
 Itipula-man-1,,Itipula,man,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false
 Kanamalenga-man-1,,Kanamalenga,man,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false
@@ -291,31 +291,31 @@ Ikuna-husband-1,,Ikuna,husband,mugoːsi_ʋaːŋgu,mugoːsi_ʋaːŋgu,m u g oː s
 Itambo-husband-1,,Itambo,husband,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false
 Itipula-husband-1,,Itipula,husband,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false
 Kanamalenga-husband-1,,Kanamalenga,husband,mugoːsi_ʋaːŋgu,mugoːsi_ʋaːŋgu,m u g oː s i _ ʋ aː ŋ g u,,Mitterhofer2013,,false
-Liwengi-husband-1,,Liwengi,husband,mwadaːda,mwadaːda,m w a d aː d a,,Mitterhofer2013,,false
+Liwengi-husband-1,,Liwengi,husband,mwadaːda,mwadaːda,mw a d aː d a,,Mitterhofer2013,,false
 Lwanzali-husband-1,,Lwanzali,husband,mukigoːsi,mukigoːsi,m u k i g oː s i,,Mitterhofer2013,,false
 Makanjaula-husband-1,,Makanjaula,husband,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false
-Ujindile-husband-1,,Ujindile,husband,mugoːsi ʋaːŋgu,mugoːsi ʋaːŋgu,mugoːsi ʋaːŋgu,,Mitterhofer2013,,false
+Ujindile-husband-1,,Ujindile,husband,mugoːsi ʋaːŋgu,mugoːsi ʋaːŋgu,m u g oː s i _ ʋ aː ŋ g u,,Mitterhofer2013,,false
 Ukalawa-husband-1,,Ukalawa,husband,mukigoːsi,mukigoːsi,m u k i g oː s i,,Mitterhofer2013,,false
 Utalingoro-husband-1,,Utalingoro,husband,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false
-Utengule-husband-1,,Utengule,husband,mugoːsi ʋaːŋgu,mugoːsi ʋaːŋgu,mugoːsi ʋaːŋgu,,Mitterhofer2013,,false
-Wangama-husband-1,,Wangama,husband,mugoːsi ʋaːŋgu,mugoːsi ʋaːŋgu,mugoːsi ʋaːŋgu,,Mitterhofer2013,,false
+Utengule-husband-1,,Utengule,husband,mugoːsi ʋaːŋgu,mugoːsi ʋaːŋgu,m u g oː s i _ ʋ aː ŋ g u,,Mitterhofer2013,,false
+Wangama-husband-1,,Wangama,husband,mugoːsi ʋaːŋgu,mugoːsi ʋaːŋgu,m u g oː s i _ ʋ aː ŋ g u,,Mitterhofer2013,,false
 Ihanja-woman-1,,Ihanja,woman,mudala,mudala,m u d a l a,,Mitterhofer2013,,false
-Ikuna-woman-1,,Ikuna,woman,mwajuːʋa,mwajuːʋa,m w a j uː ʋ a,,Mitterhofer2013,,false
+Ikuna-woman-1,,Ikuna,woman,mwajuːʋa,mwajuːʋa,mw a j uː ʋ a,,Mitterhofer2013,,false
 Itambo-woman-1,,Itambo,woman,mukidala,mukidala,m u k i d a l a,,Mitterhofer2013,,false
 Itipula-woman-1,,Itipula,woman,mdala,mdala,m d a l a,,Mitterhofer2013,,false
 Kanamalenga-woman-1,,Kanamalenga,woman,mudala,mudala,m u d a l a,,Mitterhofer2013,,false
-Liwengi-woman-1,,Liwengi,woman,mwajuːva,mwajuːva,m w a j uː v a,,Mitterhofer2013,,false
+Liwengi-woman-1,,Liwengi,woman,mwajuːva,mwajuːva,mw a j uː v a,,Mitterhofer2013,,false
 Lwanzali-woman-1,,Lwanzali,woman,mukidala,mukidala,m u k i d a l a,,Mitterhofer2013,,false
 Makanjaula-woman-1,,Makanjaula,woman,mdala,mdala,m d a l a,,Mitterhofer2013,,false
 Ujindile-woman-1,,Ujindile,woman,mdala,mdala,m d a l a,,Mitterhofer2013,,false
 Ukalawa-woman-1,,Ukalawa,woman,mukidɑla,mukidɑla,m u k i d ɑ l a,,Mitterhofer2013,,false
 Utalingoro-woman-1,,Utalingoro,woman,mudala,mudala,m u d a l a,,Mitterhofer2013,,false
-Utengule-woman-1,,Utengule,woman,mwajuːʋa,mwajuːʋa,m w a j uː ʋ a,,Mitterhofer2013,,false
+Utengule-woman-1,,Utengule,woman,mwajuːʋa,mwajuːʋa,mw a j uː ʋ a,,Mitterhofer2013,,false
 Wangama-woman-1,,Wangama,woman,muɖaːla,muɖaːla,m u ɖ aː l a,,Mitterhofer2013,,false
 Ikuna-wife-1,,Ikuna,wife,muːnu,muːnu,m uː n u,,Mitterhofer2013,,false
 Itipula-wife-1,,Itipula,wife,mdala,mdala,m d a l a,,Mitterhofer2013,,false
-Kanamalenga-wife-1,,Kanamalenga,wife,mudala ʋaːŋgu,mudala ʋaːŋgu,mudala ʋaːŋgu,,Mitterhofer2013,,false
-Liwengi-wife-1,,Liwengi,wife,mwajuːva,mwajuːva,m w a j uː v a,,Mitterhofer2013,,false
+Kanamalenga-wife-1,,Kanamalenga,wife,mudala ʋaːŋgu,mudala ʋaːŋgu,m u d a l a _ ʋ aː ŋ g u,,Mitterhofer2013,,false
+Liwengi-wife-1,,Liwengi,wife,mwajuːva,mwajuːva,mw a j uː v a,,Mitterhofer2013,,false
 Ujindile-wife-1,,Ujindile,wife,mdala,mdala,m d a l a,,Mitterhofer2013,,false
 Ukalawa-wife-1,,Ukalawa,wife,mukidɑla,mukidɑla,m u k i d ɑ l a,,Mitterhofer2013,,false
 Ikuna-father-1,,Ikuna,father,daːda,daːda,d aː d a,,Mitterhofer2013,,false
@@ -331,13 +331,13 @@ Liwengi-mother-1,,Liwengi,mother,juːva,juːva,j uː v a,,Mitterhofer2013,,false
 Ujindile-mother-1,,Ujindile,mother,juːʋa,juːʋa,j uː ʋ a,,Mitterhofer2013,,false
 Ukalawa-mother-1,,Ukalawa,mother,juːva,juːva,j uː v a,,Mitterhofer2013,,false
 Ihanja-brotheroldersamesex-1,,Ihanja,brotheroldersamesex,maːmxo,maːmxo,m aː m x o,,Mitterhofer2013,,false
-Ikuna-brotheroldersamesex-1,,Ikuna,brotheroldersamesex,muhatsa,muhatsa,m u h a t s a,,Mitterhofer2013,,false
+Ikuna-brotheroldersamesex-1,,Ikuna,brotheroldersamesex,muhatsa,muhatsa,m u h a ts a,,Mitterhofer2013,,false
 Itambo-brotheroldersamesex-1,,Itambo,brotheroldersamesex,maːma,maːma,m aː m a,,Mitterhofer2013,,false
 Itipula-brotheroldersamesex-1,,Itipula,brotheroldersamesex,maːma,maːma,m aː m a,,Mitterhofer2013,,false
 Kanamalenga-brotheroldersamesex-1,,Kanamalenga,brotheroldersamesex,maːma,maːma,m aː m a,,Mitterhofer2013,,false
 Liwengi-brotheroldersamesex-1,,Liwengi,brotheroldersamesex,maːma,maːma,m aː m a,,Mitterhofer2013,,false
 Lwanzali-brotheroldersamesex-1,,Lwanzali,brotheroldersamesex,umaːma,umaːma,u m aː m a,,Mitterhofer2013,,false
-Makanjaula-brotheroldersamesex-1,,Makanjaula,brotheroldersamesex,muhaːtsavo,muhaːtsavo,m u h aː t s a v o,,Mitterhofer2013,,false
+Makanjaula-brotheroldersamesex-1,,Makanjaula,brotheroldersamesex,muhaːtsavo,muhaːtsavo,m u h aː ts a v o,,Mitterhofer2013,,false
 Ujindile-brotheroldersamesex-1,,Ujindile,brotheroldersamesex,maːma,maːma,m aː m a,,Mitterhofer2013,,false
 Ukalawa-brotheroldersamesex-1,,Ukalawa,brotheroldersamesex,maːma,maːma,m aː m a,,Mitterhofer2013,,false
 Utalingoro-brotheroldersamesex-1,,Utalingoro,brotheroldersamesex,umaːmo,umaːmo,u m aː m o,,Mitterhofer2013,,false
@@ -349,12 +349,12 @@ Kanamalenga-mothersbrother-1,,Kanamalenga,mothersbrother,jaːja,jaːja,j aː j a
 Liwengi-mothersbrother-1,,Liwengi,mothersbrother,jaːja,jaːja,j aː j a,,Mitterhofer2013,,false
 Ujindile-mothersbrother-1,,Ujindile,mothersbrother,jaːja,jaːja,j aː j a,,Mitterhofer2013,,false
 Ukalawa-mothersbrother-1,,Ukalawa,mothersbrother,jaːja,jaːja,j aː j a,,Mitterhofer2013,,false
-Ikuna-child-1,,Ikuna,child,mwaːna,mwaːna,m w aː n a,,Mitterhofer2013,,false
-Itipula-child-1,,Itipula,child,mwana,mwana,m w a n a,,Mitterhofer2013,,false
-Kanamalenga-child-1,,Kanamalenga,child,mwaːna,mwaːna,m w aː n a,,Mitterhofer2013,,false
-Liwengi-child-1,,Liwengi,child,mwaːna,mwaːna,m w aː n a,,Mitterhofer2013,,false
-Ujindile-child-1,,Ujindile,child,mwaːna,mwaːna,m w aː n a,,Mitterhofer2013,,false
-Ukalawa-child-1,,Ukalawa,child,mwaːna,mwaːna,m w aː n a,,Mitterhofer2013,,false
+Ikuna-child-1,,Ikuna,child,mwaːna,mwaːna,mw aː n a,,Mitterhofer2013,,false
+Itipula-child-1,,Itipula,child,mwana,mwana,mw a n a,,Mitterhofer2013,,false
+Kanamalenga-child-1,,Kanamalenga,child,mwaːna,mwaːna,mw aː n a,,Mitterhofer2013,,false
+Liwengi-child-1,,Liwengi,child,mwaːna,mwaːna,mw aː n a,,Mitterhofer2013,,false
+Ujindile-child-1,,Ujindile,child,mwaːna,mwaːna,mw aː n a,,Mitterhofer2013,,false
+Ukalawa-child-1,,Ukalawa,child,mwaːna,mwaːna,mw aː n a,,Mitterhofer2013,,false
 Ihanja-sonboy-1,,Ihanja,sonboy,mudiːmi,mudiːmi,m u d iː m i,,Mitterhofer2013,,false
 Ikuna-sonboy-1,,Ikuna,sonboy,mudiːmi,mudiːmi,m u d iː m i,,Mitterhofer2013,,false
 Itambo-sonboy-1,,Itambo,sonboy,mudiːmi,mudiːmi,m u d iː m i,,Mitterhofer2013,,false
@@ -368,43 +368,43 @@ Ukalawa-sonboy-1,,Ukalawa,sonboy,mdiːmi,mdiːmi,m d iː m i,,Mitterhofer2013,,f
 Utalingoro-sonboy-1,,Utalingoro,sonboy,mdiːmi,mdiːmi,m d iː m i,,Mitterhofer2013,,false
 Utengule-sonboy-1,,Utengule,sonboy,mudiːmi,mudiːmi,m u d iː m i,,Mitterhofer2013,,false
 Wangama-sonboy-1,,Wangama,sonboy,mudiːmi,mudiːmi,m u d iː m i,,Mitterhofer2013,,false
-Ihanja-daughtergirl-1,,Ihanja,daughtergirl,muhiːntsa,muhiːntsa,m u h iː n t s a,,Mitterhofer2013,,false
-Ikuna-daughtergirl-1,,Ikuna,daughtergirl,muhiːnsa,muhiːnsa,m u h iː n s a,,Mitterhofer2013,,false
-Itambo-daughtergirl-1,,Itambo,daughtergirl,muhiːnsa,muhiːnsa,m u h iː n s a,,Mitterhofer2013,,false
-Itipula-daughtergirl-1,,Itipula,daughtergirl,muhinsa,muhinsa,m u h i n s a,,Mitterhofer2013,,false
-Kanamalenga-daughtergirl-1,,Kanamalenga,daughtergirl,muhiːndʒa,muhiːndʒa,m u h iː n d ʒ a,,Mitterhofer2013,,false
-Liwengi-daughtergirl-1,,Liwengi,daughtergirl,muhiːnsa,muhiːnsa,m u h iː n s a,,Mitterhofer2013,,false
-Lwanzali-daughtergirl-1,,Lwanzali,daughtergirl,muhiːnsa,muhiːnsa,m u h iː n s a,,Mitterhofer2013,,false
-Makanjaula-daughtergirl-1,,Makanjaula,daughtergirl,muhiːnsa,muhiːnsa,m u h iː n s a,,Mitterhofer2013,,false
-Ujindile-daughtergirl-1,,Ujindile,daughtergirl,muhiːnsa,muhiːnsa,m u h iː n s a,,Mitterhofer2013,,false
-Ukalawa-daughtergirl-1,,Ukalawa,daughtergirl,muhiːnsa,muhiːnsa,m u h iː n s a,,Mitterhofer2013,,false
-Utalingoro-daughtergirl-1,,Utalingoro,daughtergirl,muhiːntʃa,muhiːntʃa,m u h iː n t ʃ a,,Mitterhofer2013,,false
+Ihanja-daughtergirl-1,,Ihanja,daughtergirl,muhiːntsa,muhiːntsa,m u h iː n ts a,,Mitterhofer2013,,false
+Ikuna-daughtergirl-1,,Ikuna,daughtergirl,muhiːnsa,muhiːnsa,m u h iː ns a,,Mitterhofer2013,,false
+Itambo-daughtergirl-1,,Itambo,daughtergirl,muhiːnsa,muhiːnsa,m u h iː ns a,,Mitterhofer2013,,false
+Itipula-daughtergirl-1,,Itipula,daughtergirl,muhinsa,muhinsa,m u h i ns a,,Mitterhofer2013,,false
+Kanamalenga-daughtergirl-1,,Kanamalenga,daughtergirl,muhiːndʒa,muhiːndʒa,m u h iː n dʒ a,,Mitterhofer2013,,false
+Liwengi-daughtergirl-1,,Liwengi,daughtergirl,muhiːnsa,muhiːnsa,m u h iː ns a,,Mitterhofer2013,,false
+Lwanzali-daughtergirl-1,,Lwanzali,daughtergirl,muhiːnsa,muhiːnsa,m u h iː ns a,,Mitterhofer2013,,false
+Makanjaula-daughtergirl-1,,Makanjaula,daughtergirl,muhiːnsa,muhiːnsa,m u h iː ns a,,Mitterhofer2013,,false
+Ujindile-daughtergirl-1,,Ujindile,daughtergirl,muhiːnsa,muhiːnsa,m u h iː ns a,,Mitterhofer2013,,false
+Ukalawa-daughtergirl-1,,Ukalawa,daughtergirl,muhiːnsa,muhiːnsa,m u h iː ns a,,Mitterhofer2013,,false
+Utalingoro-daughtergirl-1,,Utalingoro,daughtergirl,muhiːntʃa,muhiːntʃa,m u h iː n tʃ a,,Mitterhofer2013,,false
 Utengule-daughtergirl-1,,Utengule,daughtergirl,muhiːnza,muhiːnza,m u h iː n z a,,Mitterhofer2013,,false
-Wangama-daughtergirl-1,,Wangama,daughtergirl,muhiːnsa,muhiːnsa,m u h iː n s a,,Mitterhofer2013,,false
-Ikuna-twins-1,,Ikuna,twins,mapatsa,mapatsa,m a p a t s a,,Mitterhofer2013,,false
-Itipula-twins-1,,Itipula,twins,mapatʃa,mapatʃa,m a p a t ʃ a,,Mitterhofer2013,,false
+Wangama-daughtergirl-1,,Wangama,daughtergirl,muhiːnsa,muhiːnsa,m u h iː ns a,,Mitterhofer2013,,false
+Ikuna-twins-1,,Ikuna,twins,mapatsa,mapatsa,m a p a ts a,,Mitterhofer2013,,false
+Itipula-twins-1,,Itipula,twins,mapatʃa,mapatʃa,m a p a tʃ a,,Mitterhofer2013,,false
 Kanamalenga-twins-1,,Kanamalenga,twins,ʋaŋguŋgu,ʋaŋguŋgu,ʋ a ŋ g u ŋ g u,,Mitterhofer2013,,false
 Liwengi-twins-1,,Liwengi,twins,vataŋgo,vataŋgo,v a t a ŋ g o,,Mitterhofer2013,,false
 Ujindile-twins-1,,Ujindile,twins,muŋguːŋgu,muŋguːŋgu,m u ŋ g uː ŋ g u,,Mitterhofer2013,,false
-Ukalawa-twins-1,,Ukalawa,twins,ʋaɲawiːnsi,ʋaɲawiːnsi,ʋ a ɲ a w iː n s i,,Mitterhofer2013,,false
-Ikuna-chief-1,,Ikuna,chief,mutwa,mutwa,m u t w a,,Mitterhofer2013,,false
-Itipula-chief-1,,Itipula,chief,mutwa,mutwa,m u t w a,,Mitterhofer2013,,false
+Ukalawa-twins-1,,Ukalawa,twins,ʋaɲawiːnsi,ʋaɲawiːnsi,ʋ a ɲ a w iː ns i,,Mitterhofer2013,,false
+Ikuna-chief-1,,Ikuna,chief,mutwa,mutwa,m u tw a,,Mitterhofer2013,,false
+Itipula-chief-1,,Itipula,chief,mutwa,mutwa,m u tw a,,Mitterhofer2013,,false
 Kanamalenga-chief-1,,Kanamalenga,chief,mutuwa,mutuwa,m u t u w a,,Mitterhofer2013,,false
 Liwengi-chief-1,,Liwengi,chief,mutuwa,mutuwa,m u t u w a,,Mitterhofer2013,,false
-Ujindile-chief-1,,Ujindile,chief,mutwa,mutwa,m u t w a,,Mitterhofer2013,,false
-Ukalawa-chief-1,,Ukalawa,chief,mutua,mutua,m u t ua,,Mitterhofer2013,,false
+Ujindile-chief-1,,Ujindile,chief,mutwa,mutwa,m u tw a,,Mitterhofer2013,,false
+Ukalawa-chief-1,,Ukalawa,chief,mutua,mutua,m u t u a,,Mitterhofer2013,,false
 Ikuna-god-1,,Ikuna,god,ŋguluʋi,ŋguluʋi,ŋ g u l u ʋ i,,Mitterhofer2013,,false
 Itipula-god-1,,Itipula,god,ŋguluʋi,ŋguluʋi,ŋ g u l u ʋ i,,Mitterhofer2013,,false
 Kanamalenga-god-1,,Kanamalenga,god,ŋguluʋi,ŋguluʋi,ŋ g u l u ʋ i,,Mitterhofer2013,,false
-Liwengi-god-1,,Liwengi,god,hwaŋguluvi,hwaŋguluvi,h w a ŋ g u l u v i,,Mitterhofer2013,,false
+Liwengi-god-1,,Liwengi,god,hwaŋguluvi,hwaŋguluvi,hw a ŋ g u l u v i,,Mitterhofer2013,,false
 Ujindile-god-1,,Ujindile,god,ŋguluʋi,ŋguluʋi,ŋ g u l u ʋ i,,Mitterhofer2013,,false
 Ukalawa-god-1,,Ukalawa,god,ŋguluvi,ŋguluvi,ŋ g u l u v i,,Mitterhofer2013,,false
-Ikuna-sickness-1,,Ikuna,sickness,wutamwa,wutamwa,w u t a m w a,,Mitterhofer2013,,false
-Itipula-sickness-1,,Itipula,sickness,wutaːmwa,wutaːmwa,w u t aː m w a,,Mitterhofer2013,,false
-Kanamalenga-sickness-1,,Kanamalenga,sickness,wutamwa,wutamwa,w u t a m w a,,Mitterhofer2013,,false
-Liwengi-sickness-1,,Liwengi,sickness,wutaːmwa,wutaːmwa,w u t aː m w a,,Mitterhofer2013,,false
-Ujindile-sickness-1,,Ujindile,sickness,wutamwa,wutamwa,w u t a m w a,,Mitterhofer2013,,false
-Ukalawa-sickness-1,,Ukalawa,sickness,wutamwa,wutamwa,w u t a m w a,,Mitterhofer2013,,false
+Ikuna-sickness-1,,Ikuna,sickness,wutamwa,wutamwa,w u t a mw a,,Mitterhofer2013,,false
+Itipula-sickness-1,,Itipula,sickness,wutaːmwa,wutaːmwa,w u t aː mw a,,Mitterhofer2013,,false
+Kanamalenga-sickness-1,,Kanamalenga,sickness,wutamwa,wutamwa,w u t a mw a,,Mitterhofer2013,,false
+Liwengi-sickness-1,,Liwengi,sickness,wutaːmwa,wutaːmwa,w u t aː mw a,,Mitterhofer2013,,false
+Ujindile-sickness-1,,Ujindile,sickness,wutamwa,wutamwa,w u t a mw a,,Mitterhofer2013,,false
+Ukalawa-sickness-1,,Ukalawa,sickness,wutamwa,wutamwa,w u t a mw a,,Mitterhofer2013,,false
 Ikuna-sore-1,,Ikuna,sore,likoːŋo,likoːŋo,l i k oː ŋ o,,Mitterhofer2013,,false
 Itipula-sore-1,,Itipula,sore,liʋaːmba,liʋaːmba,l i ʋ aː m b a,,Mitterhofer2013,,false
 Kanamalenga-sore-1,,Kanamalenga,sore,litoːŋo,litoːŋo,l i t oː ŋ o,,Mitterhofer2013,,false
@@ -431,16 +431,16 @@ Ujindile-name-1,,Ujindile,name,litaːwa,litaːwa,l i t aː w a,,Mitterhofer2013,
 Ukalawa-name-1,,Ukalawa,name,litaːwa,litaːwa,l i t aː w a,,Mitterhofer2013,,false
 Ikuna-wildanimal-1,,Ikuna,wildanimal,likoːho,likoːho,l i k oː h o,,Mitterhofer2013,,false
 Itipula-wildanimal-1,,Itipula,wildanimal,ŋoːko,ŋoːko,ŋ oː k o,,Mitterhofer2013,,false
-Kanamalenga-wildanimal-1,,Kanamalenga,wildanimal,mɲawa ja mudaːsi,mɲawa ja mudaːsi,mɲawa ja mudaːsi,,Mitterhofer2013,,false
+Kanamalenga-wildanimal-1,,Kanamalenga,wildanimal,mɲawa ja mudaːsi,mɲawa ja mudaːsi,m ɲ a w a _ j a _ m u d aː s i,,Mitterhofer2013,,false
 Liwengi-wildanimal-1,,Liwengi,wildanimal,ŋoho,ŋoho,ŋ o h o,,Mitterhofer2013,,false
 Ujindile-wildanimal-1,,Ujindile,wildanimal,hikanu,hikanu,h i k a n u,,Mitterhofer2013,,false
 Ukalawa-wildanimal-1,,Ukalawa,wildanimal,kikoːko,kikoːko,k i k oː k o,,Mitterhofer2013,,false
-Ikuna-dog-1,,Ikuna,dog,libwa,libwa,l i b w a,,Mitterhofer2013,,false
+Ikuna-dog-1,,Ikuna,dog,libwa,libwa,l i bw a,,Mitterhofer2013,,false
 Itipula-dog-1,,Itipula,dog,libuwa,libuwa,l i b u w a,,Mitterhofer2013,,false
-Kanamalenga-dog-1,,Kanamalenga,dog,libwa,libwa,l i b w a,,Mitterhofer2013,,false
+Kanamalenga-dog-1,,Kanamalenga,dog,libwa,libwa,l i bw a,,Mitterhofer2013,,false
 Liwengi-dog-1,,Liwengi,dog,libuwa,libuwa,l i b u w a,,Mitterhofer2013,,false
-Ujindile-dog-1,,Ujindile,dog,libwa,libwa,l i b w a,,Mitterhofer2013,,false
-Ukalawa-dog-1,,Ukalawa,dog,libwa,libwa,l i b w a,,Mitterhofer2013,,false
+Ujindile-dog-1,,Ujindile,dog,libwa,libwa,l i bw a,,Mitterhofer2013,,false
+Ukalawa-dog-1,,Ukalawa,dog,libwa,libwa,l i bw a,,Mitterhofer2013,,false
 Ihanja-cat-1,,Ihanja,cat,himugogo,himugogo,h i m u g o g o,,Mitterhofer2013,,false
 Ikuna-cat-1,,Ikuna,cat,limkoko,limkoko,l i m k o k o,,Mitterhofer2013,,false
 Itambo-cat-1,,Itambo,cat,kimiːsi,kimiːsi,k i m iː s i,,Mitterhofer2013,,false
@@ -452,32 +452,32 @@ Makanjaula-cat-1,,Makanjaula,cat,limisi,limisi,l i m i s i,,Mitterhofer2013,,fal
 Ujindile-cat-1,,Ujindile,cat,ɲawu,ɲawu,ɲ a w u,,Mitterhofer2013,,false
 Ukalawa-cat-1,,Ukalawa,cat,kimiːsi,kimiːsi,k i m iː s i,,Mitterhofer2013,,false
 Utalingoro-cat-1,,Utalingoro,cat,liːmisi,liːmisi,l iː m i s i,,Mitterhofer2013,,false
-Utengule-cat-1,,Utengule,cat,ɲawu/ʃimugogo,ɲawu/ʃimugogo,ɲ a w u / ʃ i m u g o g o,,Mitterhofer2013,,false
+Utengule-cat-1,,Utengule,cat,ɲawu/ʃimugogo,ɲawu/ʃimugogo,ɲ a w u <?> i m u g o g o,,Mitterhofer2013,,false
 Wangama-cat-1,,Wangama,cat,imisi,imisi,i m i s i,,Mitterhofer2013,,false
-Ihanja-elephant-1,,Ihanja,elephant,lideːmbwe,lideːmbwe,l i d eː m b w e,,Mitterhofer2013,,false
-Ikuna-elephant-1,,Ikuna,elephant,ndeːmbwe,ndeːmbwe,n d eː m b w e,,Mitterhofer2013,,false
+Ihanja-elephant-1,,Ihanja,elephant,lideːmbwe,lideːmbwe,l i d eː m bw e,,Mitterhofer2013,,false
+Ikuna-elephant-1,,Ikuna,elephant,ndeːmbwe,ndeːmbwe,n d eː m bw e,,Mitterhofer2013,,false
 Itambo-elephant-1,,Itambo,elephant,liteːmbo,liteːmbo,l i t eː m b o,,Mitterhofer2013,,false
-Itipula-elephant-1,,Itipula,elephant,lideːmbwe,lideːmbwe,l i d eː m b w e,,Mitterhofer2013,,false
-Kanamalenga-elephant-1,,Kanamalenga,elephant,lideːmbwe,lideːmbwe,l i d eː m b w e,,Mitterhofer2013,,false
-Liwengi-elephant-1,,Liwengi,elephant,lideːmbwe,lideːmbwe,l i d eː m b w e,,Mitterhofer2013,,false
-Lwanzali-elephant-1,,Lwanzali,elephant,ndeːmbwe,ndeːmbwe,n d eː m b w e,,Mitterhofer2013,,false
-Makanjaula-elephant-1,,Makanjaula,elephant,lideːmbwe,lideːmbwe,l i d eː m b w e,,Mitterhofer2013,,false
-Ujindile-elephant-1,,Ujindile,elephant,lideːmbwe,lideːmbwe,l i d eː m b w e,,Mitterhofer2013,,false
-Ukalawa-elephant-1,,Ukalawa,elephant,lideːmbwe,lideːmbwe,l i d eː m b w e,,Mitterhofer2013,,false
-Utalingoro-elephant-1,,Utalingoro,elephant,lideːmbwe,lideːmbwe,l i d eː m b w e,,Mitterhofer2013,,false
-Utengule-elephant-1,,Utengule,elephant,lideːmbwe,lideːmbwe,l i d eː m b w e,,Mitterhofer2013,,false
-Wangama-elephant-1,,Wangama,elephant,ndeːmbwe,ndeːmbwe,n d eː m b w e,,Mitterhofer2013,,false
+Itipula-elephant-1,,Itipula,elephant,lideːmbwe,lideːmbwe,l i d eː m bw e,,Mitterhofer2013,,false
+Kanamalenga-elephant-1,,Kanamalenga,elephant,lideːmbwe,lideːmbwe,l i d eː m bw e,,Mitterhofer2013,,false
+Liwengi-elephant-1,,Liwengi,elephant,lideːmbwe,lideːmbwe,l i d eː m bw e,,Mitterhofer2013,,false
+Lwanzali-elephant-1,,Lwanzali,elephant,ndeːmbwe,ndeːmbwe,n d eː m bw e,,Mitterhofer2013,,false
+Makanjaula-elephant-1,,Makanjaula,elephant,lideːmbwe,lideːmbwe,l i d eː m bw e,,Mitterhofer2013,,false
+Ujindile-elephant-1,,Ujindile,elephant,lideːmbwe,lideːmbwe,l i d eː m bw e,,Mitterhofer2013,,false
+Ukalawa-elephant-1,,Ukalawa,elephant,lideːmbwe,lideːmbwe,l i d eː m bw e,,Mitterhofer2013,,false
+Utalingoro-elephant-1,,Utalingoro,elephant,lideːmbwe,lideːmbwe,l i d eː m bw e,,Mitterhofer2013,,false
+Utengule-elephant-1,,Utengule,elephant,lideːmbwe,lideːmbwe,l i d eː m bw e,,Mitterhofer2013,,false
+Wangama-elephant-1,,Wangama,elephant,ndeːmbwe,ndeːmbwe,n d eː m bw e,,Mitterhofer2013,,false
 Ihanja-lion-1,,Ihanja,lion,likoːho,likoːho,l i k oː h o,,Mitterhofer2013,,false
-Ikuna-lion-1,,Ikuna,lion,litsuːxa,litsuːxa,l i t s uː x a,,Mitterhofer2013,,false
+Ikuna-lion-1,,Ikuna,lion,litsuːxa,litsuːxa,l i ts uː x a,,Mitterhofer2013,,false
 Itambo-lion-1,,Itambo,lion,lisiːmba,lisiːmba,l i s iː m b a,,Mitterhofer2013,,false
 Itipula-lion-1,,Itipula,lion,ɲalupala,ɲalupala,ɲ a l u p a l a,,Mitterhofer2013,,false
 Kanamalenga-lion-1,,Kanamalenga,lion,ɲalupala,ɲalupala,ɲ a l u p a l a,,Mitterhofer2013,,false
 Liwengi-lion-1,,Liwengi,lion,liboːnzi,liboːnzi,l i b oː n z i,,Mitterhofer2013,,false
 Lwanzali-lion-1,,Lwanzali,lion,ɲalupala,ɲalupala,ɲ a l u p a l a,,Mitterhofer2013,,false
-Makanjaula-lion-1,,Makanjaula,lion,liboːnsi,liboːnsi,l i b oː n s i,,Mitterhofer2013,,false
+Makanjaula-lion-1,,Makanjaula,lion,liboːnsi,liboːnsi,l i b oː ns i,,Mitterhofer2013,,false
 Ujindile-lion-1,,Ujindile,lion,ɲalupala,ɲalupala,ɲ a l u p a l a,,Mitterhofer2013,,false
 Ukalawa-lion-1,,Ukalawa,lion,lisiːmba,lisiːmba,l i s iː m b a,,Mitterhofer2013,,false
-Utalingoro-lion-1,,Utalingoro,lion,liboːnsi,liboːnsi,l i b oː n s i,,Mitterhofer2013,,false
+Utalingoro-lion-1,,Utalingoro,lion,liboːnsi,liboːnsi,l i b oː ns i,,Mitterhofer2013,,false
 Utengule-lion-1,,Utengule,lion,ɲalupala,ɲalupala,ɲ a l u p a l a,,Mitterhofer2013,,false
 Wangama-lion-1,,Wangama,lion,ɲalupala,ɲalupala,ɲ a l u p a l a,,Mitterhofer2013,,false
 Ikuna-bat-1,,Ikuna,bat,himbudiːmbudi,himbudiːmbudi,h i m b u d iː m b u d i,,Mitterhofer2013,,false
@@ -489,7 +489,7 @@ Ukalawa-bat-1,,Ukalawa,bat,kimbudiːmbudi,kimbudiːmbudi,k i m b u d iː m b u d
 Ikuna-butterfly-1,,Ikuna,butterfly,lipuŋguluːsi,lipuŋguluːsi,l i p u ŋ g u l uː s i,,Mitterhofer2013,,false
 Itipula-butterfly-1,,Itipula,butterfly,lipuŋguluːsi,lipuŋguluːsi,l i p u ŋ g u l uː s i,,Mitterhofer2013,,false
 Kanamalenga-butterfly-1,,Kanamalenga,butterfly,lipuŋguluːsi,lipuŋguluːsi,l i p u ŋ g u l uː s i,,Mitterhofer2013,,false
-Liwengi-butterfly-1,,Liwengi,butterfly,lipuŋgwuːsi,lipuŋgwuːsi,l i p u ŋ g w uː s i,,Mitterhofer2013,,false
+Liwengi-butterfly-1,,Liwengi,butterfly,lipuŋgwuːsi,lipuŋgwuːsi,l i p u ŋ gw uː s i,,Mitterhofer2013,,false
 Ujindile-butterfly-1,,Ujindile,butterfly,himbulujuːsi,himbulujuːsi,h i m b u l u j uː s i,,Mitterhofer2013,,false
 Ukalawa-butterfly-1,,Ukalawa,butterfly,lipuŋguluːsi,lipuŋguluːsi,l i p u ŋ g u l uː s i,,Mitterhofer2013,,false
 Ihanja-goat-1,,Ihanja,goat,mene,mene,m e n e,,Mitterhofer2013,,false
@@ -521,15 +521,15 @@ Wangama-cow-1,,Wangama,cow,seːŋga,seːŋga,s eː ŋ g a,,Mitterhofer2013,,fals
 Ikuna-bull-1,,Ikuna,bull,likambaːho,likambaːho,l i k a m b aː h o,,Mitterhofer2013,,false
 Itipula-bull-1,,Itipula,bull,likambaːko,likambaːko,l i k a m b aː k o,,Mitterhofer2013,,false
 Kanamalenga-bull-1,,Kanamalenga,bull,likambaho,likambaho,l i k a m b a h o,,Mitterhofer2013,,false
-Liwengi-bull-1,,Liwengi,bull,likhambaːho,likhambaːho,l i k h a m b aː h o,,Mitterhofer2013,,false
+Liwengi-bull-1,,Liwengi,bull,likhambaːho,likhambaːho,l i kh a m b aː h o,,Mitterhofer2013,,false
 Ujindile-bull-1,,Ujindile,bull,likambaːxo,likambaːxo,l i k a m b aː x o,,Mitterhofer2013,,false
 Ukalawa-bull-1,,Ukalawa,bull,likambaːko,likambaːko,l i k a m b aː k o,,Mitterhofer2013,,false
-Ikuna-calf-1,,Ikuna,calf,hagwaːda,hagwaːda,h a g w aː d a,,Mitterhofer2013,,false
+Ikuna-calf-1,,Ikuna,calf,hagwaːda,hagwaːda,h a gw aː d a,,Mitterhofer2013,,false
 Itipula-calf-1,,Itipula,calf,ndama,ndama,n d a m a,,Mitterhofer2013,,false
 Kanamalenga-calf-1,,Kanamalenga,calf,ndama,ndama,n d a m a,,Mitterhofer2013,,false
 Liwengi-calf-1,,Liwengi,calf,ndama,ndama,n d a m a,,Mitterhofer2013,,false
 Ujindile-calf-1,,Ujindile,calf,ndama,ndama,n d a m a,,Mitterhofer2013,,false
-Ukalawa-calf-1,,Ukalawa,calf,ŋgwaːda,ŋgwaːda,ŋ g w aː d a,,Mitterhofer2013,,false
+Ukalawa-calf-1,,Ukalawa,calf,ŋgwaːda,ŋgwaːda,ŋ gw aː d a,,Mitterhofer2013,,false
 Ihanja-chicken-1,,Ihanja,chicken,ŋuːhu,ŋuːhu,ŋ uː h u,,Mitterhofer2013,,false
 Ikuna-chicken-1,,Ikuna,chicken,ŋuːhu,ŋuːhu,ŋ uː h u,,Mitterhofer2013,,false
 Itambo-chicken-1,,Itambo,chicken,ŋuːku,ŋuːku,ŋ uː k u,,Mitterhofer2013,,false
@@ -543,10 +543,10 @@ Ukalawa-chicken-1,,Ukalawa,chicken,ŋuːku,ŋuːku,ŋ uː k u,,Mitterhofer2013,,
 Utalingoro-chicken-1,,Utalingoro,chicken,ŋuːhu,ŋuːhu,ŋ uː h u,,Mitterhofer2013,,false
 Utengule-chicken-1,,Utengule,chicken,ŋuːhu,ŋuːhu,ŋ uː h u,,Mitterhofer2013,,false
 Wangama-chicken-1,,Wangama,chicken,ŋuːhu,ŋuːhu,ŋ uː h u,,Mitterhofer2013,,false
-Ikuna-cockroooster-1,,Ikuna,cockroooster,litsogolo,litsogolo,l i t s o g o l o,,Mitterhofer2013,,false
-Itipula-cockroooster-1,,Itipula,cockroooster,liːtsogolo,liːtsogolo,l iː t s o g o l o,,Mitterhofer2013,,false
-Kanamalenga-cockroooster-1,,Kanamalenga,cockroooster,litdʒogolo,litdʒogolo,l i t d ʒ o g o l o,,Mitterhofer2013,,false
-Liwengi-cockroooster-1,,Liwengi,cockroooster,litsogolo,litsogolo,l i t s o g o l o,,Mitterhofer2013,,false
+Ikuna-cockroooster-1,,Ikuna,cockroooster,litsogolo,litsogolo,l i ts o g o l o,,Mitterhofer2013,,false
+Itipula-cockroooster-1,,Itipula,cockroooster,liːtsogolo,liːtsogolo,l iː ts o g o l o,,Mitterhofer2013,,false
+Kanamalenga-cockroooster-1,,Kanamalenga,cockroooster,litdʒogolo,litdʒogolo,l i t dʒ o g o l o,,Mitterhofer2013,,false
+Liwengi-cockroooster-1,,Liwengi,cockroooster,litsogolo,litsogolo,l i ts o g o l o,,Mitterhofer2013,,false
 Ujindile-cockroooster-1,,Ujindile,cockroooster,koːŋgoʋi,koːŋgoʋi,k oː ŋ g o ʋ i,,Mitterhofer2013,,false
 Ukalawa-cockroooster-1,,Ukalawa,cockroooster,liʋiːsi,liʋiːsi,l i ʋ iː s i,,Mitterhofer2013,,false
 Ikuna-bird-1,,Ikuna,bird,hadege,hadege,h a d e g e,,Mitterhofer2013,,false
@@ -555,30 +555,30 @@ Kanamalenga-bird-1,,Kanamalenga,bird,hidege,hidege,h i d e g e,,Mitterhofer2013,
 Liwengi-bird-1,,Liwengi,bird,hidege,hidege,h i d e g e,,Mitterhofer2013,,false
 Ujindile-bird-1,,Ujindile,bird,çideke,çideke,ç i d e k e,,Mitterhofer2013,,false
 Ukalawa-bird-1,,Ukalawa,bird,kidege,kidege,k i d e g e,,Mitterhofer2013,,false
-Ikuna-snake-1,,Ikuna,snake,lioːxa,lioːxa,l ioː x a,,Mitterhofer2013,,false
-Itipula-snake-1,,Itipula,snake,liːdʒoka,liːdʒoka,l iː d ʒ o k a,,Mitterhofer2013,,false
+Ikuna-snake-1,,Ikuna,snake,lioːxa,lioːxa,l i oː x a,,Mitterhofer2013,,false
+Itipula-snake-1,,Itipula,snake,liːdʒoka,liːdʒoka,l iː dʒ o k a,,Mitterhofer2013,,false
 Kanamalenga-snake-1,,Kanamalenga,snake,lijoːha,lijoːha,l i j oː h a,,Mitterhofer2013,,false
 Liwengi-snake-1,,Liwengi,snake,liːjoho,liːjoho,l iː j o h o,,Mitterhofer2013,,false
-Ujindile-snake-1,,Ujindile,snake,lidʒoxa,lidʒoxa,l i d ʒ o x a,,Mitterhofer2013,,false
-Ukalawa-snake-1,,Ukalawa,snake,liːoka,liːoka,l iːo k a,,Mitterhofer2013,,false
+Ujindile-snake-1,,Ujindile,snake,lidʒoxa,lidʒoxa,l i dʒ o x a,,Mitterhofer2013,,false
+Ukalawa-snake-1,,Ukalawa,snake,liːoka,liːoka,l iː o k a,,Mitterhofer2013,,false
 Ikuna-fish-1,,Ikuna,fish,soːmba,soːmba,s oː m b a,,Mitterhofer2013,,false
 Itipula-fish-1,,Itipula,fish,soːmba,soːmba,s oː m b a,,Mitterhofer2013,,false
 Kanamalenga-fish-1,,Kanamalenga,fish,swi,swi,s w i,,Mitterhofer2013,,false
 Liwengi-fish-1,,Liwengi,fish,soːmba,soːmba,s oː m b a,,Mitterhofer2013,,false
 Ujindile-fish-1,,Ujindile,fish,soːmba,soːmba,s oː m b a,,Mitterhofer2013,,false
 Ukalawa-fish-1,,Ukalawa,fish,soːmba,soːmba,s oː m b a,,Mitterhofer2013,,false
-Ihanja-bee-1,,Ihanja,bee,ntsuhi,ntsuhi,n t s u h i,,Mitterhofer2013,,false
-Ikuna-bee-1,,Ikuna,bee,ntsuhi,ntsuhi,n t s u h i,,Mitterhofer2013,,false
-Itambo-bee-1,,Itambo,bee,ntsuki,ntsuki,n t s u k i,,Mitterhofer2013,,false
-Itipula-bee-1,,Itipula,bee,ntsuːki,ntsuːki,n t s uː k i,,Mitterhofer2013,,false
-Kanamalenga-bee-1,,Kanamalenga,bee,ndʒuhi,ndʒuhi,n d ʒ u h i,,Mitterhofer2013,,false
-Liwengi-bee-1,,Liwengi,bee,ndsuhi,ndsuhi,n d s u h i,,Mitterhofer2013,,false
-Lwanzali-bee-1,,Lwanzali,bee,ntsuːki,ntsuːki,n t s uː k i,,Mitterhofer2013,,false
-Makanjaula-bee-1,,Makanjaula,bee,ntsuhi,ntsuhi,n t s u h i,,Mitterhofer2013,,false
-Ujindile-bee-1,,Ujindile,bee,ntsuːxi,ntsuːxi,n t s uː x i,,Mitterhofer2013,,false
-Ukalawa-bee-1,,Ukalawa,bee,ntsuki,ntsuki,n t s u k i,,Mitterhofer2013,,false
-Utalingoro-bee-1,,Utalingoro,bee,ntʃuhi,ntʃuhi,n t ʃ u h i,,Mitterhofer2013,,false
-Utengule-bee-1,,Utengule,bee,intsuhi,intsuhi,i n t s u h i,,Mitterhofer2013,,false
+Ihanja-bee-1,,Ihanja,bee,ntsuhi,ntsuhi,n ts u h i,,Mitterhofer2013,,false
+Ikuna-bee-1,,Ikuna,bee,ntsuhi,ntsuhi,n ts u h i,,Mitterhofer2013,,false
+Itambo-bee-1,,Itambo,bee,ntsuki,ntsuki,n ts u k i,,Mitterhofer2013,,false
+Itipula-bee-1,,Itipula,bee,ntsuːki,ntsuːki,n ts uː k i,,Mitterhofer2013,,false
+Kanamalenga-bee-1,,Kanamalenga,bee,ndʒuhi,ndʒuhi,n dʒ u h i,,Mitterhofer2013,,false
+Liwengi-bee-1,,Liwengi,bee,ndsuhi,ndsuhi,n ds u h i,,Mitterhofer2013,,false
+Lwanzali-bee-1,,Lwanzali,bee,ntsuːki,ntsuːki,n ts uː k i,,Mitterhofer2013,,false
+Makanjaula-bee-1,,Makanjaula,bee,ntsuhi,ntsuhi,n ts u h i,,Mitterhofer2013,,false
+Ujindile-bee-1,,Ujindile,bee,ntsuːxi,ntsuːxi,n ts uː x i,,Mitterhofer2013,,false
+Ukalawa-bee-1,,Ukalawa,bee,ntsuki,ntsuki,n ts u k i,,Mitterhofer2013,,false
+Utalingoro-bee-1,,Utalingoro,bee,ntʃuhi,ntʃuhi,n tʃ u h i,,Mitterhofer2013,,false
+Utengule-bee-1,,Utengule,bee,intsuhi,intsuhi,i n ts u h i,,Mitterhofer2013,,false
 Wangama-bee-1,,Wangama,bee,inzuhi,inzuhi,i n z u h i,,Mitterhofer2013,,false
 Ikuna-headlouse-1,,Ikuna,headlouse,lisosolo,lisosolo,l i s o s o l o,,Mitterhofer2013,,false
 Itipula-headlouse-1,,Itipula,headlouse,lisosolo,lisosolo,l i s o s o l o,,Mitterhofer2013,,false
@@ -599,47 +599,47 @@ Ukalawa-tree-1,,Ukalawa,tree,libiki,libiki,l i b i k i,,Mitterhofer2013,,false
 Utalingoro-tree-1,,Utalingoro,tree,libiçi,libiçi,l i b i ç i,,Mitterhofer2013,,false
 Utengule-tree-1,,Utengule,tree,libiçi,libiçi,l i b i ç i,,Mitterhofer2013,,false
 Wangama-tree-1,,Wangama,tree,libihi,libihi,l i b i h i,,Mitterhofer2013,,false
-Ihanja-barkoftree-1,,Ihanja,barkoftree,libaːnsi,libaːnsi,l i b aː n s i,,Mitterhofer2013,,false
+Ihanja-barkoftree-1,,Ihanja,barkoftree,libaːnsi,libaːnsi,l i b aː ns i,,Mitterhofer2013,,false
 Ikuna-barkoftree-1,,Ikuna,barkoftree,gaːnda,gaːnda,g aː n d a,,Mitterhofer2013,,false
 Itambo-barkoftree-1,,Itambo,barkoftree,ligola,ligola,l i g o l a,,Mitterhofer2013,,false
 Itipula-barkoftree-1,,Itipula,barkoftree,likoːna,likoːna,l i k oː n a,,Mitterhofer2013,,false
 Kanamalenga-barkoftree-1,,Kanamalenga,barkoftree,libandi,libandi,l i b a n d i,,Mitterhofer2013,,false
 Liwengi-barkoftree-1,,Liwengi,barkoftree,likoːna,likoːna,l i k oː n a,,Mitterhofer2013,,false
 Lwanzali-barkoftree-1,,Lwanzali,barkoftree,likoːna,likoːna,l i k oː n a,,Mitterhofer2013,,false
-Makanjaula-barkoftree-1,,Makanjaula,barkoftree,libaːntsi,libaːntsi,l i b aː n t s i,,Mitterhofer2013,,false
+Makanjaula-barkoftree-1,,Makanjaula,barkoftree,libaːntsi,libaːntsi,l i b aː n ts i,,Mitterhofer2013,,false
 Ujindile-barkoftree-1,,Ujindile,barkoftree,magaːnda,magaːnda,m a g aː n d a,,Mitterhofer2013,,false
-Ukalawa-barkoftree-1,,Ukalawa,barkoftree,libaːnsi,libaːnsi,l i b aː n s i,,Mitterhofer2013,,false
-Utalingoro-barkoftree-1,,Utalingoro,barkoftree,libaːnsi,libaːnsi,l i b aː n s i,,Mitterhofer2013,,false
+Ukalawa-barkoftree-1,,Ukalawa,barkoftree,libaːnsi,libaːnsi,l i b aː ns i,,Mitterhofer2013,,false
+Utalingoro-barkoftree-1,,Utalingoro,barkoftree,libaːnsi,libaːnsi,l i b aː ns i,,Mitterhofer2013,,false
 Utengule-barkoftree-1,,Utengule,barkoftree,libaːndu,libaːndu,l i b aː n d u,,Mitterhofer2013,,false
 Wangama-barkoftree-1,,Wangama,barkoftree,ilibaːnzi,ilibaːnzi,i l i b aː n z i,,Mitterhofer2013,,false
 Ihanja-leaf-1,,Ihanja,leaf,lihamba,lihamba,l i h a m b a,,Mitterhofer2013,,false
-Ikuna-leaf-1,,Ikuna,leaf,lihaːnso,lihaːnso,l i h aː n s o,,Mitterhofer2013,,false
-Itambo-leaf-1,,Itambo,leaf,likwati,likwati,l i k w a t i,,Mitterhofer2013,,false
-Itipula-leaf-1,,Itipula,leaf,lihaːnso,lihaːnso,l i h aː n s o,,Mitterhofer2013,,false
+Ikuna-leaf-1,,Ikuna,leaf,lihaːnso,lihaːnso,l i h aː ns o,,Mitterhofer2013,,false
+Itambo-leaf-1,,Itambo,leaf,likwati,likwati,l i kw a t i,,Mitterhofer2013,,false
+Itipula-leaf-1,,Itipula,leaf,lihaːnso,lihaːnso,l i h aː ns o,,Mitterhofer2013,,false
 Kanamalenga-leaf-1,,Kanamalenga,leaf,lituːndu,lituːndu,l i t uː n d u,,Mitterhofer2013,,false
-Liwengi-leaf-1,,Liwengi,leaf,lihaːmba/lihanzo,lihaːmba/lihanzo,l i h aː m b a / l i h a n z o,,Mitterhofer2013,,false
+Liwengi-leaf-1,,Liwengi,leaf,lihaːmba/lihanzo,lihaːmba/lihanzo,<???>,,Mitterhofer2013,,false
 Lwanzali-leaf-1,,Lwanzali,leaf,likʷaːti,likʷaːti,l i kʷ aː t i,,Mitterhofer2013,,false
-Makanjaula-leaf-1,,Makanjaula,leaf,lihaːnso,lihaːnso,l i h aː n s o,,Mitterhofer2013,,false
+Makanjaula-leaf-1,,Makanjaula,leaf,lihaːnso,lihaːnso,l i h aː ns o,,Mitterhofer2013,,false
 Ujindile-leaf-1,,Ujindile,leaf,lituːndu,lituːndu,l i t uː n d u,,Mitterhofer2013,,false
-Ukalawa-leaf-1,,Ukalawa,leaf,likwaːti,likwaːti,l i k w aː t i,,Mitterhofer2013,,false
-Utalingoro-leaf-1,,Utalingoro,leaf,lihaːnsi,lihaːnsi,l i h aː n s i,,Mitterhofer2013,,false
+Ukalawa-leaf-1,,Ukalawa,leaf,likwaːti,likwaːti,l i kw aː t i,,Mitterhofer2013,,false
+Utalingoro-leaf-1,,Utalingoro,leaf,lihaːnsi,lihaːnsi,l i h aː ns i,,Mitterhofer2013,,false
 Utengule-leaf-1,,Utengule,leaf,lihaːmba,lihaːmba,l i h aː m b a,,Mitterhofer2013,,false
 Wangama-leaf-1,,Wangama,leaf,lituːndu,lituːndu,l i t uː n d u,,Mitterhofer2013,,false
 Ikuna-branchoftree-1,,Ikuna,branchoftree,lipago,lipago,l i p a g o,,Mitterhofer2013,,false
 Itipula-branchoftree-1,,Itipula,branchoftree,lipago,lipago,l i p a g o,,Mitterhofer2013,,false
-Kanamalenga-branchoftree-1,,Kanamalenga,branchoftree,linagatʃi,linagatʃi,l i n a g a t ʃ i,,Mitterhofer2013,,false
+Kanamalenga-branchoftree-1,,Kanamalenga,branchoftree,linagatʃi,linagatʃi,l i n a g a tʃ i,,Mitterhofer2013,,false
 Liwengi-branchoftree-1,,Liwengi,branchoftree,lipago,lipago,l i p a g o,,Mitterhofer2013,,false
 Ujindile-branchoftree-1,,Ujindile,branchoftree,limako,limako,l i m a k o,,Mitterhofer2013,,false
 Ukalawa-branchoftree-1,,Ukalawa,branchoftree,lipaːnda,lipaːnda,l i p aː n d a,,Mitterhofer2013,,false
-Ikuna-shadeoftree-1,,Ikuna,shadeoftree,mwifuni,mwifuni,m w i f u n i,,Mitterhofer2013,,false
-Itipula-shadeoftree-1,,Itipula,shadeoftree,mwigiːsila,mwigiːsila,m w i g iː s i l a,,Mitterhofer2013,,false
-Kanamalenga-shadeoftree-1,,Kanamalenga,shadeoftree,mwiŋgiːki,mwiŋgiːki,m w i ŋ g iː k i,,Mitterhofer2013,,false
+Ikuna-shadeoftree-1,,Ikuna,shadeoftree,mwifuni,mwifuni,mw i f u n i,,Mitterhofer2013,,false
+Itipula-shadeoftree-1,,Itipula,shadeoftree,mwigiːsila,mwigiːsila,mw i g iː s i l a,,Mitterhofer2013,,false
+Kanamalenga-shadeoftree-1,,Kanamalenga,shadeoftree,mwiŋgiːki,mwiŋgiːki,mw i ŋ g iː k i,,Mitterhofer2013,,false
 Liwengi-shadeoftree-1,,Liwengi,shadeoftree,musiːho,musiːho,m u s iː h o,,Mitterhofer2013,,false
-Ujindile-shadeoftree-1,,Ujindile,shadeoftree,mwisiːxo,mwisiːxo,m w i s iː x o,,Mitterhofer2013,,false
-Ukalawa-shadeoftree-1,,Ukalawa,shadeoftree,mwiːfuɲi,mwiːfuɲi,m w iː f u ɲ i,,Mitterhofer2013,,false
+Ujindile-shadeoftree-1,,Ujindile,shadeoftree,mwisiːxo,mwisiːxo,mw i s iː x o,,Mitterhofer2013,,false
+Ukalawa-shadeoftree-1,,Ukalawa,shadeoftree,mwiːfuɲi,mwiːfuɲi,mw iː f u ɲ i,,Mitterhofer2013,,false
 Ikuna-walkingstick-1,,Ikuna,walkingstick,msaga,msaga,m s a g a,,Mitterhofer2013,,false
 Itipula-walkingstick-1,,Itipula,walkingstick,musagi,musagi,m u s a g i,,Mitterhofer2013,,false
-Kanamalenga-walkingstick-1,,Kanamalenga,walkingstick,lusoːndʒo,lusoːndʒo,l u s oː n d ʒ o,,Mitterhofer2013,,false
+Kanamalenga-walkingstick-1,,Kanamalenga,walkingstick,lusoːndʒo,lusoːndʒo,l u s oː n dʒ o,,Mitterhofer2013,,false
 Liwengi-walkingstick-1,,Liwengi,walkingstick,musagi,musagi,m u s a g i,,Mitterhofer2013,,false
 Ujindile-walkingstick-1,,Ujindile,walkingstick,msaka,msaka,m s a k a,,Mitterhofer2013,,false
 Ukalawa-walkingstick-1,,Ukalawa,walkingstick,musaga,musaga,m u s a g a,,Mitterhofer2013,,false
@@ -648,7 +648,7 @@ Itipula-rootoftree-1,,Itipula,rootoftree,mudela,mudela,m u d e l a,,Mitterhofer2
 Kanamalenga-rootoftree-1,,Kanamalenga,rootoftree,iːdela,iːdela,iː d e l a,,Mitterhofer2013,,false
 Liwengi-rootoftree-1,,Liwengi,rootoftree,mudeːla,mudeːla,m u d eː l a,,Mitterhofer2013,,false
 Ujindile-rootoftree-1,,Ujindile,rootoftree,lileːla,lileːla,l i l eː l a,,Mitterhofer2013,,false
-Ukalawa-rootoftree-1,,Ukalawa,rootoftree,mudandalitsi,mudandalitsi,m u d a n d a l i t s i,,Mitterhofer2013,,false
+Ukalawa-rootoftree-1,,Ukalawa,rootoftree,mudandalitsi,mudandalitsi,m u d a n d a l i ts i,,Mitterhofer2013,,false
 Ihanja-seed-1,,Ihanja,seed,mbeju,mbeju,m b e j u,,Mitterhofer2013,,false
 Ikuna-seed-1,,Ikuna,seed,mbeju,mbeju,m b e j u,,Mitterhofer2013,,false
 Itambo-seed-1,,Itambo,seed,mmbeju,mmbeju,mm b e j u,,Mitterhofer2013,,false
@@ -669,16 +669,16 @@ Liwengi-grass-1,,Liwengi,grass,lisoli,lisoli,l i s o l i,,Mitterhofer2013,,false
 Ujindile-grass-1,,Ujindile,grass,lisoli,lisoli,l i s o l i,,Mitterhofer2013,,false
 Ukalawa-grass-1,,Ukalawa,grass,lisoli,lisoli,l i s o l i,,Mitterhofer2013,,false
 Ikuna-flowers-1,,Ikuna,flowers,liluʋa,liluʋa,l i l u ʋ a,,Mitterhofer2013,,false
-Itipula-flowers-1,,Itipula,flowers,maua,maua,m aua,,Mitterhofer2013,,false
+Itipula-flowers-1,,Itipula,flowers,maua,maua,m a u a,,Mitterhofer2013,,false
 Kanamalenga-flowers-1,,Kanamalenga,flowers,maluʋa,maluʋa,m a l u ʋ a,,Mitterhofer2013,,false
 Liwengi-flowers-1,,Liwengi,flowers,vuluːva,vuluːva,v u l uː v a,,Mitterhofer2013,,false
 Ujindile-flowers-1,,Ujindile,flowers,mavuːva,mavuːva,m a v uː v a,,Mitterhofer2013,,false
 Ukalawa-flowers-1,,Ukalawa,flowers,wuluːva,wuluːva,w u l uː v a,,Mitterhofer2013,,false
-Ikuna-thorn-1,,Ikuna,thorn,musuː6,musuː6,m u s uː 6,,Mitterhofer2013,,false
-Itipula-thorn-1,,Itipula,thorn,mwiːfwa,mwiːfwa,m w iː f w a,,Mitterhofer2013,,false
-Kanamalenga-thorn-1,,Kanamalenga,thorn,musuː6,musuː6,m u s uː 6,,Mitterhofer2013,,false
-Liwengi-thorn-1,,Liwengi,thorn,musuː6,musuː6,m u s uː 6,,Mitterhofer2013,,false
-Ujindile-thorn-1,,Ujindile,thorn,mwiːfwa,mwiːfwa,m w iː f w a,,Mitterhofer2013,,false
+Ikuna-thorn-1,,Ikuna,thorn,musuː6,musuː6,m u s uː <?>,,Mitterhofer2013,,false
+Itipula-thorn-1,,Itipula,thorn,mwiːfwa,mwiːfwa,mw iː fw a,,Mitterhofer2013,,false
+Kanamalenga-thorn-1,,Kanamalenga,thorn,musuː6,musuː6,m u s uː <?>,,Mitterhofer2013,,false
+Liwengi-thorn-1,,Liwengi,thorn,musuː6,musuː6,m u s uː <?>,,Mitterhofer2013,,false
+Ujindile-thorn-1,,Ujindile,thorn,mwiːfwa,mwiːfwa,mw iː fw a,,Mitterhofer2013,,false
 Ukalawa-thorn-1,,Ukalawa,thorn,lihomi,lihomi,l i h o m i,,Mitterhofer2013,,false
 Ihanja-field-1,,Ihanja,field,muguːnda,muguːnda,m u g uː n d a,,Mitterhofer2013,,false
 Ikuna-field-1,,Ikuna,field,muguːnda,muguːnda,m u g uː n d a,,Mitterhofer2013,,false
@@ -706,18 +706,18 @@ Ukalawa-house-1,,Ukalawa,house,kaːje,kaːje,k aː j e,,Mitterhofer2013,,false
 Utalingoro-house-1,,Utalingoro,house,boːma,boːma,b oː m a,,Mitterhofer2013,,false
 Utengule-house-1,,Utengule,house,kaːje,kaːje,k aː j e,,Mitterhofer2013,,false
 Wangama-house-1,,Wangama,house,ikaːje,ikaːje,i k aː j e,,Mitterhofer2013,,false
-Ikuna-wall-1,,Ikuna,wall,lukaːnsi,lukaːnsi,l u k aː n s i,,Mitterhofer2013,,false
-Itipula-wall-1,,Itipula,wall,lukaːnsi,lukaːnsi,l u k aː n s i,,Mitterhofer2013,,false
-Kanamalenga-wall-1,,Kanamalenga,wall,lukaːndʒi,lukaːndʒi,l u k aː n d ʒ i,,Mitterhofer2013,,false
-Liwengi-wall-1,,Liwengi,wall,lukaːnsi,lukaːnsi,l u k aː n s i,,Mitterhofer2013,,false
-Ujindile-wall-1,,Ujindile,wall,lukaːnsi,lukaːnsi,l u k aː n s i,,Mitterhofer2013,,false
-Ukalawa-wall-1,,Ukalawa,wall,lukaːnsi,lukaːnsi,l u k aː n s i,,Mitterhofer2013,,false
+Ikuna-wall-1,,Ikuna,wall,lukaːnsi,lukaːnsi,l u k aː ns i,,Mitterhofer2013,,false
+Itipula-wall-1,,Itipula,wall,lukaːnsi,lukaːnsi,l u k aː ns i,,Mitterhofer2013,,false
+Kanamalenga-wall-1,,Kanamalenga,wall,lukaːndʒi,lukaːndʒi,l u k aː n dʒ i,,Mitterhofer2013,,false
+Liwengi-wall-1,,Liwengi,wall,lukaːnsi,lukaːnsi,l u k aː ns i,,Mitterhofer2013,,false
+Ujindile-wall-1,,Ujindile,wall,lukaːnsi,lukaːnsi,l u k aː ns i,,Mitterhofer2013,,false
+Ukalawa-wall-1,,Ukalawa,wall,lukaːnsi,lukaːnsi,l u k aː ns i,,Mitterhofer2013,,false
 Ikuna-village-1,,Ikuna,village,luʋala,luʋala,l u ʋ a l a,,Mitterhofer2013,,false
-Itipula-village-1,,Itipula,village,kidʒidʒi,kidʒidʒi,k i d ʒ i d ʒ i,,Mitterhofer2013,,false
+Itipula-village-1,,Itipula,village,kidʒidʒi,kidʒidʒi,k i dʒ i dʒ i,,Mitterhofer2013,,false
 Kanamalenga-village-1,,Kanamalenga,village,ikaːje,ikaːje,i k aː j e,,Mitterhofer2013,,false
-Liwengi-village-1,,Liwengi,village,hidʒiːdʒi,hidʒiːdʒi,h i d ʒ iː d ʒ i,,Mitterhofer2013,,false
-Ujindile-village-1,,Ujindile,village,hidʒiːdʒi,hidʒiːdʒi,h i d ʒ iː d ʒ i,,Mitterhofer2013,,false
-Ukalawa-village-1,,Ukalawa,village,kidʒidʒi,kidʒidʒi,k i d ʒ i d ʒ i,,Mitterhofer2013,,false
+Liwengi-village-1,,Liwengi,village,hidʒiːdʒi,hidʒiːdʒi,h i dʒ iː dʒ i,,Mitterhofer2013,,false
+Ujindile-village-1,,Ujindile,village,hidʒiːdʒi,hidʒiːdʒi,h i dʒ iː dʒ i,,Mitterhofer2013,,false
+Ukalawa-village-1,,Ukalawa,village,kidʒidʒi,kidʒidʒi,k i dʒ i dʒ i,,Mitterhofer2013,,false
 Ikuna-path-1,,Ikuna,path,ŋaːsi,ŋaːsi,ŋ aː s i,,Mitterhofer2013,,false
 Itipula-path-1,,Itipula,path,ŋaːsi,ŋaːsi,ŋ aː s i,,Mitterhofer2013,,false
 Kanamalenga-path-1,,Kanamalenga,path,ŋaːsi,ŋaːsi,ŋ aː s i,,Mitterhofer2013,,false
@@ -730,18 +730,18 @@ Kanamalenga-thingobject-1,,Kanamalenga,thingobject,hiːnu,hiːnu,h iː n u,,Mitt
 Liwengi-thingobject-1,,Liwengi,thingobject,ʃiːnu,ʃiːnu,ʃ iː n u,,Mitterhofer2013,,false
 Ujindile-thingobject-1,,Ujindile,thingobject,hiːnu,hiːnu,h iː n u,,Mitterhofer2013,,false
 Ukalawa-thingobject-1,,Ukalawa,thingobject,kiːnu,kiːnu,k iː n u,,Mitterhofer2013,,false
-Ikuna-rope-1,,Ikuna,rope,mutsitsi,mutsitsi,m u t s i t s i,,Mitterhofer2013,,false
+Ikuna-rope-1,,Ikuna,rope,mutsitsi,mutsitsi,m u ts i ts i,,Mitterhofer2013,,false
 Itipula-rope-1,,Itipula,rope,mpiːŋgo,mpiːŋgo,m p iː ŋ g o,,Mitterhofer2013,,false
-Kanamalenga-rope-1,,Kanamalenga,rope,lutʃitʃi,lutʃitʃi,l u t ʃ i t ʃ i,,Mitterhofer2013,,false
+Kanamalenga-rope-1,,Kanamalenga,rope,lutʃitʃi,lutʃitʃi,l u tʃ i tʃ i,,Mitterhofer2013,,false
 Liwengi-rope-1,,Liwengi,rope,mpiŋgo,mpiŋgo,m p i ŋ g o,,Mitterhofer2013,,false
 Ujindile-rope-1,,Ujindile,rope,mulegesi,mulegesi,m u l e g e s i,,Mitterhofer2013,,false
 Ukalawa-rope-1,,Ukalawa,rope,mpiŋgo,mpiŋgo,m p i ŋ g o,,Mitterhofer2013,,false
 Ikuna-thread-1,,Ikuna,thread,lusawula,lusawula,l u s a w u l a,,Mitterhofer2013,,false
 Itipula-thread-1,,Itipula,thread,lusawula,lusawula,l u s a w u l a,,Mitterhofer2013,,false
-Kanamalenga-thread-1,,Kanamalenga,thread,lusawulwa,lusawulwa,l u s a w u l w a,,Mitterhofer2013,,false
+Kanamalenga-thread-1,,Kanamalenga,thread,lusawulwa,lusawulwa,l u s a w u lw a,,Mitterhofer2013,,false
 Liwengi-thread-1,,Liwengi,thread,lusawula,lusawula,l u s a w u l a,,Mitterhofer2013,,false
-Ujindile-thread-1,,Ujindile,thread,lusaʋulwa,lusaʋulwa,l u s a ʋ u l w a,,Mitterhofer2013,,false
-Ukalawa-thread-1,,Ukalawa,thread,lusawulwa,lusawulwa,l u s a w u l w a,,Mitterhofer2013,,false
+Ujindile-thread-1,,Ujindile,thread,lusaʋulwa,lusaʋulwa,l u s a ʋ u lw a,,Mitterhofer2013,,false
+Ukalawa-thread-1,,Ukalawa,thread,lusawulwa,lusawulwa,l u s a w u lw a,,Mitterhofer2013,,false
 Ikuna-knot-1,,Ikuna,knot,hihudiho,hihudiho,h i h u d i h o,,Mitterhofer2013,,false
 Itipula-knot-1,,Itipula,knot,kihudiko,kihudiko,k i h u d i k o,,Mitterhofer2013,,false
 Kanamalenga-knot-1,,Kanamalenga,knot,ihudiho,ihudiho,i h u d i h o,,Mitterhofer2013,,false
@@ -761,7 +761,7 @@ Ukalawa-chair-1,,Ukalawa,chair,kideːgo,kideːgo,k i d eː g o,,Mitterhofer2013,
 Utalingoro-chair-1,,Utalingoro,chair,hideːgo,hideːgo,h i d eː g o,,Mitterhofer2013,,false
 Utengule-chair-1,,Utengule,chair,higoda,higoda,h i g o d a,,Mitterhofer2013,,false
 Wangama-chair-1,,Wangama,chair,hideːgo,hideːgo,h i d eː g o,,Mitterhofer2013,,false
-Ihanja-stool-1,,Ihanja,stool,kienyeji,kienyeji,k ie n ye j i,,Mitterhofer2013,,false
+Ihanja-stool-1,,Ihanja,stool,kienyeji,kienyeji,k i e n y e j i,,Mitterhofer2013,,false
 Ikuna-stool-1,,Ikuna,stool,higoda,higoda,h i g o d a,,Mitterhofer2013,,false
 Itambo-stool-1,,Itambo,stool,kideːgo,kideːgo,k i d eː g o,,Mitterhofer2013,,false
 Itipula-stool-1,,Itipula,stool,kideːgo,kideːgo,k i d eː g o,,Mitterhofer2013,,false
@@ -769,7 +769,7 @@ Kanamalenga-stool-1,,Kanamalenga,stool,hidego,hidego,h i d e g o,,Mitterhofer201
 Liwengi-stool-1,,Liwengi,stool,ʃideːgo,ʃideːgo,ʃ i d eː g o,,Mitterhofer2013,,false
 Lwanzali-stool-1,,Lwanzali,stool,kideːgo,kideːgo,k i d eː g o,,Mitterhofer2013,,false
 Makanjaula-stool-1,,Makanjaula,stool,kigoda,kigoda,k i g o d a,,Mitterhofer2013,,false
-Ujindile-stool-1,,Ujindile,stool,hiɲalwaŋgula,hiɲalwaŋgula,h i ɲ a l w a ŋ g u l a,,Mitterhofer2013,,false
+Ujindile-stool-1,,Ujindile,stool,hiɲalwaŋgula,hiɲalwaŋgula,h i ɲ a lw a ŋ g u l a,,Mitterhofer2013,,false
 Ukalawa-stool-1,,Ukalawa,stool,kiɲawaŋgula,kiɲawaŋgula,k i ɲ a w a ŋ g u l a,,Mitterhofer2013,,false
 Utalingoro-stool-1,,Utalingoro,stool,higoda,higoda,h i g o d a,,Mitterhofer2013,,false
 Utengule-stool-1,,Utengule,stool,higoda,higoda,h i g o d a,,Mitterhofer2013,,false
@@ -780,68 +780,68 @@ Kanamalenga-salt-1,,Kanamalenga,salt,muːɲo,muːɲo,m uː ɲ o,,Mitterhofer2013
 Liwengi-salt-1,,Liwengi,salt,muːnjo,muːnjo,m uː n j o,,Mitterhofer2013,,false
 Ujindile-salt-1,,Ujindile,salt,muːɲo,muːɲo,m uː ɲ o,,Mitterhofer2013,,false
 Ukalawa-salt-1,,Ukalawa,salt,muːɲo,muːɲo,m uː ɲ o,,Mitterhofer2013,,false
-Ikuna-fingermillet-1,,Ikuna,fingermillet,wuletsi,wuletsi,w u l e t s i,,Mitterhofer2013,,false
-Itipula-fingermillet-1,,Itipula,fingermillet,wuletsi,wuletsi,w u l e t s i,,Mitterhofer2013,,false
-Kanamalenga-fingermillet-1,,Kanamalenga,fingermillet,wuletʃi,wuletʃi,w u l e t ʃ i,,Mitterhofer2013,,false
-Liwengi-fingermillet-1,,Liwengi,fingermillet,wuletsi,wuletsi,w u l e t s i,,Mitterhofer2013,,false
-Ujindile-fingermillet-1,,Ujindile,fingermillet,wuleːtsi,wuleːtsi,w u l eː t s i,,Mitterhofer2013,,false
-Ukalawa-fingermillet-1,,Ukalawa,fingermillet,wuletsi,wuletsi,w u l e t s i,,Mitterhofer2013,,false
+Ikuna-fingermillet-1,,Ikuna,fingermillet,wuletsi,wuletsi,w u l e ts i,,Mitterhofer2013,,false
+Itipula-fingermillet-1,,Itipula,fingermillet,wuletsi,wuletsi,w u l e ts i,,Mitterhofer2013,,false
+Kanamalenga-fingermillet-1,,Kanamalenga,fingermillet,wuletʃi,wuletʃi,w u l e tʃ i,,Mitterhofer2013,,false
+Liwengi-fingermillet-1,,Liwengi,fingermillet,wuletsi,wuletsi,w u l e ts i,,Mitterhofer2013,,false
+Ujindile-fingermillet-1,,Ujindile,fingermillet,wuleːtsi,wuleːtsi,w u l eː ts i,,Mitterhofer2013,,false
+Ukalawa-fingermillet-1,,Ukalawa,fingermillet,wuletsi,wuletsi,w u l e ts i,,Mitterhofer2013,,false
 Ikuna-gruel-1,,Ikuna,gruel,wubaːga,wubaːga,w u b aː g a,,Mitterhofer2013,,false
-Itipula-gruel-1,,Itipula,gruel,wuːdʒi,wuːdʒi,w uː d ʒ i,,Mitterhofer2013,,false
+Itipula-gruel-1,,Itipula,gruel,wuːdʒi,wuːdʒi,w uː dʒ i,,Mitterhofer2013,,false
 Kanamalenga-gruel-1,,Kanamalenga,gruel,wubaːga,wubaːga,w u b aː g a,,Mitterhofer2013,,false
 Liwengi-gruel-1,,Liwengi,gruel,wubaːga,wubaːga,w u b aː g a,,Mitterhofer2013,,false
 Ujindile-gruel-1,,Ujindile,gruel,wubaːga,wubaːga,w u b aː g a,,Mitterhofer2013,,false
 Ukalawa-gruel-1,,Ukalawa,gruel,wuhopi,wuhopi,w u h o p i,,Mitterhofer2013,,false
-Ihanja-hunger-1,,Ihanja,hunger,ntʃala,ntʃala,n t ʃ a l a,,Mitterhofer2013,,false
-Ikuna-hunger-1,,Ikuna,hunger,ntsala,ntsala,n t s a l a,,Mitterhofer2013,,false
+Ihanja-hunger-1,,Ihanja,hunger,ntʃala,ntʃala,n tʃ a l a,,Mitterhofer2013,,false
+Ikuna-hunger-1,,Ikuna,hunger,ntsala,ntsala,n ts a l a,,Mitterhofer2013,,false
 Itambo-hunger-1,,Itambo,hunger,lipuːŋge,lipuːŋge,l i p uː ŋ g e,,Mitterhofer2013,,false
-Itipula-hunger-1,,Itipula,hunger,ntsaːla,ntsaːla,n t s aː l a,,Mitterhofer2013,,false
-Kanamalenga-hunger-1,,Kanamalenga,hunger,ntʃala,ntʃala,n t ʃ a l a,,Mitterhofer2013,,false
-Liwengi-hunger-1,,Liwengi,hunger,ntsaːla,ntsaːla,n t s aː l a,,Mitterhofer2013,,false
-Lwanzali-hunger-1,,Lwanzali,hunger,ntsala,ntsala,n t s a l a,,Mitterhofer2013,,false
-Makanjaula-hunger-1,,Makanjaula,hunger,ntsala,ntsala,n t s a l a,,Mitterhofer2013,,false
-Ujindile-hunger-1,,Ujindile,hunger,ntsala,ntsala,n t s a l a,,Mitterhofer2013,,false
-Ukalawa-hunger-1,,Ukalawa,hunger,ntsala,ntsala,n t s a l a,,Mitterhofer2013,,false
-Utalingoro-hunger-1,,Utalingoro,hunger,nsala,nsala,n s a l a,,Mitterhofer2013,,false
+Itipula-hunger-1,,Itipula,hunger,ntsaːla,ntsaːla,n ts aː l a,,Mitterhofer2013,,false
+Kanamalenga-hunger-1,,Kanamalenga,hunger,ntʃala,ntʃala,n tʃ a l a,,Mitterhofer2013,,false
+Liwengi-hunger-1,,Liwengi,hunger,ntsaːla,ntsaːla,n ts aː l a,,Mitterhofer2013,,false
+Lwanzali-hunger-1,,Lwanzali,hunger,ntsala,ntsala,n ts a l a,,Mitterhofer2013,,false
+Makanjaula-hunger-1,,Makanjaula,hunger,ntsala,ntsala,n ts a l a,,Mitterhofer2013,,false
+Ujindile-hunger-1,,Ujindile,hunger,ntsala,ntsala,n ts a l a,,Mitterhofer2013,,false
+Ukalawa-hunger-1,,Ukalawa,hunger,ntsala,ntsala,n ts a l a,,Mitterhofer2013,,false
+Utalingoro-hunger-1,,Utalingoro,hunger,nsala,nsala,ns a l a,,Mitterhofer2013,,false
 Utengule-hunger-1,,Utengule,hunger,nzala,nzala,n z a l a,,Mitterhofer2013,,false
-Wangama-hunger-1,,Wangama,hunger,ntsala,ntsala,n t s a l a,,Mitterhofer2013,,false
+Wangama-hunger-1,,Wangama,hunger,ntsala,ntsala,n ts a l a,,Mitterhofer2013,,false
 Ikuna-thirst-1,,Ikuna,thirst,ŋeːlu,ŋeːlu,ŋ eː l u,,Mitterhofer2013,,false
 Itipula-thirst-1,,Itipula,thirst,ŋelu,ŋelu,ŋ e l u,,Mitterhofer2013,,false
 Kanamalenga-thirst-1,,Kanamalenga,thirst,ŋelu,ŋelu,ŋ e l u,,Mitterhofer2013,,false
-Liwengi-thirst-1,,Liwengi,thirst,ndikʰelwiːhe,ndikʰelwiːhe,n d i kʰ e l w iː h e,,Mitterhofer2013,,false
+Liwengi-thirst-1,,Liwengi,thirst,ndikʰelwiːhe,ndikʰelwiːhe,n d i kʰ e lw iː h e,,Mitterhofer2013,,false
 Ujindile-thirst-1,,Ujindile,thirst,ŋeːlo,ŋeːlo,ŋ eː l o,,Mitterhofer2013,,false
 Ukalawa-thirst-1,,Ukalawa,thirst,ŋeːlu,ŋeːlu,ŋ eː l u,,Mitterhofer2013,,false
 Ikuna-utensil-1,,Ikuna,utensil,fikoːŋolo,fikoːŋolo,f i k oː ŋ o l o,,Mitterhofer2013,,false
-Itipula-utensil-1,,Itipula,utensil,fioːmbo,fioːmbo,f ioː m b o,,Mitterhofer2013,,false
+Itipula-utensil-1,,Itipula,utensil,fioːmbo,fioːmbo,f i oː m b o,,Mitterhofer2013,,false
 Kanamalenga-utensil-1,,Kanamalenga,utensil,hitoːŋga,hitoːŋga,h i t oː ŋ g a,,Mitterhofer2013,,false
 Liwengi-utensil-1,,Liwengi,utensil,fiːnu,fiːnu,f iː n u,,Mitterhofer2013,,false
-Ujindile-utensil-1,,Ujindile,utensil,ʃioːmbo,ʃioːmbo,ʃ ioː m b o,,Mitterhofer2013,,false
+Ujindile-utensil-1,,Ujindile,utensil,ʃioːmbo,ʃioːmbo,ʃ i oː m b o,,Mitterhofer2013,,false
 Ukalawa-utensil-1,,Ukalawa,utensil,kikoŋolo,kikoŋolo,k i k o ŋ o l o,,Mitterhofer2013,,false
-Ihanja-cookingpotclay-1,,Ihanja,cookingpotclay,hiʋia,hiʋia,h i ʋ ia,,Mitterhofer2013,,false
-Ikuna-cookingpotclay-1,,Ikuna,cookingpotclay,hiʋia,hiʋia,h i ʋ ia,,Mitterhofer2013,,false
-Itambo-cookingpotclay-1,,Itambo,cookingpotclay,kiʋia,kiʋia,k i ʋ ia,,Mitterhofer2013,,false
-Itipula-cookingpotclay-1,,Itipula,cookingpotclay,kiʋia,kiʋia,k i ʋ ia,,Mitterhofer2013,,false
-Kanamalenga-cookingpotclay-1,,Kanamalenga,cookingpotclay,hiʋia,hiʋia,h i ʋ ia,,Mitterhofer2013,,false
-Liwengi-cookingpotclay-1,,Liwengi,cookingpotclay,ʃivia,ʃivia,ʃ i v ia,,Mitterhofer2013,,false
-Lwanzali-cookingpotclay-1,,Lwanzali,cookingpotclay,kiʋiːa,kiʋiːa,k i ʋ iːa,,Mitterhofer2013,,false
-Makanjaula-cookingpotclay-1,,Makanjaula,cookingpotclay,hiʋia,hiʋia,h i ʋ ia,,Mitterhofer2013,,false
-Ujindile-cookingpotclay-1,,Ujindile,cookingpotclay,çiʋia,çiʋia,ç i ʋ ia,,Mitterhofer2013,,false
-Ukalawa-cookingpotclay-1,,Ukalawa,cookingpotclay,kiːʋia,kiːʋia,k iː ʋ ia,,Mitterhofer2013,,false
-Utalingoro-cookingpotclay-1,,Utalingoro,cookingpotclay,hiːʋia,hiːʋia,h iː ʋ ia,,Mitterhofer2013,,false
-Utengule-cookingpotclay-1,,Utengule,cookingpotclay,hiʋia,hiʋia,h i ʋ ia,,Mitterhofer2013,,false
-Wangama-cookingpotclay-1,,Wangama,cookingpotclay,hiːʋia,hiːʋia,h iː ʋ ia,,Mitterhofer2013,,false
-Ikuna-burdenloadcarriedonhead-1,,Ikuna,burdenloadcarriedonhead,mutsigo,mutsigo,m u t s i g o,,Mitterhofer2013,,false
-Itipula-burdenloadcarriedonhead-1,,Itipula,burdenloadcarriedonhead,mutsigo,mutsigo,m u t s i g o,,Mitterhofer2013,,false
-Kanamalenga-burdenloadcarriedonhead-1,,Kanamalenga,burdenloadcarriedonhead,mutdʒigo,mutdʒigo,m u t d ʒ i g o,,Mitterhofer2013,,false
-Liwengi-burdenloadcarriedonhead-1,,Liwengi,burdenloadcarriedonhead,mutsigo,mutsigo,m u t s i g o,,Mitterhofer2013,,false
-Ujindile-burdenloadcarriedonhead-1,,Ujindile,burdenloadcarriedonhead,mutsigo,mutsigo,m u t s i g o,,Mitterhofer2013,,false
-Ukalawa-burdenloadcarriedonhead-1,,Ukalawa,burdenloadcarriedonhead,mutsigo,mutsigo,m u t s i g o,,Mitterhofer2013,,false
+Ihanja-cookingpotclay-1,,Ihanja,cookingpotclay,hiʋia,hiʋia,h i ʋ i a,,Mitterhofer2013,,false
+Ikuna-cookingpotclay-1,,Ikuna,cookingpotclay,hiʋia,hiʋia,h i ʋ i a,,Mitterhofer2013,,false
+Itambo-cookingpotclay-1,,Itambo,cookingpotclay,kiʋia,kiʋia,k i ʋ i a,,Mitterhofer2013,,false
+Itipula-cookingpotclay-1,,Itipula,cookingpotclay,kiʋia,kiʋia,k i ʋ i a,,Mitterhofer2013,,false
+Kanamalenga-cookingpotclay-1,,Kanamalenga,cookingpotclay,hiʋia,hiʋia,h i ʋ i a,,Mitterhofer2013,,false
+Liwengi-cookingpotclay-1,,Liwengi,cookingpotclay,ʃivia,ʃivia,ʃ i v i a,,Mitterhofer2013,,false
+Lwanzali-cookingpotclay-1,,Lwanzali,cookingpotclay,kiʋiːa,kiʋiːa,k i ʋ iː a,,Mitterhofer2013,,false
+Makanjaula-cookingpotclay-1,,Makanjaula,cookingpotclay,hiʋia,hiʋia,h i ʋ i a,,Mitterhofer2013,,false
+Ujindile-cookingpotclay-1,,Ujindile,cookingpotclay,çiʋia,çiʋia,ç i ʋ i a,,Mitterhofer2013,,false
+Ukalawa-cookingpotclay-1,,Ukalawa,cookingpotclay,kiːʋia,kiːʋia,k iː ʋ i a,,Mitterhofer2013,,false
+Utalingoro-cookingpotclay-1,,Utalingoro,cookingpotclay,hiːʋia,hiːʋia,h iː ʋ i a,,Mitterhofer2013,,false
+Utengule-cookingpotclay-1,,Utengule,cookingpotclay,hiʋia,hiʋia,h i ʋ i a,,Mitterhofer2013,,false
+Wangama-cookingpotclay-1,,Wangama,cookingpotclay,hiːʋia,hiːʋia,h iː ʋ i a,,Mitterhofer2013,,false
+Ikuna-burdenloadcarriedonhead-1,,Ikuna,burdenloadcarriedonhead,mutsigo,mutsigo,m u ts i g o,,Mitterhofer2013,,false
+Itipula-burdenloadcarriedonhead-1,,Itipula,burdenloadcarriedonhead,mutsigo,mutsigo,m u ts i g o,,Mitterhofer2013,,false
+Kanamalenga-burdenloadcarriedonhead-1,,Kanamalenga,burdenloadcarriedonhead,mutdʒigo,mutdʒigo,m u t dʒ i g o,,Mitterhofer2013,,false
+Liwengi-burdenloadcarriedonhead-1,,Liwengi,burdenloadcarriedonhead,mutsigo,mutsigo,m u ts i g o,,Mitterhofer2013,,false
+Ujindile-burdenloadcarriedonhead-1,,Ujindile,burdenloadcarriedonhead,mutsigo,mutsigo,m u ts i g o,,Mitterhofer2013,,false
+Ukalawa-burdenloadcarriedonhead-1,,Ukalawa,burdenloadcarriedonhead,mutsigo,mutsigo,m u ts i g o,,Mitterhofer2013,,false
 Ikuna-ironmetal-1,,Ikuna,ironmetal,çuːma,çuːma,ç uː m a,,Mitterhofer2013,,false
-Itipula-ironmetal-1,,Itipula,ironmetal,kiuma,kiuma,k iu m a,,Mitterhofer2013,,false
+Itipula-ironmetal-1,,Itipula,ironmetal,kiuma,kiuma,k i u m a,,Mitterhofer2013,,false
 Kanamalenga-ironmetal-1,,Kanamalenga,ironmetal,ʃuːma,ʃuːma,ʃ uː m a,,Mitterhofer2013,,false
 Liwengi-ironmetal-1,,Liwengi,ironmetal,ʃuːha,ʃuːha,ʃ uː h a,,Mitterhofer2013,,false
 Ujindile-ironmetal-1,,Ujindile,ironmetal,ʃuːma,ʃuːma,ʃ uː m a,,Mitterhofer2013,,false
-Ukalawa-ironmetal-1,,Ukalawa,ironmetal,kiuːma,kiuːma,k iuː m a,,Mitterhofer2013,,false
+Ukalawa-ironmetal-1,,Ukalawa,ironmetal,kiuːma,kiuːma,k i uː m a,,Mitterhofer2013,,false
 Ikuna-hoe-1,,Ikuna,hoe,ligimilo,ligimilo,l i g i m i l o,,Mitterhofer2013,,false
 Itipula-hoe-1,,Itipula,hoe,ligumilo,ligumilo,l i g u m i l o,,Mitterhofer2013,,false
 Kanamalenga-hoe-1,,Kanamalenga,hoe,ligimilo,ligimilo,l i g i m i l o,,Mitterhofer2013,,false
@@ -867,7 +867,7 @@ Kanamalenga-bigknife-1,,Kanamalenga,bigknife,lipaːŋga,lipaːŋga,l i p aː ŋ 
 Liwengi-bigknife-1,,Liwengi,bigknife,lipaːŋga,lipaːŋga,l i p aː ŋ g a,,Mitterhofer2013,,false
 Ujindile-bigknife-1,,Ujindile,bigknife,lipaːŋga,lipaːŋga,l i p aː ŋ g a,,Mitterhofer2013,,false
 Ukalawa-bigknife-1,,Ukalawa,bigknife,lipaːnŋga,lipaːnŋga,l i p aː n ŋ g a,,Mitterhofer2013,,false
-Ikuna-dullknife-1,,Ikuna,dullknife,ʃifuːpie,ʃifuːpie,ʃ i f uː p ie,,Mitterhofer2013,,false
+Ikuna-dullknife-1,,Ikuna,dullknife,ʃifuːpie,ʃifuːpie,ʃ i f uː p i e,,Mitterhofer2013,,false
 Itipula-dullknife-1,,Itipula,dullknife,kiŋgajawuːgi,kiŋgajawuːgi,k i ŋ g a j a w uː g i,,Mitterhofer2013,,false
 Kanamalenga-dullknife-1,,Kanamalenga,dullknife,hibuːŋgifu,hibuːŋgifu,h i b uː ŋ g i f u,,Mitterhofer2013,,false
 Liwengi-dullknife-1,,Liwengi,dullknife,sihifjuːle,sihifjuːle,s i h i f j uː l e,,Mitterhofer2013,,false
@@ -880,7 +880,7 @@ Liwengi-sharpknife-1,,Liwengi,sharpknife,ʃinawuːgi,ʃinawuːgi,ʃ i n a w uː 
 Ujindile-sharpknife-1,,Ujindile,sharpknife,wuːgi,wuːgi,w uː g i,,Mitterhofer2013,,false
 Ukalawa-sharpknife-1,,Ukalawa,sharpknife,kina,kina,k i n a,,Mitterhofer2013,,false
 Ikuna-axe-1,,Ikuna,axe,silaŋga,silaŋga,s i l a ŋ g a,,Mitterhofer2013,,false
-Itipula-axe-1,,Itipula,axe,soːka/ŋgiːnda,soːka/ŋgiːnda,s oː k a / ŋ g iː n d a,,Mitterhofer2013,,false
+Itipula-axe-1,,Itipula,axe,soːka/ŋgiːnda,soːka/ŋgiːnda,<???>,,Mitterhofer2013,,false
 Kanamalenga-axe-1,,Kanamalenga,axe,eʋeːga,eʋeːga,e ʋ eː g a,,Mitterhofer2013,,false
 Liwengi-axe-1,,Liwengi,axe,ŋgiːnda,ŋgiːnda,ŋ g iː n d a,,Mitterhofer2013,,false
 Ujindile-axe-1,,Ujindile,axe,ʋeːga,ʋeːga,ʋ eː g a,,Mitterhofer2013,,false
@@ -902,7 +902,7 @@ Liwengi-hole-1,,Liwengi,hole,muliːndi,muliːndi,m u l iː n d i,,Mitterhofer201
 Ujindile-hole-1,,Ujindile,hole,liliːndi,liliːndi,l i l iː n d i,,Mitterhofer2013,,false
 Ukalawa-hole-1,,Ukalawa,hole,liliːndi,liliːndi,l i l iː n d i,,Mitterhofer2013,,false
 Ikuna-enemy-1,,Ikuna,enemy,mutaʋaːŋgu,mutaʋaːŋgu,m u t a ʋ aː ŋ g u,,Mitterhofer2013,,false
-Itipula-enemy-1,,Itipula,enemy,adui,adui,a d ui,,Mitterhofer2013,,false
+Itipula-enemy-1,,Itipula,enemy,adui,adui,a d u i,,Mitterhofer2013,,false
 Kanamalenga-enemy-1,,Kanamalenga,enemy,mutaʋaːŋgu,mutaʋaːŋgu,m u t a ʋ aː ŋ g u,,Mitterhofer2013,,false
 Liwengi-enemy-1,,Liwengi,enemy,mubaja,mubaja,m u b a j a,,Mitterhofer2013,,false
 Ujindile-enemy-1,,Ujindile,enemy,wukaʋa,wukaʋa,w u k a ʋ a,,Mitterhofer2013,,false
@@ -925,25 +925,25 @@ Kanamalenga-firewood-1,,Kanamalenga,firewood,sagala,sagala,s a g a l a,,Mitterho
 Liwengi-firewood-1,,Liwengi,firewood,sagala,sagala,s a g a l a,,Mitterhofer2013,,false
 Ujindile-firewood-1,,Ujindile,firewood,sagala,sagala,s a g a l a,,Mitterhofer2013,,false
 Ukalawa-firewood-1,,Ukalawa,firewood,ʃagala,ʃagala,ʃ a g a l a,,Mitterhofer2013,,false
-Ikuna-smoke-1,,Ikuna,smoke,lioːsi,lioːsi,l ioː s i,,Mitterhofer2013,,false
+Ikuna-smoke-1,,Ikuna,smoke,lioːsi,lioːsi,l i oː s i,,Mitterhofer2013,,false
 Itipula-smoke-1,,Itipula,smoke,lijoːsi,lijoːsi,l i j oː s i,,Mitterhofer2013,,false
-Kanamalenga-smoke-1,,Kanamalenga,smoke,lioːsi,lioːsi,l ioː s i,,Mitterhofer2013,,false
-Liwengi-smoke-1,,Liwengi,smoke,lioːsi,lioːsi,l ioː s i,,Mitterhofer2013,,false
-Ujindile-smoke-1,,Ujindile,smoke,lioːsi,lioːsi,l ioː s i,,Mitterhofer2013,,false
-Ukalawa-smoke-1,,Ukalawa,smoke,lioːsi,lioːsi,l ioː s i,,Mitterhofer2013,,false
-Ihanja-ashesma-1,,Ihanja,ashesma,lifiːnsa,lifiːnsa,l i f iː n s a,,Mitterhofer2013,,false
-Ikuna-ashesma-1,,Ikuna,ashesma,lifiːnsa,lifiːnsa,l i f iː n s a,,Mitterhofer2013,,false
+Kanamalenga-smoke-1,,Kanamalenga,smoke,lioːsi,lioːsi,l i oː s i,,Mitterhofer2013,,false
+Liwengi-smoke-1,,Liwengi,smoke,lioːsi,lioːsi,l i oː s i,,Mitterhofer2013,,false
+Ujindile-smoke-1,,Ujindile,smoke,lioːsi,lioːsi,l i oː s i,,Mitterhofer2013,,false
+Ukalawa-smoke-1,,Ukalawa,smoke,lioːsi,lioːsi,l i oː s i,,Mitterhofer2013,,false
+Ihanja-ashesma-1,,Ihanja,ashesma,lifiːnsa,lifiːnsa,l i f iː ns a,,Mitterhofer2013,,false
+Ikuna-ashesma-1,,Ikuna,ashesma,lifiːnsa,lifiːnsa,l i f iː ns a,,Mitterhofer2013,,false
 Itambo-ashesma-1,,Itambo,ashesma,kifu,kifu,k i f u,,Mitterhofer2013,,false
-Itipula-ashesma-1,,Itipula,ashesma,kidʒeːŋge,kidʒeːŋge,k i d ʒ eː ŋ g e,,Mitterhofer2013,,false
-Kanamalenga-ashesma-1,,Kanamalenga,ashesma,lifiːndʒa,lifiːndʒa,l i f iː n d ʒ a,,Mitterhofer2013,,false
+Itipula-ashesma-1,,Itipula,ashesma,kidʒeːŋge,kidʒeːŋge,k i dʒ eː ŋ g e,,Mitterhofer2013,,false
+Kanamalenga-ashesma-1,,Kanamalenga,ashesma,lifiːndʒa,lifiːndʒa,l i f iː n dʒ a,,Mitterhofer2013,,false
 Liwengi-ashesma-1,,Liwengi,ashesma,ʃeːŋge,ʃeːŋge,ʃ eː ŋ g e,,Mitterhofer2013,,false
 Lwanzali-ashesma-1,,Lwanzali,ashesma,kifu,kifu,k i f u,,Mitterhofer2013,,false
-Makanjaula-ashesma-1,,Makanjaula,ashesma,lieŋge,lieŋge,l ie ŋ g e,,Mitterhofer2013,,false
+Makanjaula-ashesma-1,,Makanjaula,ashesma,lieŋge,lieŋge,l i e ŋ g e,,Mitterhofer2013,,false
 Ujindile-ashesma-1,,Ujindile,ashesma,lifiːnza,lifiːnza,l i f iː n z a,,Mitterhofer2013,,false
 Ukalawa-ashesma-1,,Ukalawa,ashesma,kifu,kifu,k i f u,,Mitterhofer2013,,false
-Utalingoro-ashesma-1,,Utalingoro,ashesma,lieːŋge,lieːŋge,l ieː ŋ g e,,Mitterhofer2013,,false
+Utalingoro-ashesma-1,,Utalingoro,ashesma,lieːŋge,lieːŋge,l i eː ŋ g e,,Mitterhofer2013,,false
 Utengule-ashesma-1,,Utengule,ashesma,lifiːnza,lifiːnza,l i f iː n z a,,Mitterhofer2013,,false
-Wangama-ashesma-1,,Wangama,ashesma,lifiːnsa,lifiːnsa,l i f iː n s a,,Mitterhofer2013,,false
+Wangama-ashesma-1,,Wangama,ashesma,lifiːnsa,lifiːnsa,l i f iː ns a,,Mitterhofer2013,,false
 Ihanja-nighttime-1,,Ihanja,nighttime,kilo,kilo,k i l o,,Mitterhofer2013,,false
 Ikuna-nighttime-1,,Ikuna,nighttime,kilo,kilo,k i l o,,Mitterhofer2013,,false
 Itambo-nighttime-1,,Itambo,nighttime,kilo,kilo,k i l o,,Mitterhofer2013,,false
@@ -962,28 +962,28 @@ Kanamalenga-darkness-1,,Kanamalenga,darkness,wutiːtu,wutiːtu,w u t iː t u,,Mi
 Liwengi-darkness-1,,Liwengi,darkness,hutiːtu,hutiːtu,h u t iː t u,,Mitterhofer2013,,false
 Ujindile-darkness-1,,Ujindile,darkness,wutiːtu,wutiːtu,w u t iː t u,,Mitterhofer2013,,false
 Ukalawa-darkness-1,,Ukalawa,darkness,kiːsi,kiːsi,k iː s i,,Mitterhofer2013,,false
-Ikuna-moon-1,,Ikuna,moon,mpalamwensi,mpalamwensi,m p a l a m w e n s i,,Mitterhofer2013,,false
-Itipula-moon-1,,Itipula,moon,mbalamuetsi,mbalamuetsi,m b a l a m ue t s i,,Mitterhofer2013,,false
-Kanamalenga-moon-1,,Kanamalenga,moon,mueːdʒi,mueːdʒi,m ueː d ʒ i,,Mitterhofer2013,,false
-Liwengi-moon-1,,Liwengi,moon,luvalamwetsi,luvalamwetsi,l u v a l a m w e t s i,,Mitterhofer2013,,false
-Ujindile-moon-1,,Ujindile,moon,luʋalamweːtsi,luʋalamweːtsi,l u ʋ a l a m w eː t s i,,Mitterhofer2013,,false
-Ukalawa-moon-1,,Ukalawa,moon,luʋalamweːtsi,luʋalamweːtsi,l u ʋ a l a m w eː t s i,,Mitterhofer2013,,false
-Kanamalenga-month-1,,Kanamalenga,month,mueːdʒi,mueːdʒi,m ueː d ʒ i,,Mitterhofer2013,,false
-Liwengi-month-1,,Liwengi,month,mweːtsi,mweːtsi,m w eː t s i,,Mitterhofer2013,,false
-Ujindile-month-1,,Ujindile,month,mweːtsi,mweːtsi,m w eː t s i,,Mitterhofer2013,,false
-Ukalawa-month-1,,Ukalawa,month,mwetsi,mwetsi,m w e t s i,,Mitterhofer2013,,false
-Ikuna-star-1,,Ikuna,star,lutoːndwe,lutoːndwe,l u t oː n d w e,,Mitterhofer2013,,false
-Itipula-star-1,,Itipula,star,lutoːndwe,lutoːndwe,l u t oː n d w e,,Mitterhofer2013,,false
-Kanamalenga-star-1,,Kanamalenga,star,lutoːndwe,lutoːndwe,l u t oː n d w e,,Mitterhofer2013,,false
-Liwengi-star-1,,Liwengi,star,lutoːndwi,lutoːndwi,l u t oː n d w i,,Mitterhofer2013,,false
-Ujindile-star-1,,Ujindile,star,lutoːndwe,lutoːndwe,l u t oː n d w e,,Mitterhofer2013,,false
-Ukalawa-star-1,,Ukalawa,star,lutoːndwi,lutoːndwi,l u t oː n d w i,,Mitterhofer2013,,false
-Ikuna-sun-1,,Ikuna,sun,litsuʋa,litsuʋa,l i t s u ʋ a,,Mitterhofer2013,,false
-Itipula-sun-1,,Itipula,sun,litsuʋa,litsuʋa,l i t s u ʋ a,,Mitterhofer2013,,false
-Kanamalenga-sun-1,,Kanamalenga,sun,litdʒuʋa,litdʒuʋa,l i t d ʒ u ʋ a,,Mitterhofer2013,,false
-Liwengi-sun-1,,Liwengi,sun,litsuwa,litsuwa,l i t s u w a,,Mitterhofer2013,,false
-Ujindile-sun-1,,Ujindile,sun,litsuʋa,litsuʋa,l i t s u ʋ a,,Mitterhofer2013,,false
-Ukalawa-sun-1,,Ukalawa,sun,litsuʋa,litsuʋa,l i t s u ʋ a,,Mitterhofer2013,,false
+Ikuna-moon-1,,Ikuna,moon,mpalamwensi,mpalamwensi,m p a l a mw e ns i,,Mitterhofer2013,,false
+Itipula-moon-1,,Itipula,moon,mbalamuetsi,mbalamuetsi,m b a l a m u e ts i,,Mitterhofer2013,,false
+Kanamalenga-moon-1,,Kanamalenga,moon,mueːdʒi,mueːdʒi,m u eː dʒ i,,Mitterhofer2013,,false
+Liwengi-moon-1,,Liwengi,moon,luvalamwetsi,luvalamwetsi,l u v a l a mw e ts i,,Mitterhofer2013,,false
+Ujindile-moon-1,,Ujindile,moon,luʋalamweːtsi,luʋalamweːtsi,l u ʋ a l a mw eː ts i,,Mitterhofer2013,,false
+Ukalawa-moon-1,,Ukalawa,moon,luʋalamweːtsi,luʋalamweːtsi,l u ʋ a l a mw eː ts i,,Mitterhofer2013,,false
+Kanamalenga-month-1,,Kanamalenga,month,mueːdʒi,mueːdʒi,m u eː dʒ i,,Mitterhofer2013,,false
+Liwengi-month-1,,Liwengi,month,mweːtsi,mweːtsi,mw eː ts i,,Mitterhofer2013,,false
+Ujindile-month-1,,Ujindile,month,mweːtsi,mweːtsi,mw eː ts i,,Mitterhofer2013,,false
+Ukalawa-month-1,,Ukalawa,month,mwetsi,mwetsi,mw e ts i,,Mitterhofer2013,,false
+Ikuna-star-1,,Ikuna,star,lutoːndwe,lutoːndwe,l u t oː n dw e,,Mitterhofer2013,,false
+Itipula-star-1,,Itipula,star,lutoːndwe,lutoːndwe,l u t oː n dw e,,Mitterhofer2013,,false
+Kanamalenga-star-1,,Kanamalenga,star,lutoːndwe,lutoːndwe,l u t oː n dw e,,Mitterhofer2013,,false
+Liwengi-star-1,,Liwengi,star,lutoːndwi,lutoːndwi,l u t oː n dw i,,Mitterhofer2013,,false
+Ujindile-star-1,,Ujindile,star,lutoːndwe,lutoːndwe,l u t oː n dw e,,Mitterhofer2013,,false
+Ukalawa-star-1,,Ukalawa,star,lutoːndwi,lutoːndwi,l u t oː n dw i,,Mitterhofer2013,,false
+Ikuna-sun-1,,Ikuna,sun,litsuʋa,litsuʋa,l i ts u ʋ a,,Mitterhofer2013,,false
+Itipula-sun-1,,Itipula,sun,litsuʋa,litsuʋa,l i ts u ʋ a,,Mitterhofer2013,,false
+Kanamalenga-sun-1,,Kanamalenga,sun,litdʒuʋa,litdʒuʋa,l i t dʒ u ʋ a,,Mitterhofer2013,,false
+Liwengi-sun-1,,Liwengi,sun,litsuwa,litsuwa,l i ts u w a,,Mitterhofer2013,,false
+Ujindile-sun-1,,Ujindile,sun,litsuʋa,litsuʋa,l i ts u ʋ a,,Mitterhofer2013,,false
+Ukalawa-sun-1,,Ukalawa,sun,litsuʋa,litsuʋa,l i ts u ʋ a,,Mitterhofer2013,,false
 Ikuna-daytime-1,,Ikuna,daytime,pamuːɲi,pamuːɲi,p a m uː ɲ i,,Mitterhofer2013,,false
 Itipula-daytime-1,,Itipula,daytime,muːɲi,muːɲi,m uː ɲ i,,Mitterhofer2013,,false
 Kanamalenga-daytime-1,,Kanamalenga,daytime,muːɲ,muːɲ,m uː ɲ,,Mitterhofer2013,,false
@@ -1002,7 +1002,7 @@ Kanamalenga-yesterday-1,,Kanamalenga,yesterday,igolo,igolo,i g o l o,,Mitterhofe
 Liwengi-yesterday-1,,Liwengi,yesterday,golo,golo,g o l o,,Mitterhofer2013,,false
 Ujindile-yesterday-1,,Ujindile,yesterday,igolo,igolo,i g o l o,,Mitterhofer2013,,false
 Ukalawa-yesterday-1,,Ukalawa,yesterday,gɔlɔ,gɔlɔ,g ɔ l ɔ,,Mitterhofer2013,,false
-Ikuna-tomorrow-1,,Ikuna,tomorrow,ʃilaːo,ʃilaːo,ʃ i l aːo,,Mitterhofer2013,,false
+Ikuna-tomorrow-1,,Ikuna,tomorrow,ʃilaːo,ʃilaːo,ʃ i l aː o,,Mitterhofer2013,,false
 Itipula-tomorrow-1,,Itipula,tomorrow,kilawo,kilawo,k i l a w o,,Mitterhofer2013,,false
 Kanamalenga-tomorrow-1,,Kanamalenga,tomorrow,hilaːwu,hilaːwu,h i l aː w u,,Mitterhofer2013,,false
 Liwengi-tomorrow-1,,Liwengi,tomorrow,ʃilaːwo,ʃilaːwo,ʃ i l aː w o,,Mitterhofer2013,,false
@@ -1010,14 +1010,14 @@ Ujindile-tomorrow-1,,Ujindile,tomorrow,çilawo,çilawo,ç i l a w o,,Mitterhofer
 Ukalawa-tomorrow-1,,Ukalawa,tomorrow,kilaːwo,kilaːwo,k i l aː w o,,Mitterhofer2013,,false
 Ihanja-sky-1,,Ihanja,sky,huʃaːɲa,huʃaːɲa,h u ʃ aː ɲ a,,Mitterhofer2013,,false
 Ikuna-sky-1,,Ikuna,sky,wulaːŋga,wulaːŋga,w u l aː ŋ g a,,Mitterhofer2013,,false
-Itambo-sky-1,,Itambo,sky,kukiaːɲa,kukiaːɲa,k u k iaː ɲ a,,Mitterhofer2013,,false
+Itambo-sky-1,,Itambo,sky,kukiaːɲa,kukiaːɲa,k u k i aː ɲ a,,Mitterhofer2013,,false
 Itipula-sky-1,,Itipula,sky,wulaːŋga,wulaːŋga,w u l aː ŋ g a,,Mitterhofer2013,,false
 Kanamalenga-sky-1,,Kanamalenga,sky,wulaːŋga,wulaːŋga,w u l aː ŋ g a,,Mitterhofer2013,,false
 Liwengi-sky-1,,Liwengi,sky,wulaːŋga,wulaːŋga,w u l aː ŋ g a,,Mitterhofer2013,,false
-Lwanzali-sky-1,,Lwanzali,sky,kukiaːɲa,kukiaːɲa,k u k iaː ɲ a,,Mitterhofer2013,,false
+Lwanzali-sky-1,,Lwanzali,sky,kukiaːɲa,kukiaːɲa,k u k i aː ɲ a,,Mitterhofer2013,,false
 Makanjaula-sky-1,,Makanjaula,sky,ʃaːɲa,ʃaːɲa,ʃ aː ɲ a,,Mitterhofer2013,,false
 Ujindile-sky-1,,Ujindile,sky,wulaːŋga,wulaːŋga,w u l aː ŋ g a,,Mitterhofer2013,,false
-Ukalawa-sky-1,,Ukalawa,sky,kukiaɲa,kukiaɲa,k u k ia ɲ a,,Mitterhofer2013,,false
+Ukalawa-sky-1,,Ukalawa,sky,kukiaɲa,kukiaɲa,k u k i a ɲ a,,Mitterhofer2013,,false
 Utalingoro-sky-1,,Utalingoro,sky,huʃaːɲa,huʃaːɲa,h u ʃ aː ɲ a,,Mitterhofer2013,,false
 Utengule-sky-1,,Utengule,sky,huʃaːɲa,huʃaːɲa,h u ʃ aː ɲ a,,Mitterhofer2013,,false
 Ikuna-clouds-1,,Ikuna,clouds,mafuːndi,mafuːndi,m a f uː n d i,,Mitterhofer2013,,false
@@ -1050,22 +1050,22 @@ Kanamalenga-river-1,,Kanamalenga,river,mukoga,mukoga,m u k o g a,,Mitterhofer201
 Liwengi-river-1,,Liwengi,river,mukoga,mukoga,m u k o g a,,Mitterhofer2013,,false
 Ujindile-river-1,,Ujindile,river,mukoga,mukoga,m u k o g a,,Mitterhofer2013,,false
 Ukalawa-river-1,,Ukalawa,river,luleːŋga,luleːŋga,l u l eː ŋ g a,,Mitterhofer2013,,false
-Ihanja-lake-1,,Ihanja,lake,ɲantsa,ɲantsa,ɲ a n t s a,,Mitterhofer2013,,false
-Ikuna-lake-1,,Ikuna,lake,ɲaːnsa,ɲaːnsa,ɲ aː n s a,,Mitterhofer2013,,false
+Ihanja-lake-1,,Ihanja,lake,ɲantsa,ɲantsa,ɲ a n ts a,,Mitterhofer2013,,false
+Ikuna-lake-1,,Ikuna,lake,ɲaːnsa,ɲaːnsa,ɲ aː ns a,,Mitterhofer2013,,false
 Itambo-lake-1,,Itambo,lake,litaːnda,litaːnda,l i t aː n d a,,Mitterhofer2013,,false
 Kanamalenga-lake-1,,Kanamalenga,lake,lilaːmba,lilaːmba,l i l aː m b a,,Mitterhofer2013,,false
-Liwengi-lake-1,,Liwengi,lake,mukuo,mukuo,m u k uo,,Mitterhofer2013,,false
+Liwengi-lake-1,,Liwengi,lake,mukuo,mukuo,m u k u o,,Mitterhofer2013,,false
 Lwanzali-lake-1,,Lwanzali,lake,kilaːmba,kilaːmba,k i l aː m b a,,Mitterhofer2013,,false
-Makanjaula-lake-1,,Makanjaula,lake,litsiːmba,litsiːmba,l i t s iː m b a,,Mitterhofer2013,,false
-Ujindile-lake-1,,Ujindile,lake,ɲaːnsa,ɲaːnsa,ɲ aː n s a,,Mitterhofer2013,,false
-Utengule-lake-1,,Utengule,lake,mukoga mukomi,mukoga mukomi,mukoga mukomi,,Mitterhofer2013,,false
-Wangama-lake-1,,Wangama,lake,litambaːtsi,litambaːtsi,l i t a m b aː t s i,,Mitterhofer2013,,false
-Ikuna-dew-1,,Ikuna,dew,limetsi,limetsi,l i m e t s i,,Mitterhofer2013,,false
-Itipula-dew-1,,Itipula,dew,limetsi,limetsi,l i m e t s i,,Mitterhofer2013,,false
-Kanamalenga-dew-1,,Kanamalenga,dew,limetdʒi,limetdʒi,l i m e t d ʒ i,,Mitterhofer2013,,false
-Liwengi-dew-1,,Liwengi,dew,limetsi,limetsi,l i m e t s i,,Mitterhofer2013,,false
-Ujindile-dew-1,,Ujindile,dew,limetsi,limetsi,l i m e t s i,,Mitterhofer2013,,false
-Ukalawa-dew-1,,Ukalawa,dew,limetsi,limetsi,l i m e t s i,,Mitterhofer2013,,false
+Makanjaula-lake-1,,Makanjaula,lake,litsiːmba,litsiːmba,l i ts iː m b a,,Mitterhofer2013,,false
+Ujindile-lake-1,,Ujindile,lake,ɲaːnsa,ɲaːnsa,ɲ aː ns a,,Mitterhofer2013,,false
+Utengule-lake-1,,Utengule,lake,mukoga mukomi,mukoga mukomi,m u k o g a _ m u k o m i,,Mitterhofer2013,,false
+Wangama-lake-1,,Wangama,lake,litambaːtsi,litambaːtsi,l i t a m b aː ts i,,Mitterhofer2013,,false
+Ikuna-dew-1,,Ikuna,dew,limetsi,limetsi,l i m e ts i,,Mitterhofer2013,,false
+Itipula-dew-1,,Itipula,dew,limetsi,limetsi,l i m e ts i,,Mitterhofer2013,,false
+Kanamalenga-dew-1,,Kanamalenga,dew,limetdʒi,limetdʒi,l i m e t dʒ i,,Mitterhofer2013,,false
+Liwengi-dew-1,,Liwengi,dew,limetsi,limetsi,l i m e ts i,,Mitterhofer2013,,false
+Ujindile-dew-1,,Ujindile,dew,limetsi,limetsi,l i m e ts i,,Mitterhofer2013,,false
+Ukalawa-dew-1,,Ukalawa,dew,limetsi,limetsi,l i m e ts i,,Mitterhofer2013,,false
 Ikuna-ice-1,,Ikuna,ice,ɲawuseʋe,ɲawuseʋe,ɲ a w u s e ʋ e,,Mitterhofer2013,,false
 Itipula-ice-1,,Itipula,ice,maseʋe,maseʋe,m a s e ʋ e,,Mitterhofer2013,,false
 Kanamalenga-ice-1,,Kanamalenga,ice,likuŋguːku,likuŋguːku,l i k u ŋ g uː k u,,Mitterhofer2013,,false
@@ -1109,27 +1109,27 @@ Kanamalenga-dust-1,,Kanamalenga,dust,lifuːna,lifuːna,l i f uː n a,,Mitterhofe
 Liwengi-dust-1,,Liwengi,dust,lufuːna,lufuːna,l u f uː n a,,Mitterhofer2013,,false
 Ujindile-dust-1,,Ujindile,dust,lifuːna,lifuːna,l i f uː n a,,Mitterhofer2013,,false
 Ukalawa-dust-1,,Ukalawa,dust,lufuna,lufuna,l u f u n a,,Mitterhofer2013,,false
-Ikuna-year-1,,Ikuna,year,mwaːxa,mwaːxa,m w aː x a,,Mitterhofer2013,,false
-Itipula-year-1,,Itipula,year,mwaːka,mwaːka,m w aː k a,,Mitterhofer2013,,false
-Kanamalenga-year-1,,Kanamalenga,year,mwaːha,mwaːha,m w aː h a,,Mitterhofer2013,,false
-Liwengi-year-1,,Liwengi,year,mwaːha,mwaːha,m w aː h a,,Mitterhofer2013,,false
-Ujindile-year-1,,Ujindile,year,mwaːha,mwaːha,m w aː h a,,Mitterhofer2013,,false
-Ukalawa-year-1,,Ukalawa,year,mwaka,mwaka,m w a k a,,Mitterhofer2013,,false
-Ikuna-onething-1,,Ikuna,onething,himwiːŋga,himwiːŋga,h i m w iː ŋ g a,,Mitterhofer2013,,false
-Itipula-onething-1,,Itipula,onething,kimwiŋga,kimwiŋga,k i m w i ŋ g a,,Mitterhofer2013,,false
+Ikuna-year-1,,Ikuna,year,mwaːxa,mwaːxa,mw aː x a,,Mitterhofer2013,,false
+Itipula-year-1,,Itipula,year,mwaːka,mwaːka,mw aː k a,,Mitterhofer2013,,false
+Kanamalenga-year-1,,Kanamalenga,year,mwaːha,mwaːha,mw aː h a,,Mitterhofer2013,,false
+Liwengi-year-1,,Liwengi,year,mwaːha,mwaːha,mw aː h a,,Mitterhofer2013,,false
+Ujindile-year-1,,Ujindile,year,mwaːha,mwaːha,mw aː h a,,Mitterhofer2013,,false
+Ukalawa-year-1,,Ukalawa,year,mwaka,mwaka,mw a k a,,Mitterhofer2013,,false
+Ikuna-onething-1,,Ikuna,onething,himwiːŋga,himwiːŋga,h i mw iː ŋ g a,,Mitterhofer2013,,false
+Itipula-onething-1,,Itipula,onething,kimwiŋga,kimwiŋga,k i mw i ŋ g a,,Mitterhofer2013,,false
 Kanamalenga-onething-1,,Kanamalenga,onething,lubiçi,lubiçi,l u b i ç i,,Mitterhofer2013,,false
-Liwengi-onething-1,,Liwengi,onething,ʃimwiːŋga,ʃimwiːŋga,ʃ i m w iː ŋ g a,,Mitterhofer2013,,false
-Ujindile-onething-1,,Ujindile,onething,çimwiːŋga,çimwiːŋga,ç i m w iː ŋ g a,,Mitterhofer2013,,false
-Ukalawa-onething-1,,Ukalawa,onething,kimwiːŋga,kimwiːŋga,k i m w iː ŋ g a,,Mitterhofer2013,,false
+Liwengi-onething-1,,Liwengi,onething,ʃimwiːŋga,ʃimwiːŋga,ʃ i mw iː ŋ g a,,Mitterhofer2013,,false
+Ujindile-onething-1,,Ujindile,onething,çimwiːŋga,çimwiːŋga,ç i mw iː ŋ g a,,Mitterhofer2013,,false
+Ukalawa-onething-1,,Ukalawa,onething,kimwiːŋga,kimwiːŋga,k i mw iː ŋ g a,,Mitterhofer2013,,false
 Ikuna-twothings-1,,Ikuna,twothings,viwili,viwili,v i w i l i,,Mitterhofer2013,,false
 Itipula-twothings-1,,Itipula,twothings,fiʋili,fiʋili,f i ʋ i l i,,Mitterhofer2013,,false
-Kanamalenga-twothings-1,,Kanamalenga,twothings,tʃiʋili,tʃiʋili,t ʃ i ʋ i l i,,Mitterhofer2013,,false
+Kanamalenga-twothings-1,,Kanamalenga,twothings,tʃiʋili,tʃiʋili,tʃ i ʋ i l i,,Mitterhofer2013,,false
 Liwengi-twothings-1,,Liwengi,twothings,fiwili,fiwili,f i w i l i,,Mitterhofer2013,,false
 Ujindile-twothings-1,,Ujindile,twothings,fiʋili,fiʋili,f i ʋ i l i,,Mitterhofer2013,,false
 Ukalawa-twothings-1,,Ukalawa,twothings,fiʋili,fiʋili,f i ʋ i l i,,Mitterhofer2013,,false
 Ikuna-three-1,,Ikuna,three,fidatu,fidatu,f i d a t u,,Mitterhofer2013,,false
 Itipula-three-1,,Itipula,three,fidaːti,fidaːti,f i d aː t i,,Mitterhofer2013,,false
-Kanamalenga-three-1,,Kanamalenga,three,tʃidaːtu,tʃidaːtu,t ʃ i d aː t u,,Mitterhofer2013,,false
+Kanamalenga-three-1,,Kanamalenga,three,tʃidaːtu,tʃidaːtu,tʃ i d aː t u,,Mitterhofer2013,,false
 Liwengi-three-1,,Liwengi,three,fidaːtu,fidaːtu,f i d aː t u,,Mitterhofer2013,,false
 Ujindile-three-1,,Ujindile,three,fidaːtu,fidaːtu,f i d aː t u,,Mitterhofer2013,,false
 Ukalawa-three-1,,Ukalawa,three,fidatu,fidatu,f i d a t u,,Mitterhofer2013,,false
@@ -1141,49 +1141,49 @@ Ujindile-four-1,,Ujindile,four,fitaji,fitaji,f i t a j i,,Mitterhofer2013,,false
 Ukalawa-four-1,,Ukalawa,four,fitaji,fitaji,f i t a j i,,Mitterhofer2013,,false
 Ikuna-five-1,,Ikuna,five,fihaːnu,fihaːnu,f i h aː n u,,Mitterhofer2013,,false
 Itipula-five-1,,Itipula,five,fihaːnu,fihaːnu,f i h aː n u,,Mitterhofer2013,,false
-Kanamalenga-five-1,,Kanamalenga,five,tʃihaːnu,tʃihaːnu,t ʃ i h aː n u,,Mitterhofer2013,,false
+Kanamalenga-five-1,,Kanamalenga,five,tʃihaːnu,tʃihaːnu,tʃ i h aː n u,,Mitterhofer2013,,false
 Liwengi-five-1,,Liwengi,five,fihaːno,fihaːno,f i h aː n o,,Mitterhofer2013,,false
 Ujindile-five-1,,Ujindile,five,fihaːnu,fihaːnu,f i h aː n u,,Mitterhofer2013,,false
 Ukalawa-five-1,,Ukalawa,five,fihaːnu,fihaːnu,f i h aː n u,,Mitterhofer2013,,false
 Ikuna-six-1,,Ikuna,six,filimutaːnda,filimutaːnda,f i l i m u t aː n d a,,Mitterhofer2013,,false
 Itipula-six-1,,Itipula,six,mtaːnda,mtaːnda,m t aː n d a,,Mitterhofer2013,,false
-Kanamalenga-six-1,,Kanamalenga,six,tʃilimutaːnda,tʃilimutaːnda,t ʃ i l i m u t aː n d a,,Mitterhofer2013,,false
+Kanamalenga-six-1,,Kanamalenga,six,tʃilimutaːnda,tʃilimutaːnda,tʃ i l i m u t aː n d a,,Mitterhofer2013,,false
 Liwengi-six-1,,Liwengi,six,fimtaːnda,fimtaːnda,f i m t aː n d a,,Mitterhofer2013,,false
 Ujindile-six-1,,Ujindile,six,mutaːnda,mutaːnda,m u t aː n d a,,Mitterhofer2013,,false
 Ukalawa-six-1,,Ukalawa,six,filimtaːnda,filimtaːnda,f i l i m t aː n d a,,Mitterhofer2013,,false
 Ikuna-seven-1,,Ikuna,seven,filimufuŋati,filimufuŋati,f i l i m u f u ŋ a t i,,Mitterhofer2013,,false
 Itipula-seven-1,,Itipula,seven,mfuːŋgati,mfuːŋgati,m f uː ŋ g a t i,,Mitterhofer2013,,false
-Kanamalenga-seven-1,,Kanamalenga,seven,tʃilimfuŋati,tʃilimfuŋati,t ʃ i l i m f u ŋ a t i,,Mitterhofer2013,,false
-Liwengi-seven-1,,Liwengi,seven,finjikoːnza/mufuːŋati,finjikoːnza/mufuːŋati,f i n j i k oː n z a / m u f uː ŋ a t i,,Mitterhofer2013,,false
+Kanamalenga-seven-1,,Kanamalenga,seven,tʃilimfuŋati,tʃilimfuŋati,tʃ i l i m f u ŋ a t i,,Mitterhofer2013,,false
+Liwengi-seven-1,,Liwengi,seven,finjikoːnza/mufuːŋati,finjikoːnza/mufuːŋati,<???>,,Mitterhofer2013,,false
 Ujindile-seven-1,,Ujindile,seven,mufuŋati,mufuŋati,m u f u ŋ a t i,,Mitterhofer2013,,false
 Ukalawa-seven-1,,Ukalawa,seven,filimfuŋati,filimfuŋati,f i l i m f u ŋ a t i,,Mitterhofer2013,,false
 Ikuna-eight-1,,Ikuna,eight,filimunaːna,filimunaːna,f i l i m u n aː n a,,Mitterhofer2013,,false
 Itipula-eight-1,,Itipula,eight,mnaːna,mnaːna,m n aː n a,,Mitterhofer2013,,false
-Kanamalenga-eight-1,,Kanamalenga,eight,tʃilimunaːna,tʃilimunaːna,t ʃ i l i m u n aː n a,,Mitterhofer2013,,false
+Kanamalenga-eight-1,,Kanamalenga,eight,tʃilimunaːna,tʃilimunaːna,tʃ i l i m u n aː n a,,Mitterhofer2013,,false
 Liwengi-eight-1,,Liwengi,eight,fimunaːna,fimunaːna,f i m u n aː n a,,Mitterhofer2013,,false
 Ujindile-eight-1,,Ujindile,eight,munaːna,munaːna,m u n aː n a,,Mitterhofer2013,,false
 Ukalawa-eight-1,,Ukalawa,eight,filimunaːna,filimunaːna,f i l i m u n aː n a,,Mitterhofer2013,,false
-Ikuna-nine-1,,Ikuna,nine,fiɲgoːnsa,fiɲgoːnsa,f i ɲ g oː n s a,,Mitterhofer2013,,false
-Kanamalenga-nine-1,,Kanamalenga,nine,ɲgoːndʒa,ɲgoːndʒa,ɲ g oː n d ʒ a,,Mitterhofer2013,,false
+Ikuna-nine-1,,Ikuna,nine,fiɲgoːnsa,fiɲgoːnsa,f i ɲ g oː ns a,,Mitterhofer2013,,false
+Kanamalenga-nine-1,,Kanamalenga,nine,ɲgoːndʒa,ɲgoːndʒa,ɲ g oː n dʒ a,,Mitterhofer2013,,false
 Ujindile-nine-1,,Ujindile,nine,igoːnza,igoːnza,i g oː n z a,,Mitterhofer2013,,false
-Ukalawa-nine-1,,Ukalawa,nine,fiɲigoːnsa,fiɲigoːnsa,f i ɲ i g oː n s a,,Mitterhofer2013,,false
+Ukalawa-nine-1,,Ukalawa,nine,fiɲigoːnsa,fiɲigoːnsa,f i ɲ i g oː ns a,,Mitterhofer2013,,false
 Ikuna-ten-1,,Ikuna,ten,fiɲkumi,fiɲkumi,f i ɲ k u m i,,Mitterhofer2013,,false
-Itipula-ten-1,,Itipula,ten,igoːnsa,igoːnsa,i g oː n s a,,Mitterhofer2013,,false
-Kanamalenga-ten-1,,Kanamalenga,ten,ɲtʃumi,ɲtʃumi,ɲ t ʃ u m i,,Mitterhofer2013,,false
+Itipula-ten-1,,Itipula,ten,igoːnsa,igoːnsa,i g oː ns a,,Mitterhofer2013,,false
+Kanamalenga-ten-1,,Kanamalenga,ten,ɲtʃumi,ɲtʃumi,ɲ tʃ u m i,,Mitterhofer2013,,false
 Liwengi-ten-1,,Liwengi,ten,mufuŋati,mufuŋati,m u f u ŋ a t i,,Mitterhofer2013,,false
-Ujindile-ten-1,,Ujindile,ten,litʃumi,litʃumi,l i t ʃ u m i,,Mitterhofer2013,,false
-Ukalawa-ten-1,,Ukalawa,ten,fiɲikiumi,fiɲikiumi,f i ɲ i k iu m i,,Mitterhofer2013,,false
-Ikuna-hotweather-1,,Ikuna,hotweather,lifuhiːtse,lifuhiːtse,l i f u h iː t s e,,Mitterhofer2013,,false
+Ujindile-ten-1,,Ujindile,ten,litʃumi,litʃumi,l i tʃ u m i,,Mitterhofer2013,,false
+Ukalawa-ten-1,,Ukalawa,ten,fiɲikiumi,fiɲikiumi,f i ɲ i k i u m i,,Mitterhofer2013,,false
+Ikuna-hotweather-1,,Ikuna,hotweather,lifuhiːtse,lifuhiːtse,l i f u h iː ts e,,Mitterhofer2013,,false
 Itambo-hotweather-1,,Itambo,hotweather,lifuke,lifuke,l i f u k e,,Mitterhofer2013,,false
 Itipula-hotweather-1,,Itipula,hotweather,kupijo,kupijo,k u p i j o,,Mitterhofer2013,,false
 Kanamalenga-hotweather-1,,Kanamalenga,hotweather,lufuge,lufuge,l u f u g e,,Mitterhofer2013,,false
 Liwengi-hotweather-1,,Liwengi,hotweather,fuːha,fuːha,f uː h a,,Mitterhofer2013,,false
-Lwanzali-hotweather-1,,Lwanzali,hotweather,kupio,kupio,k u p io,,Mitterhofer2013,,false
+Lwanzali-hotweather-1,,Lwanzali,hotweather,kupio,kupio,k u p i o,,Mitterhofer2013,,false
 Makanjaula-hotweather-1,,Makanjaula,hotweather,ufuːgafu,ufuːgafu,u f uː g a f u,,Mitterhofer2013,,false
 Ujindile-hotweather-1,,Ujindile,hotweather,mafuhe,mafuhe,m a f u h e,,Mitterhofer2013,,false
 Ukalawa-hotweather-1,,Ukalawa,hotweather,mafuke,mafuke,m a f u k e,,Mitterhofer2013,,false
 Utalingoro-hotweather-1,,Utalingoro,hotweather,fuːgafu,fuːgafu,f uː g a f u,,Mitterhofer2013,,false
-Wangama-hotweather-1,,Wangama,hotweather,hufe wunofu,hufe wunofu,hufe wunofu,,Mitterhofer2013,,false
+Wangama-hotweather-1,,Wangama,hotweather,hufe wunofu,hufe wunofu,h u f e _ w u n o f u,,Mitterhofer2013,,false
 Ihanja-coldweather-1,,Ihanja,coldweather,ŋaːla,ŋaːla,ŋ aː l a,,Mitterhofer2013,,false
 Ikuna-coldweather-1,,Ikuna,coldweather,ŋaːla,ŋaːla,ŋ aː l a,,Mitterhofer2013,,false
 Itambo-coldweather-1,,Itambo,coldweather,ŋaːla,ŋaːla,ŋ aː l a,,Mitterhofer2013,,false
@@ -1234,17 +1234,17 @@ Liwengi-narrowpath-1,,Liwengi,narrowpath,ʃidebe,ʃidebe,ʃ i d e b e,,Mitterhof
 Ujindile-narrowpath-1,,Ujindile,narrowpath,fiɲe,fiɲe,f i ɲ e,,Mitterhofer2013,,false
 Ukalawa-narrowpath-1,,Ukalawa,narrowpath,ndebe,ndebe,n d e b e,,Mitterhofer2013,,false
 Ikuna-heavything-1,,Ikuna,heavything,hisito,hisito,h i s i t o,,Mitterhofer2013,,false
-Itipula-heavything-1,,Itipula,heavything,kitsito,kitsito,k i t s i t o,,Mitterhofer2013,,false
+Itipula-heavything-1,,Itipula,heavything,kitsito,kitsito,k i ts i t o,,Mitterhofer2013,,false
 Kanamalenga-heavything-1,,Kanamalenga,heavything,hisito,hisito,h i s i t o,,Mitterhofer2013,,false
-Liwengi-heavything-1,,Liwengi,heavything,ʃitsiːto,ʃitsiːto,ʃ i t s iː t o,,Mitterhofer2013,,false
-Ujindile-heavything-1,,Ujindile,heavything,çitsiːto,çitsiːto,ç i t s iː t o,,Mitterhofer2013,,false
+Liwengi-heavything-1,,Liwengi,heavything,ʃitsiːto,ʃitsiːto,ʃ i ts iː t o,,Mitterhofer2013,,false
+Ujindile-heavything-1,,Ujindile,heavything,çitsiːto,çitsiːto,ç i ts iː t o,,Mitterhofer2013,,false
 Ukalawa-heavything-1,,Ukalawa,heavything,kisito,kisito,k i s i t o,,Mitterhofer2013,,false
 Ikuna-lightweight-1,,Ikuna,lightweight,hipeːfu,hipeːfu,h i p eː f u,,Mitterhofer2013,,false
-Itipula-lightweight-1,,Itipula,lightweight,kiebepe,kiebepe,k ie b e p e,,Mitterhofer2013,,false
+Itipula-lightweight-1,,Itipula,lightweight,kiebepe,kiebepe,k i e b e p e,,Mitterhofer2013,,false
 Kanamalenga-lightweight-1,,Kanamalenga,lightweight,hipeːfu,hipeːfu,h i p eː f u,,Mitterhofer2013,,false
 Liwengi-lightweight-1,,Liwengi,lightweight,hipeːfu,hipeːfu,h i p eː f u,,Mitterhofer2013,,false
 Ujindile-lightweight-1,,Ujindile,lightweight,ʃebeːbe,ʃebeːbe,ʃ e b eː b e,,Mitterhofer2013,,false
-Ukalawa-lightweight-1,,Ukalawa,lightweight,kiebeːpe,kiebeːpe,k ie b eː p e,,Mitterhofer2013,,false
+Ukalawa-lightweight-1,,Ukalawa,lightweight,kiebeːpe,kiebeːpe,k i e b eː p e,,Mitterhofer2013,,false
 Ikuna-difficulttest-1,,Ikuna,difficulttest,mkaːŋgafu,mkaːŋgafu,m k aː ŋ g a f u,,Mitterhofer2013,,false
 Itipula-difficulttest-1,,Itipula,difficulttest,mgumu,mgumu,m g u m u,,Mitterhofer2013,,false
 Kanamalenga-difficulttest-1,,Kanamalenga,difficulttest,mutalamu,mutalamu,m u t a l a m u,,Mitterhofer2013,,false
@@ -1254,7 +1254,7 @@ Ukalawa-difficulttest-1,,Ukalawa,difficulttest,mtalamu,mtalamu,m t a l a m u,,Mi
 Ikuna-easytest-1,,Ikuna,easytest,mpeːfu,mpeːfu,m p eː f u,,Mitterhofer2013,,false
 Itipula-easytest-1,,Itipula,easytest,rahisi,rahisi,r a h i s i,,Mitterhofer2013,,false
 Kanamalenga-easytest-1,,Kanamalenga,easytest,mpeːfu,mpeːfu,m p eː f u,,Mitterhofer2013,,false
-Liwengi-easytest-1,,Liwengi,easytest,ʃiebepe,ʃiebepe,ʃ ie b e p e,,Mitterhofer2013,,false
+Liwengi-easytest-1,,Liwengi,easytest,ʃiebepe,ʃiebepe,ʃ i e b e p e,,Mitterhofer2013,,false
 Ujindile-easytest-1,,Ujindile,easytest,mupeːfu,mupeːfu,m u p eː f u,,Mitterhofer2013,,false
 Ukalawa-easytest-1,,Ukalawa,easytest,kiba,kiba,k i b a,,Mitterhofer2013,,false
 Ikuna-goodthing-1,,Ikuna,goodthing,hinofu,hinofu,h i n o f u,,Mitterhofer2013,,false
@@ -1266,7 +1266,7 @@ Ukalawa-goodthing-1,,Ukalawa,goodthing,kinofu,kinofu,k i n o f u,,Mitterhofer201
 Ikuna-badthing-1,,Ikuna,badthing,hibaja,hibaja,h i b a j a,,Mitterhofer2013,,false
 Itipula-badthing-1,,Itipula,badthing,kibaja,kibaja,k i b a j a,,Mitterhofer2013,,false
 Kanamalenga-badthing-1,,Kanamalenga,badthing,hiʋiːfu,hiʋiːfu,h i ʋ iː f u,,Mitterhofer2013,,false
-Liwengi-badthing-1,,Liwengi,badthing,hitsafu/ʃibaja,hitsafu/ʃibaja,h i t s a f u / ʃ i b a j a,,Mitterhofer2013,,false
+Liwengi-badthing-1,,Liwengi,badthing,hitsafu/ʃibaja,hitsafu/ʃibaja,h i ts a f u <?> i b a j a,,Mitterhofer2013,,false
 Ujindile-badthing-1,,Ujindile,badthing,çiʋiːʋi,çiʋiːʋi,ç i ʋ iː ʋ i,,Mitterhofer2013,,false
 Ukalawa-badthing-1,,Ukalawa,badthing,kiwiːfu,kiwiːfu,k i w iː f u,,Mitterhofer2013,,false
 Ikuna-leftside-1,,Ikuna,leftside,huŋgi,huŋgi,h u ŋ g i,,Mitterhofer2013,,false
@@ -1275,29 +1275,29 @@ Kanamalenga-leftside-1,,Kanamalenga,leftside,huŋiːki,huŋiːki,h u ŋ iː k i,
 Liwengi-leftside-1,,Liwengi,leftside,kuŋigi,kuŋigi,k u ŋ i g i,,Mitterhofer2013,,false
 Ujindile-leftside-1,,Ujindile,leftside,kuŋiki,kuŋiki,k u ŋ i k i,,Mitterhofer2013,,false
 Ukalawa-leftside-1,,Ukalawa,leftside,kuŋigi,kuŋigi,k u ŋ i g i,,Mitterhofer2013,,false
-Ikuna-rightside-1,,Ikuna,rightside,huːndio,huːndio,h uː n d io,,Mitterhofer2013,,false
-Itipula-rightside-1,,Itipula,rightside,kuːndio,kuːndio,k uː n d io,,Mitterhofer2013,,false
-Kanamalenga-rightside-1,,Kanamalenga,rightside,hundio,hundio,h u n d io,,Mitterhofer2013,,false
-Liwengi-rightside-1,,Liwengi,rightside,kundio,kundio,k u n d io,,Mitterhofer2013,,false
-Ujindile-rightside-1,,Ujindile,rightside,huːndio,huːndio,h uː n d io,,Mitterhofer2013,,false
-Ukalawa-rightside-1,,Ukalawa,rightside,kuːndio,kuːndio,k uː n d io,,Mitterhofer2013,,false
+Ikuna-rightside-1,,Ikuna,rightside,huːndio,huːndio,h uː n d i o,,Mitterhofer2013,,false
+Itipula-rightside-1,,Itipula,rightside,kuːndio,kuːndio,k uː n d i o,,Mitterhofer2013,,false
+Kanamalenga-rightside-1,,Kanamalenga,rightside,hundio,hundio,h u n d i o,,Mitterhofer2013,,false
+Liwengi-rightside-1,,Liwengi,rightside,kundio,kundio,k u n d i o,,Mitterhofer2013,,false
+Ujindile-rightside-1,,Ujindile,rightside,huːndio,huːndio,h uː n d i o,,Mitterhofer2013,,false
+Ukalawa-rightside-1,,Ukalawa,rightside,kuːndio,kuːndio,k uː n d i o,,Mitterhofer2013,,false
 Ikuna-inside-1,,Ikuna,inside,mugati,mugati,m u g a t i,,Mitterhofer2013,,false
 Itipula-inside-1,,Itipula,inside,mugati,mugati,m u g a t i,,Mitterhofer2013,,false
 Kanamalenga-inside-1,,Kanamalenga,inside,mugati,mugati,m u g a t i,,Mitterhofer2013,,false
 Liwengi-inside-1,,Liwengi,inside,hugati,hugati,h u g a t i,,Mitterhofer2013,,false
 Ujindile-inside-1,,Ujindile,inside,mugati,mugati,m u g a t i,,Mitterhofer2013,,false
 Ukalawa-inside-1,,Ukalawa,inside,mugati,mugati,m u g a t i,,Mitterhofer2013,,false
-Ikuna-outside-1,,Ikuna,outside,hwiːʋala,hwiːʋala,h w iː ʋ a l a,,Mitterhofer2013,,false
-Itipula-outside-1,,Itipula,outside,kwiʋaːla,kwiʋaːla,k w i ʋ aː l a,,Mitterhofer2013,,false
-Kanamalenga-outside-1,,Kanamalenga,outside,hwiʋala,hwiʋala,h w i ʋ a l a,,Mitterhofer2013,,false
-Liwengi-outside-1,,Liwengi,outside,hwiwala,hwiwala,h w i w a l a,,Mitterhofer2013,,false
-Ujindile-outside-1,,Ujindile,outside,hwiʋala,hwiʋala,h w i ʋ a l a,,Mitterhofer2013,,false
-Ukalawa-outside-1,,Ukalawa,outside,kwiʋala,kwiʋala,k w i ʋ a l a,,Mitterhofer2013,,false
+Ikuna-outside-1,,Ikuna,outside,hwiːʋala,hwiːʋala,hw iː ʋ a l a,,Mitterhofer2013,,false
+Itipula-outside-1,,Itipula,outside,kwiʋaːla,kwiʋaːla,kw i ʋ aː l a,,Mitterhofer2013,,false
+Kanamalenga-outside-1,,Kanamalenga,outside,hwiʋala,hwiʋala,hw i ʋ a l a,,Mitterhofer2013,,false
+Liwengi-outside-1,,Liwengi,outside,hwiwala,hwiwala,hw i w a l a,,Mitterhofer2013,,false
+Ujindile-outside-1,,Ujindile,outside,hwiʋala,hwiʋala,hw i ʋ a l a,,Mitterhofer2013,,false
+Ukalawa-outside-1,,Ukalawa,outside,kwiʋala,kwiʋala,kw i ʋ a l a,,Mitterhofer2013,,false
 Ikuna-far-1,,Ikuna,far,hutaːli,hutaːli,h u t aː l i,,Mitterhofer2013,,false
 Itipula-far-1,,Itipula,far,kutaːli,kutaːli,k u t aː l i,,Mitterhofer2013,,false
 Kanamalenga-far-1,,Kanamalenga,far,hutaːli,hutaːli,h u t aː l i,,Mitterhofer2013,,false
 Liwengi-far-1,,Liwengi,far,hutaːli,hutaːli,h u t aː l i,,Mitterhofer2013,,false
-Ujindile-far-1,,Ujindile,far,kwaːli,kwaːli,k w aː l i,,Mitterhofer2013,,false
+Ujindile-far-1,,Ujindile,far,kwaːli,kwaːli,kw aː l i,,Mitterhofer2013,,false
 Ukalawa-far-1,,Ukalawa,far,kutaːli,kutaːli,k u t aː l i,,Mitterhofer2013,,false
 Ihanja-near-1,,Ihanja,near,biːhi,biːhi,b iː h i,,Mitterhofer2013,,false
 Ikuna-near-1,,Ikuna,near,biːhi,biːhi,b iː h i,,Mitterhofer2013,,false
@@ -1310,24 +1310,24 @@ Ujindile-near-1,,Ujindile,near,biːhi,biːhi,b iː h i,,Mitterhofer2013,,false
 Ukalawa-near-1,,Ukalawa,near,biːhi,biːhi,b iː h i,,Mitterhofer2013,,false
 Utengule-near-1,,Utengule,near,biːhi,biːhi,b iː h i,,Mitterhofer2013,,false
 Wangama-near-1,,Wangama,near,biːhi,biːhi,b iː h i,,Mitterhofer2013,,false
-Ikuna-newthing-1,,Ikuna,newthing,hipia,hipia,h i p ia,,Mitterhofer2013,,false
+Ikuna-newthing-1,,Ikuna,newthing,hipia,hipia,h i p i a,,Mitterhofer2013,,false
 Itipula-newthing-1,,Itipula,newthing,mpja,mpja,m p j a,,Mitterhofer2013,,false
-Kanamalenga-newthing-1,,Kanamalenga,newthing,hipia,hipia,h i p ia,,Mitterhofer2013,,false
-Liwengi-newthing-1,,Liwengi,newthing,ʃipia,ʃipia,ʃ i p ia,,Mitterhofer2013,,false
-Ujindile-newthing-1,,Ujindile,newthing,hipia,hipia,h i p ia,,Mitterhofer2013,,false
+Kanamalenga-newthing-1,,Kanamalenga,newthing,hipia,hipia,h i p i a,,Mitterhofer2013,,false
+Liwengi-newthing-1,,Liwengi,newthing,ʃipia,ʃipia,ʃ i p i a,,Mitterhofer2013,,false
+Ujindile-newthing-1,,Ujindile,newthing,hipia,hipia,h i p i a,,Mitterhofer2013,,false
 Ukalawa-newthing-1,,Ukalawa,newthing,kipja,kipja,k i p j a,,Mitterhofer2013,,false
-Ikuna-allthings-1,,Ikuna,allthings,fioːnda,fioːnda,f ioː n d a,,Mitterhofer2013,,false
-Itipula-allthings-1,,Itipula,allthings,fioːnda,fioːnda,f ioː n d a,,Mitterhofer2013,,false
-Kanamalenga-allthings-1,,Kanamalenga,allthings,fioːnda,fioːnda,f ioː n d a,,Mitterhofer2013,,false
-Liwengi-allthings-1,,Liwengi,allthings,fioːnde,fioːnde,f ioː n d e,,Mitterhofer2013,,false
-Ujindile-allthings-1,,Ujindile,allthings,fioːnda,fioːnda,f ioː n d a,,Mitterhofer2013,,false
-Ukalawa-allthings-1,,Ukalawa,allthings,fioːnda,fioːnda,f ioː n d a,,Mitterhofer2013,,false
-Ikuna-manythings-1,,Ikuna,manythings,fiolofu,fiolofu,f io l o f u,,Mitterhofer2013,,false
-Itipula-manythings-1,,Itipula,manythings,fiolofu,fiolofu,f io l o f u,,Mitterhofer2013,,false
-Kanamalenga-manythings-1,,Kanamalenga,manythings,fioloːfu,fioloːfu,f io l oː f u,,Mitterhofer2013,,false
-Liwengi-manythings-1,,Liwengi,manythings,fioŋoː6,fioŋoː6,f io ŋ oː 6,,Mitterhofer2013,,false
-Ujindile-manythings-1,,Ujindile,manythings,fioloːfu,fioloːfu,f io l oː f u,,Mitterhofer2013,,false
-Ukalawa-manythings-1,,Ukalawa,manythings,fiolofu,fiolofu,f io l o f u,,Mitterhofer2013,,false
+Ikuna-allthings-1,,Ikuna,allthings,fioːnda,fioːnda,f i oː n d a,,Mitterhofer2013,,false
+Itipula-allthings-1,,Itipula,allthings,fioːnda,fioːnda,f i oː n d a,,Mitterhofer2013,,false
+Kanamalenga-allthings-1,,Kanamalenga,allthings,fioːnda,fioːnda,f i oː n d a,,Mitterhofer2013,,false
+Liwengi-allthings-1,,Liwengi,allthings,fioːnde,fioːnde,f i oː n d e,,Mitterhofer2013,,false
+Ujindile-allthings-1,,Ujindile,allthings,fioːnda,fioːnda,f i oː n d a,,Mitterhofer2013,,false
+Ukalawa-allthings-1,,Ukalawa,allthings,fioːnda,fioːnda,f i oː n d a,,Mitterhofer2013,,false
+Ikuna-manythings-1,,Ikuna,manythings,fiolofu,fiolofu,f i o l o f u,,Mitterhofer2013,,false
+Itipula-manythings-1,,Itipula,manythings,fiolofu,fiolofu,f i o l o f u,,Mitterhofer2013,,false
+Kanamalenga-manythings-1,,Kanamalenga,manythings,fioloːfu,fioloːfu,f i o l oː f u,,Mitterhofer2013,,false
+Liwengi-manythings-1,,Liwengi,manythings,fioŋoː6,fioŋoː6,f i o ŋ oː <?>,,Mitterhofer2013,,false
+Ujindile-manythings-1,,Ujindile,manythings,fioloːfu,fioloːfu,f i o l oː f u,,Mitterhofer2013,,false
+Ukalawa-manythings-1,,Ukalawa,manythings,fiolofu,fiolofu,f i o l o f u,,Mitterhofer2013,,false
 Ikuna-fewthings-1,,Ikuna,fewthings,fikeːfu,fikeːfu,f i k eː f u,,Mitterhofer2013,,false
 Itipula-fewthings-1,,Itipula,fewthings,fikeːfu,fikeːfu,f i k eː f u,,Mitterhofer2013,,false
 Kanamalenga-fewthings-1,,Kanamalenga,fewthings,fikeːfu,fikeːfu,f i k eː f u,,Mitterhofer2013,,false
@@ -1348,7 +1348,7 @@ Ujindile-blackthing-1,,Ujindile,blackthing,çitiːtu,çitiːtu,ç i t iː t u,,M
 Ukalawa-blackthing-1,,Ukalawa,blackthing,kitiːtu,kitiːtu,k i t iː t u,,Mitterhofer2013,,false
 Ikuna-whitething-1,,Ikuna,whitething,ʃeːlu,ʃeːlu,ʃ eː l u,,Mitterhofer2013,,false
 Itipula-whitething-1,,Itipula,whitething,kiʋalafu,kiʋalafu,k i ʋ a l a f u,,Mitterhofer2013,,false
-Kanamalenga-whitething-1,,Kanamalenga,whitething,hieːlu,hieːlu,h ieː l u,,Mitterhofer2013,,false
+Kanamalenga-whitething-1,,Kanamalenga,whitething,hieːlu,hieːlu,h i eː l u,,Mitterhofer2013,,false
 Liwengi-whitething-1,,Liwengi,whitething,ʃivalafu,ʃivalafu,ʃ i v a l a f u,,Mitterhofer2013,,false
 Ujindile-whitething-1,,Ujindile,whitething,ʃeːlu,ʃeːlu,ʃ eː l u,,Mitterhofer2013,,false
 Ukalawa-whitething-1,,Ukalawa,whitething,kiʋalafu,kiʋalafu,k i ʋ a l a f u,,Mitterhofer2013,,false
@@ -1361,7 +1361,7 @@ Ukalawa-who-1,,Ukalawa,who,ani,ani,a n i,,Mitterhofer2013,,false
 Ikuna-why-1,,Ikuna,why,wuliːwuli,wuliːwuli,w u l iː w u l i,,Mitterhofer2013,,false
 Itipula-why-1,,Itipula,why,utiːtewuli,utiːtewuli,u t iː t e w u l i,,Mitterhofer2013,,false
 Kanamalenga-why-1,,Kanamalenga,why,aŋgewuli,aŋgewuli,a ŋ g e w u l i,,Mitterhofer2013,,false
-Liwengi-why-1,,Liwengi,why,hwawuli,hwawuli,h w a w u l i,,Mitterhofer2013,,false
+Liwengi-why-1,,Liwengi,why,hwawuli,hwawuli,hw a w u l i,,Mitterhofer2013,,false
 Ujindile-why-1,,Ujindile,why,ʃeːçiçi,ʃeːçiçi,ʃ eː ç i ç i,,Mitterhofer2013,,false
 Ukalawa-why-1,,Ukalawa,why,wuli,wuli,w u l i,,Mitterhofer2013,,false
 Ikuna-what-1,,Ikuna,what,ʃiʃi,ʃiʃi,ʃ i ʃ i,,Mitterhofer2013,,false
@@ -1370,16 +1370,16 @@ Kanamalenga-what-1,,Kanamalenga,what,hihi,hihi,h i h i,,Mitterhofer2013,,false
 Liwengi-what-1,,Liwengi,what,ʃiːʃi,ʃiːʃi,ʃ iː ʃ i,,Mitterhofer2013,,false
 Ujindile-what-1,,Ujindile,what,çiːçi,çiːçi,ç iː ç i,,Mitterhofer2013,,false
 Ukalawa-what-1,,Ukalawa,what,kiki,kiki,k i k i,,Mitterhofer2013,,false
-Ikuna-dirtyclothes-1,,Ikuna,dirtyclothes,ntsafu,ntsafu,n t s a f u,,Mitterhofer2013,,false
-Itipula-dirtyclothes-1,,Itipula,dirtyclothes,mtsafu,mtsafu,m t s a f u,,Mitterhofer2013,,false
+Ikuna-dirtyclothes-1,,Ikuna,dirtyclothes,ntsafu,ntsafu,n ts a f u,,Mitterhofer2013,,false
+Itipula-dirtyclothes-1,,Itipula,dirtyclothes,mtsafu,mtsafu,m ts a f u,,Mitterhofer2013,,false
 Kanamalenga-dirtyclothes-1,,Kanamalenga,dirtyclothes,likoji,likoji,l i k o j i,,Mitterhofer2013,,false
-Liwengi-dirtyclothes-1,,Liwengi,dirtyclothes,patsafu,patsafu,p a t s a f u,,Mitterhofer2013,,false
-Ujindile-dirtyclothes-1,,Ujindile,dirtyclothes,ntsafu,ntsafu,n t s a f u,,Mitterhofer2013,,false
+Liwengi-dirtyclothes-1,,Liwengi,dirtyclothes,patsafu,patsafu,p a ts a f u,,Mitterhofer2013,,false
+Ujindile-dirtyclothes-1,,Ujindile,dirtyclothes,ntsafu,ntsafu,n ts a f u,,Mitterhofer2013,,false
 Ukalawa-dirtyclothes-1,,Ukalawa,dirtyclothes,gulamile,gulamile,g u l a m i l e,,Mitterhofer2013,,false
 Ikuna-rottenfruit-1,,Ikuna,rottenfruit,liwoːfu,liwoːfu,l i w oː f u,,Mitterhofer2013,,false
 Itipula-rottenfruit-1,,Itipula,rottenfruit,liwofu,liwofu,l i w o f u,,Mitterhofer2013,,false
 Kanamalenga-rottenfruit-1,,Kanamalenga,rottenfruit,liwoːfu,liwoːfu,l i w oː f u,,Mitterhofer2013,,false
-Liwengi-rottenfruit-1,,Liwengi,rottenfruit,liwuolile,liwuolile,l i w uo l i l e,,Mitterhofer2013,,false
+Liwengi-rottenfruit-1,,Liwengi,rottenfruit,liwuolile,liwuolile,l i w u o l i l e,,Mitterhofer2013,,false
 Ujindile-rottenfruit-1,,Ujindile,rottenfruit,wolile,wolile,w o l i l e,,Mitterhofer2013,,false
 Ukalawa-rottenfruit-1,,Ukalawa,rottenfruit,liwoːfu,liwoːfu,l i w oː f u,,Mitterhofer2013,,false
 Ikuna-drycloth-1,,Ikuna,drycloth,hilagalafu,hilagalafu,h i l a g a l a f u,,Mitterhofer2013,,false
@@ -1405,13 +1405,13 @@ Itipula-sit-1,,Itipula,sit,iːkalile,iːkalile,iː k a l i l e,,Mitterhofer2013,
 Kanamalenga-sit-1,,Kanamalenga,sit,akoŋome,akoŋome,a k o ŋ o m e,,Mitterhofer2013,,false
 Liwengi-sit-1,,Liwengi,sit,utaːmile,utaːmile,u t aː m i l e,,Mitterhofer2013,,false
 Ujindile-sit-1,,Ujindile,sit,iːkalile,iːkalile,iː k a l i l e,,Mitterhofer2013,,false
-Ukalawa-sit-1,,Ukalawa,sit,kitendileme wikale,kitendileme wikale,kitendileme wikale,,Mitterhofer2013,,false
+Ukalawa-sit-1,,Ukalawa,sit,kitendileme wikale,kitendileme wikale,k i t e n d i l e m e _ w i k a l e,,Mitterhofer2013,,false
 Ihanja-standup3rdsg-1,,Ihanja,standup3rdsg,wime,wime,w i m e,,Mitterhofer2013,,false
 Ikuna-standup3rdsg-1,,Ikuna,standup3rdsg,wiːme,wiːme,w iː m e,,Mitterhofer2013,,false
 Itambo-standup3rdsg-1,,Itambo,standup3rdsg,wiːme,wiːme,w iː m e,,Mitterhofer2013,,false
 Itipula-standup3rdsg-1,,Itipula,standup3rdsg,wime,wime,w i m e,,Mitterhofer2013,,false
 Kanamalenga-standup3rdsg-1,,Kanamalenga,standup3rdsg,wiːme,wiːme,w iː m e,,Mitterhofer2013,,false
-Liwengi-standup3rdsg-1,,Liwengi,standup3rdsg,wuiːme,wuiːme,w uiː m e,,Mitterhofer2013,,false
+Liwengi-standup3rdsg-1,,Liwengi,standup3rdsg,wuiːme,wuiːme,w u iː m e,,Mitterhofer2013,,false
 Lwanzali-standup3rdsg-1,,Lwanzali,standup3rdsg,wiːme,wiːme,w iː m e,,Mitterhofer2013,,false
 Ujindile-standup3rdsg-1,,Ujindile,standup3rdsg,wime,wime,w i m e,,Mitterhofer2013,,false
 Utengule-standup3rdsg-1,,Utengule,standup3rdsg,wiːme,wiːme,w iː m e,,Mitterhofer2013,,false
@@ -1422,18 +1422,18 @@ Kanamalenga-standupimp-1,,Kanamalenga,standupimp,iːmile,iːmile,iː m i l e,,Mi
 Liwengi-standupimp-1,,Liwengi,standupimp,iːmile,iːmile,iː m i l e,,Mitterhofer2013,,false
 Ujindile-standupimp-1,,Ujindile,standupimp,iːmile,iːmile,iː m i l e,,Mitterhofer2013,,false
 Ukalawa-standupimp-1,,Ukalawa,standupimp,iːmile,iːmile,iː m i l e,,Mitterhofer2013,,false
-Ikuna-sleep-1,,Ikuna,sleep,agonelie,agonelie,a g o n e l ie,,Mitterhofer2013,,false
+Ikuna-sleep-1,,Ikuna,sleep,agonelie,agonelie,a g o n e l i e,,Mitterhofer2013,,false
 Itipula-sleep-1,,Itipula,sleep,agonile,agonile,a g o n i l e,,Mitterhofer2013,,false
-Kanamalenga-sleep-1,,Kanamalenga,sleep,agoneːlie,agoneːlie,a g o n eː l ie,,Mitterhofer2013,,false
+Kanamalenga-sleep-1,,Kanamalenga,sleep,agoneːlie,agoneːlie,a g o n eː l i e,,Mitterhofer2013,,false
 Liwengi-sleep-1,,Liwengi,sleep,agonile,agonile,a g o n i l e,,Mitterhofer2013,,false
-Ujindile-sleep-1,,Ujindile,sleep,agoneːlie,agoneːlie,a g o n eː l ie,,Mitterhofer2013,,false
-Ukalawa-sleep-1,,Ukalawa,sleep,agonelie,agonelie,a g o n e l ie,,Mitterhofer2013,,false
-Ikuna-awaken-1,,Ikuna,awaken,asisimwihe,asisimwihe,a s i s i m w i h e,,Mitterhofer2013,,false
+Ujindile-sleep-1,,Ujindile,sleep,agoneːlie,agoneːlie,a g o n eː l i e,,Mitterhofer2013,,false
+Ukalawa-sleep-1,,Ukalawa,sleep,agonelie,agonelie,a g o n e l i e,,Mitterhofer2013,,false
+Ikuna-awaken-1,,Ikuna,awaken,asisimwihe,asisimwihe,a s i s i mw i h e,,Mitterhofer2013,,false
 Itipula-awaken-1,,Itipula,awaken,alamuwike,alamuwike,a l a m u w i k e,,Mitterhofer2013,,false
 Kanamalenga-awaken-1,,Kanamalenga,awaken,alamuwiːhe,alamuwiːhe,a l a m u w iː h e,,Mitterhofer2013,,false
-Liwengi-awaken-1,,Liwengi,awaken,alamwuihe,alamwuihe,a l a m w ui h e,,Mitterhofer2013,,false
-Ujindile-awaken-1,,Ujindile,awaken,alamwiːhe,alamwiːhe,a l a m w iː h e,,Mitterhofer2013,,false
-Ukalawa-awaken-1,,Ukalawa,awaken,alamwiːke,alamwiːke,a l a m w iː k e,,Mitterhofer2013,,false
+Liwengi-awaken-1,,Liwengi,awaken,alamwuihe,alamwuihe,a l a mw u i h e,,Mitterhofer2013,,false
+Ujindile-awaken-1,,Ujindile,awaken,alamwiːhe,alamwiːhe,a l a mw iː h e,,Mitterhofer2013,,false
+Ukalawa-awaken-1,,Ukalawa,awaken,alamwiːke,alamwiːke,a l a mw iː k e,,Mitterhofer2013,,false
 Ikuna-askforsthg-1,,Ikuna,askforsthg,iɲiliha,iɲiliha,i ɲ i l i h a,,Mitterhofer2013,,false
 Itipula-askforsthg-1,,Itipula,askforsthg,iŋilika,iŋilika,i ŋ i l i k a,,Mitterhofer2013,,false
 Kanamalenga-askforsthg-1,,Kanamalenga,askforsthg,aɲilihi,aɲilihi,a ɲ i l i h i,,Mitterhofer2013,,false
@@ -1447,27 +1447,27 @@ Liwengi-bring-1,,Liwengi,bring,ahumeːla,ahumeːla,a h u m eː l a,,Mitterhofer2
 Ujindile-bring-1,,Ujindile,bring,ileːta,ileːta,i l eː t a,,Mitterhofer2013,,false
 Ukalawa-bring-1,,Ukalawa,bring,ileːta,ileːta,i l eː t a,,Mitterhofer2013,,false
 Ikuna-getobtain-1,,Ikuna,getobtain,iːpata,iːpata,iː p a t a,,Mitterhofer2013,,false
-Itipula-getobtain-1,,Itipula,getobtain,ndikwaːnuka,ndikwaːnuka,n d i k w aː n u k a,,Mitterhofer2013,,false
-Kanamalenga-getobtain-1,,Kanamalenga,getobtain,aːnuçie,aːnuçie,aː n u ç ie,,Mitterhofer2013,,false
+Itipula-getobtain-1,,Itipula,getobtain,ndikwaːnuka,ndikwaːnuka,n d i kw aː n u k a,,Mitterhofer2013,,false
+Kanamalenga-getobtain-1,,Kanamalenga,getobtain,aːnuçie,aːnuçie,aː n u ç i e,,Mitterhofer2013,,false
 Liwengi-getobtain-1,,Liwengi,getobtain,ahumpeːla,ahumpeːla,a h u m p eː l a,,Mitterhofer2013,,false
-Ujindile-getobtain-1,,Ujindile,getobtain,apeʋiːlwe,apeʋiːlwe,a p e ʋ iː l w e,,Mitterhofer2013,,false
+Ujindile-getobtain-1,,Ujindile,getobtain,apeʋiːlwe,apeʋiːlwe,a p e ʋ iː lw e,,Mitterhofer2013,,false
 Ukalawa-getobtain-1,,Ukalawa,getobtain,iːpata,iːpata,iː p a t a,,Mitterhofer2013,,false
-Ikuna-take-1,,Ikuna,take,ategwe,ategwe,a t e g w e,,Mitterhofer2013,,false
-Itipula-take-1,,Itipula,take,ategue/aɲamue,ategue/aɲamue,a t e g ue / a ɲ a m ue,,Mitterhofer2013,,false
+Ikuna-take-1,,Ikuna,take,ategwe,ategwe,a t e gw e,,Mitterhofer2013,,false
+Itipula-take-1,,Itipula,take,ategue/aɲamue,ategue/aɲamue,<???>,,Mitterhofer2013,,false
 Kanamalenga-take-1,,Kanamalenga,take,ateguwe,ateguwe,a t e g u w e,,Mitterhofer2013,,false
-Liwengi-take-1,,Liwengi,take,agedʒile,agedʒile,a g e d ʒ i l e,,Mitterhofer2013,,false
-Ikuna-carrychildonback-1,,Ikuna,carrychildonback,abaːbie,abaːbie,a b aː b ie,,Mitterhofer2013,,false
+Liwengi-take-1,,Liwengi,take,agedʒile,agedʒile,a g e dʒ i l e,,Mitterhofer2013,,false
+Ikuna-carrychildonback-1,,Ikuna,carrychildonback,abaːbie,abaːbie,a b aː b i e,,Mitterhofer2013,,false
 Itipula-carrychildonback-1,,Itipula,carrychildonback,abaːpile,abaːpile,a b aː p i l e,,Mitterhofer2013,,false
 Kanamalenga-carrychildonback-1,,Kanamalenga,carrychildonback,abaːbile,abaːbile,a b aː b i l e,,Mitterhofer2013,,false
 Liwengi-carrychildonback-1,,Liwengi,carrychildonback,abaːbile,abaːbile,a b aː b i l e,,Mitterhofer2013,,false
-Ikuna-hold-1,,Ikuna,hold,akoleːlie,akoleːlie,a k o l eː l ie,,Mitterhofer2013,,false
-Itipula-hold-1,,Itipula,hold,akamue,akamue,a k a m ue,,Mitterhofer2013,,false
-Kanamalenga-hold-1,,Kanamalenga,hold,akolie,akolie,a k o l ie,,Mitterhofer2013,,false
-Liwengi-hold-1,,Liwengi,hold,akamwe,akamwe,a k a m w e,,Mitterhofer2013,,false
-Ikuna-sell-1,,Ikuna,sell,ligutsa,ligutsa,l i g u t s a,,Mitterhofer2013,,false
-Itipula-sell-1,,Itipula,sell,ligutsa,ligutsa,l i g u t s a,,Mitterhofer2013,,false
-Kanamalenga-sell-1,,Kanamalenga,sell,igutʃa,igutʃa,i g u t ʃ a,,Mitterhofer2013,,false
-Liwengi-sell-1,,Liwengi,sell,iguːtsa,iguːtsa,i g uː t s a,,Mitterhofer2013,,false
+Ikuna-hold-1,,Ikuna,hold,akoleːlie,akoleːlie,a k o l eː l i e,,Mitterhofer2013,,false
+Itipula-hold-1,,Itipula,hold,akamue,akamue,a k a m u e,,Mitterhofer2013,,false
+Kanamalenga-hold-1,,Kanamalenga,hold,akolie,akolie,a k o l i e,,Mitterhofer2013,,false
+Liwengi-hold-1,,Liwengi,hold,akamwe,akamwe,a k a mw e,,Mitterhofer2013,,false
+Ikuna-sell-1,,Ikuna,sell,ligutsa,ligutsa,l i g u ts a,,Mitterhofer2013,,false
+Itipula-sell-1,,Itipula,sell,ligutsa,ligutsa,l i g u ts a,,Mitterhofer2013,,false
+Kanamalenga-sell-1,,Kanamalenga,sell,igutʃa,igutʃa,i g u tʃ a,,Mitterhofer2013,,false
+Liwengi-sell-1,,Liwengi,sell,iguːtsa,iguːtsa,i g uː ts a,,Mitterhofer2013,,false
 Ikuna-buy-1,,Ikuna,buy,iːgula,iːgula,iː g u l a,,Mitterhofer2013,,false
 Itipula-buy-1,,Itipula,buy,iːgula,iːgula,iː g u l a,,Mitterhofer2013,,false
 Kanamalenga-buy-1,,Kanamalenga,buy,iːgula,iːgula,iː g u l a,,Mitterhofer2013,,false
@@ -1482,26 +1482,26 @@ Kanamalenga-givehim-1,,Kanamalenga,givehim,ampeːla,ampeːla,a m p eː l a,,Mitt
 Liwengi-givehim-1,,Liwengi,givehim,ahumpeːla,ahumpeːla,a h u m p eː l a,,Mitterhofer2013,,false
 Ikuna-sendhim-1,,Ikuna,sendhim,amutuma,amutuma,a m u t u m a,,Mitterhofer2013,,false
 Itipula-sendhim-1,,Itipula,sendhim,mgumutuma,mgumutuma,m g u m u t u m a,,Mitterhofer2013,,false
-Kanamalenga-sendhim-1,,Kanamalenga,sendhim,atumiːlwe,atumiːlwe,a t u m iː l w e,,Mitterhofer2013,,false
+Kanamalenga-sendhim-1,,Kanamalenga,sendhim,atumiːlwe,atumiːlwe,a t u m iː lw e,,Mitterhofer2013,,false
 Liwengi-sendhim-1,,Liwengi,sendhim,ahumuseːŋa,ahumuseːŋa,a h u m u s eː ŋ a,,Mitterhofer2013,,false
 Ikuna-bitev-1,,Ikuna,bitev,iːluma,iːluma,iː l u m a,,Mitterhofer2013,,false
 Itipula-bitev-1,,Itipula,bitev,iːluma,iːluma,iː l u m a,,Mitterhofer2013,,false
 Kanamalenga-bitev-1,,Kanamalenga,bitev,iwawa,iwawa,i w a w a,,Mitterhofer2013,,false
 Liwengi-bitev-1,,Liwengi,bitev,iːluma,iːluma,iː l u m a,,Mitterhofer2013,,false
 Ikuna-eat-1,,Ikuna,eat,iːlja,iːlja,iː l j a,,Mitterhofer2013,,false
-Itipula-eat-1,,Itipula,eat,iːlia,iːlia,iː l ia,,Mitterhofer2013,,false
+Itipula-eat-1,,Itipula,eat,iːlia,iːlia,iː l i a,,Mitterhofer2013,,false
 Kanamalenga-eat-1,,Kanamalenga,eat,iːlja,iːlja,iː l j a,,Mitterhofer2013,,false
-Liwengi-eat-1,,Liwengi,eat,iːlia,iːlia,iː l ia,,Mitterhofer2013,,false
-Ikuna-drinkv-1,,Ikuna,drinkv,iːɲwa,iːɲwa,iː ɲ w a,,Mitterhofer2013,,false
+Liwengi-eat-1,,Liwengi,eat,iːlia,iːlia,iː l i a,,Mitterhofer2013,,false
+Ikuna-drinkv-1,,Ikuna,drinkv,iːɲwa,iːɲwa,iː ɲw a,,Mitterhofer2013,,false
 Itipula-drinkv-1,,Itipula,drinkv,iːɲuwa,iːɲuwa,iː ɲ u w a,,Mitterhofer2013,,false
-Kanamalenga-drinkv-1,,Kanamalenga,drinkv,iːɲwa,iːɲwa,iː ɲ w a,,Mitterhofer2013,,false
+Kanamalenga-drinkv-1,,Kanamalenga,drinkv,iːɲwa,iːɲwa,iː ɲw a,,Mitterhofer2013,,false
 Liwengi-drinkv-1,,Liwengi,drinkv,iːnjuwa,iːnjuwa,iː n j u w a,,Mitterhofer2013,,false
-Ikuna-boilwater-1,,Ikuna,boilwater,ipuː6a,ipuː6a,i p uː 6 a,,Mitterhofer2013,,false
-Itipula-boilwater-1,,Itipula,boilwater,iːpjuː6a,iːpjuː6a,iː p j uː 6 a,,Mitterhofer2013,,false
+Ikuna-boilwater-1,,Ikuna,boilwater,ipuː6a,ipuː6a,i p uː <?> a,,Mitterhofer2013,,false
+Itipula-boilwater-1,,Itipula,boilwater,iːpjuː6a,iːpjuː6a,iː p j uː <?> a,,Mitterhofer2013,,false
 Kanamalenga-boilwater-1,,Kanamalenga,boilwater,atelihe,atelihe,a t e l i h e,,Mitterhofer2013,,false
 Liwengi-boilwater-1,,Liwengi,boilwater,iːpjuːfja,iːpjuːfja,iː p j uː f j a,,Mitterhofer2013,,false
 Ikuna-pour-1,,Ikuna,pour,isoːpa,isoːpa,i s oː p a,,Mitterhofer2013,,false
-Itipula-pour-1,,Itipula,pour,alafiːtse,alafiːtse,a l a f iː t s e,,Mitterhofer2013,,false
+Itipula-pour-1,,Itipula,pour,alafiːtse,alafiːtse,a l a f iː ts e,,Mitterhofer2013,,false
 Kanamalenga-pour-1,,Kanamalenga,pour,iːpuŋgula,iːpuŋgula,iː p u ŋ g u l a,,Mitterhofer2013,,false
 Liwengi-pour-1,,Liwengi,pour,asuhuwe,asuhuwe,a s u h u w e,,Mitterhofer2013,,false
 Ikuna-vomit-1,,Ikuna,vomit,ideːha,ideːha,i d eː h a,,Mitterhofer2013,,false
@@ -1512,14 +1512,14 @@ Ikuna-cough-1,,Ikuna,cough,igohomola,igohomola,i g o h o m o l a,,Mitterhofer201
 Itipula-cough-1,,Itipula,cough,iːgohomala,iːgohomala,iː g o h o m a l a,,Mitterhofer2013,,false
 Kanamalenga-cough-1,,Kanamalenga,cough,igohomola,igohomola,i g o h o m o l a,,Mitterhofer2013,,false
 Liwengi-cough-1,,Liwengi,cough,iːgohomola,iːgohomola,iː g o h o m o l a,,Mitterhofer2013,,false
-Ikuna-sneeze-1,,Ikuna,sneeze,itiasaːmula,itiasaːmula,i t ia s aː m u l a,,Mitterhofer2013,,false
-Itipula-sneeze-1,,Itipula,sneeze,iːtiasaːmula,iːtiasaːmula,iː t ia s aː m u l a,,Mitterhofer2013,,false
+Ikuna-sneeze-1,,Ikuna,sneeze,itiasaːmula,itiasaːmula,i t i a s aː m u l a,,Mitterhofer2013,,false
+Itipula-sneeze-1,,Itipula,sneeze,iːtiasaːmula,iːtiasaːmula,iː t i a s aː m u l a,,Mitterhofer2013,,false
 Kanamalenga-sneeze-1,,Kanamalenga,sneeze,itjasamula,itjasamula,i t j a s a m u l a,,Mitterhofer2013,,false
 Liwengi-sneeze-1,,Liwengi,sneeze,iːtjasaːmula,iːtjasaːmula,iː t j a s aː m u l a,,Mitterhofer2013,,false
-Ikuna-breathe-1,,Ikuna,breathe,iːhweheːla,iːhweheːla,iː h w e h eː l a,,Mitterhofer2013,,false
-Itipula-breathe-1,,Itipula,breathe,iːkweheːla,iːkweheːla,iː k w e h eː l a,,Mitterhofer2013,,false
-Kanamalenga-breathe-1,,Kanamalenga,breathe,ihwehela,ihwehela,i h w e h e l a,,Mitterhofer2013,,false
-Liwengi-breathe-1,,Liwengi,breathe,iːhweheːla,iːhweheːla,iː h w e h eː l a,,Mitterhofer2013,,false
+Ikuna-breathe-1,,Ikuna,breathe,iːhweheːla,iːhweheːla,iː hw e h eː l a,,Mitterhofer2013,,false
+Itipula-breathe-1,,Itipula,breathe,iːkweheːla,iːkweheːla,iː kw e h eː l a,,Mitterhofer2013,,false
+Kanamalenga-breathe-1,,Kanamalenga,breathe,ihwehela,ihwehela,i hw e h e l a,,Mitterhofer2013,,false
+Liwengi-breathe-1,,Liwengi,breathe,iːhweheːla,iːhweheːla,iː hw e h eː l a,,Mitterhofer2013,,false
 Ikuna-suckbaby-1,,Ikuna,suckbaby,iːhoːŋa,iːhoːŋa,iː h oː ŋ a,,Mitterhofer2013,,false
 Itipula-suckbaby-1,,Itipula,suckbaby,iːkoŋa,iːkoŋa,iː k o ŋ a,,Mitterhofer2013,,false
 Kanamalenga-suckbaby-1,,Kanamalenga,suckbaby,ihoːŋa,ihoːŋa,i h oː ŋ a,,Mitterhofer2013,,false
@@ -1527,11 +1527,11 @@ Liwengi-suckbaby-1,,Liwengi,suckbaby,ihoːŋa,ihoːŋa,i h oː ŋ a,,Mitterhofer
 Ikuna-spit-1,,Ikuna,spit,ifuːɲa,ifuːɲa,i f uː ɲ a,,Mitterhofer2013,,false
 Itipula-spit-1,,Itipula,spit,ifuːɲa,ifuːɲa,i f uː ɲ a,,Mitterhofer2013,,false
 Kanamalenga-spit-1,,Kanamalenga,spit,ifuːɲa,ifuːɲa,i f uː ɲ a,,Mitterhofer2013,,false
-Liwengi-spit-1,,Liwengi,spit,ifuːnja mati,ifuːnja mati,ifuːnja mati,,Mitterhofer2013,,false
+Liwengi-spit-1,,Liwengi,spit,ifuːnja mati,ifuːnja mati,i f uː n j a _ m a t i,,Mitterhofer2013,,false
 Ikuna-blowwind-1,,Ikuna,blowwind,jipuːla,jipuːla,j i p uː l a,,Mitterhofer2013,,false
 Itipula-blowwind-1,,Itipula,blowwind,jipuːla,jipuːla,j i p uː l a,,Mitterhofer2013,,false
 Kanamalenga-blowwind-1,,Kanamalenga,blowwind,jipuːla,jipuːla,j i p uː l a,,Mitterhofer2013,,false
-Liwengi-blowwind-1,,Liwengi,blowwind,ʃipula ŋaːla,ʃipula ŋaːla,ʃipula ŋaːla,,Mitterhofer2013,,false
+Liwengi-blowwind-1,,Liwengi,blowwind,ʃipula ŋaːla,ʃipula ŋaːla,ʃ i p u l a _ ŋ aː l a,,Mitterhofer2013,,false
 Ikuna-blowperson-1,,Ikuna,blowperson,iːpuːla,iːpuːla,iː p uː l a,,Mitterhofer2013,,false
 Itipula-blowperson-1,,Itipula,blowperson,ipuːla,ipuːla,i p uː l a,,Mitterhofer2013,,false
 Kanamalenga-blowperson-1,,Kanamalenga,blowperson,ipuːla,ipuːla,i p uː l a,,Mitterhofer2013,,false
@@ -1540,22 +1540,22 @@ Ikuna-whistlev-1,,Ikuna,whistlev,iːpeːmba,iːpeːmba,iː p eː m b a,,Mitterho
 Itipula-whistlev-1,,Itipula,whistlev,ipeːmba,ipeːmba,i p eː m b a,,Mitterhofer2013,,false
 Kanamalenga-whistlev-1,,Kanamalenga,whistlev,ipeːmba,ipeːmba,i p eː m b a,,Mitterhofer2013,,false
 Liwengi-whistlev-1,,Liwengi,whistlev,iːpeːmba,iːpeːmba,iː p eː m b a,,Mitterhofer2013,,false
-Ikuna-yawn-1,,Ikuna,yawn,iːhwahaːmula,iːhwahaːmula,iː h w a h aː m u l a,,Mitterhofer2013,,false
-Itipula-yawn-1,,Itipula,yawn,ikwahaːmula,ikwahaːmula,i k w a h aː m u l a,,Mitterhofer2013,,false
-Kanamalenga-yawn-1,,Kanamalenga,yawn,ihwahamula,ihwahamula,i h w a h a m u l a,,Mitterhofer2013,,false
-Liwengi-yawn-1,,Liwengi,yawn,ihwahaːmula,ihwahaːmula,i h w a h aː m u l a,,Mitterhofer2013,,false
-Ikuna-sing-1,,Ikuna,sing,ihwiːmba,ihwiːmba,i h w iː m b a,,Mitterhofer2013,,false
+Ikuna-yawn-1,,Ikuna,yawn,iːhwahaːmula,iːhwahaːmula,iː hw a h aː m u l a,,Mitterhofer2013,,false
+Itipula-yawn-1,,Itipula,yawn,ikwahaːmula,ikwahaːmula,i kw a h aː m u l a,,Mitterhofer2013,,false
+Kanamalenga-yawn-1,,Kanamalenga,yawn,ihwahamula,ihwahamula,i hw a h a m u l a,,Mitterhofer2013,,false
+Liwengi-yawn-1,,Liwengi,yawn,ihwahaːmula,ihwahaːmula,i hw a h aː m u l a,,Mitterhofer2013,,false
+Ikuna-sing-1,,Ikuna,sing,ihwiːmba,ihwiːmba,i hw iː m b a,,Mitterhofer2013,,false
 Itipula-sing-1,,Itipula,sing,iwuŋga,iwuŋga,i w u ŋ g a,,Mitterhofer2013,,false
-Kanamalenga-sing-1,,Kanamalenga,sing,ihwiːmba,ihwiːmba,i h w iː m b a,,Mitterhofer2013,,false
-Liwengi-sing-1,,Liwengi,sing,iːhwiːmba,iːhwiːmba,iː h w iː m b a,,Mitterhofer2013,,false
+Kanamalenga-sing-1,,Kanamalenga,sing,ihwiːmba,ihwiːmba,i hw iː m b a,,Mitterhofer2013,,false
+Liwengi-sing-1,,Liwengi,sing,iːhwiːmba,iːhwiːmba,iː hw iː m b a,,Mitterhofer2013,,false
 Ikuna-playchild-1,,Ikuna,playchild,iːkina,iːkina,iː k i n a,,Mitterhofer2013,,false
 Itipula-playchild-1,,Itipula,playchild,iːkina,iːkina,iː k i n a,,Mitterhofer2013,,false
 Kanamalenga-playchild-1,,Kanamalenga,playchild,iːkina,iːkina,iː k i n a,,Mitterhofer2013,,false
 Liwengi-playchild-1,,Liwengi,playchild,iːkina,iːkina,iː k i n a,,Mitterhofer2013,,false
-Ikuna-dance-1,,Ikuna,dance,iːkina ŋgoma,iːkina ŋgoma,iːkina ŋgoma,,Mitterhofer2013,,false
-Itipula-dance-1,,Itipula,dance,iːkina ŋgoma,iːkina ŋgoma,iːkina ŋgoma,,Mitterhofer2013,,false
-Kanamalenga-dance-1,,Kanamalenga,dance,iːkina ŋgoma,iːkina ŋgoma,iːkina ŋgoma,,Mitterhofer2013,,false
-Liwengi-dance-1,,Liwengi,dance,iːkina ŋgoma,iːkina ŋgoma,iːkina ŋgoma,,Mitterhofer2013,,false
+Ikuna-dance-1,,Ikuna,dance,iːkina ŋgoma,iːkina ŋgoma,iː k i n a _ ŋ g o m a,,Mitterhofer2013,,false
+Itipula-dance-1,,Itipula,dance,iːkina ŋgoma,iːkina ŋgoma,iː k i n a _ ŋ g o m a,,Mitterhofer2013,,false
+Kanamalenga-dance-1,,Kanamalenga,dance,iːkina ŋgoma,iːkina ŋgoma,iː k i n a _ ŋ g o m a,,Mitterhofer2013,,false
+Liwengi-dance-1,,Liwengi,dance,iːkina ŋgoma,iːkina ŋgoma,iː k i n a _ ŋ g o m a,,Mitterhofer2013,,false
 Ikuna-laugh-1,,Ikuna,laugh,iːheha,iːheha,iː h e h a,,Mitterhofer2013,,false
 Itipula-laugh-1,,Itipula,laugh,iːheka,iːheka,iː h e k a,,Mitterhofer2013,,false
 Kanamalenga-laugh-1,,Kanamalenga,laugh,iːheha,iːheha,iː h e h a,,Mitterhofer2013,,false
@@ -1568,14 +1568,14 @@ Ikuna-barkdog-1,,Ikuna,barkdog,jiwaːga,jiwaːga,j i w aː g a,,Mitterhofer2013,
 Itipula-barkdog-1,,Itipula,barkdog,liʋaːga,liʋaːga,l i ʋ aː g a,,Mitterhofer2013,,false
 Kanamalenga-barkdog-1,,Kanamalenga,barkdog,jiʋaːga,jiʋaːga,j i ʋ aː g a,,Mitterhofer2013,,false
 Liwengi-barkdog-1,,Liwengi,barkdog,liːŋaŋa,liːŋaŋa,l iː ŋ a ŋ a,,Mitterhofer2013,,false
-Ikuna-say-1,,Ikuna,say,itsoʋa,itsoʋa,i t s o ʋ a,,Mitterhofer2013,,false
-Itipula-say-1,,Itipula,say,iːtsoʋa,iːtsoʋa,iː t s o ʋ a,,Mitterhofer2013,,false
+Ikuna-say-1,,Ikuna,say,itsoʋa,itsoʋa,i ts o ʋ a,,Mitterhofer2013,,false
+Itipula-say-1,,Itipula,say,iːtsoʋa,iːtsoʋa,iː ts o ʋ a,,Mitterhofer2013,,false
 Kanamalenga-say-1,,Kanamalenga,say,iloːŋga,iloːŋga,i l oː ŋ g a,,Mitterhofer2013,,false
-Liwengi-say-1,,Liwengi,say,iːtsova,iːtsova,iː t s o v a,,Mitterhofer2013,,false
-Ikuna-askquestion-1,,Ikuna,askquestion,iwuːtsa,iwuːtsa,i w uː t s a,,Mitterhofer2013,,false
-Itipula-askquestion-1,,Itipula,askquestion,iːwuːtsa,iːwuːtsa,iː w uː t s a,,Mitterhofer2013,,false
-Kanamalenga-askquestion-1,,Kanamalenga,askquestion,iwuːtdʒa,iwuːtdʒa,i w uː t d ʒ a,,Mitterhofer2013,,false
-Liwengi-askquestion-1,,Liwengi,askquestion,iwuːtsa,iwuːtsa,i w uː t s a,,Mitterhofer2013,,false
+Liwengi-say-1,,Liwengi,say,iːtsova,iːtsova,iː ts o v a,,Mitterhofer2013,,false
+Ikuna-askquestion-1,,Ikuna,askquestion,iwuːtsa,iwuːtsa,i w uː ts a,,Mitterhofer2013,,false
+Itipula-askquestion-1,,Itipula,askquestion,iːwuːtsa,iːwuːtsa,iː w uː ts a,,Mitterhofer2013,,false
+Kanamalenga-askquestion-1,,Kanamalenga,askquestion,iwuːtdʒa,iwuːtdʒa,i w uː t dʒ a,,Mitterhofer2013,,false
+Liwengi-askquestion-1,,Liwengi,askquestion,iwuːtsa,iwuːtsa,i w uː ts a,,Mitterhofer2013,,false
 Ikuna-look-1,,Ikuna,look,iːlola,iːlola,iː l o l a,,Mitterhofer2013,,false
 Itipula-look-1,,Itipula,look,iːlola,iːlola,iː l o l a,,Mitterhofer2013,,false
 Kanamalenga-look-1,,Kanamalenga,look,iːlola,iːlola,iː l o l a,,Mitterhofer2013,,false
@@ -1587,26 +1587,26 @@ Liwengi-showv-1,,Liwengi,showv,iːlaga,iːlaga,iː l a g a,,Mitterhofer2013,,fal
 Ikuna-hear-1,,Ikuna,hear,iːpuliha,iːpuliha,iː p u l i h a,,Mitterhofer2013,,false
 Itipula-hear-1,,Itipula,hear,iːpulika,iːpulika,iː p u l i k a,,Mitterhofer2013,,false
 Kanamalenga-hear-1,,Kanamalenga,hear,iːpuliha,iːpuliha,iː p u l i h a,,Mitterhofer2013,,false
-Liwengi-hear-1,,Liwengi,hear,iːpwiha,iːpwiha,iː p w i h a,,Mitterhofer2013,,false
-Ikuna-die-1,,Ikuna,die,iːfwa,iːfwa,iː f w a,,Mitterhofer2013,,false
-Itipula-die-1,,Itipula,die,iːfwa,iːfwa,iː f w a,,Mitterhofer2013,,false
-Kanamalenga-die-1,,Kanamalenga,die,afwe,afwe,a f w e,,Mitterhofer2013,,false
-Liwengi-die-1,,Liwengi,die,iːfwa,iːfwa,iː f w a,,Mitterhofer2013,,false
-Ikuna-know-1,,Ikuna,know,itseːla,itseːla,i t s eː l a,,Mitterhofer2013,,false
+Liwengi-hear-1,,Liwengi,hear,iːpwiha,iːpwiha,iː pw i h a,,Mitterhofer2013,,false
+Ikuna-die-1,,Ikuna,die,iːfwa,iːfwa,iː fw a,,Mitterhofer2013,,false
+Itipula-die-1,,Itipula,die,iːfwa,iːfwa,iː fw a,,Mitterhofer2013,,false
+Kanamalenga-die-1,,Kanamalenga,die,afwe,afwe,a fw e,,Mitterhofer2013,,false
+Liwengi-die-1,,Liwengi,die,iːfwa,iːfwa,iː fw a,,Mitterhofer2013,,false
+Ikuna-know-1,,Ikuna,know,itseːla,itseːla,i ts eː l a,,Mitterhofer2013,,false
 Itipula-know-1,,Itipula,know,alumaɲile,alumaɲile,a l u m a ɲ i l e,,Mitterhofer2013,,false
-Kanamalenga-know-1,,Kanamalenga,know,ihweleʋa,ihweleʋa,i h w e l e ʋ a,,Mitterhofer2013,,false
+Kanamalenga-know-1,,Kanamalenga,know,ihweleʋa,ihweleʋa,i hw e l e ʋ a,,Mitterhofer2013,,false
 Liwengi-know-1,,Liwengi,know,amanjile,amanjile,a m a n j i l e,,Mitterhofer2013,,false
 Ikuna-countv-1,,Ikuna,countv,iʋalila,iʋalila,i ʋ a l i l a,,Mitterhofer2013,,false
 Itipula-countv-1,,Itipula,countv,iːʋalila,iːʋalila,iː ʋ a l i l a,,Mitterhofer2013,,false
 Kanamalenga-countv-1,,Kanamalenga,countv,iʋalila,iʋalila,i ʋ a l i l a,,Mitterhofer2013,,false
 Liwengi-countv-1,,Liwengi,countv,iːvalila,iːvalila,iː v a l i l a,,Mitterhofer2013,,false
-Ikuna-wantlike-1,,Ikuna,wantlike,ikeːla/idoboha,ikeːla/idoboha,i k eː l a / i d o b o h a,,Mitterhofer2013,,false
+Ikuna-wantlike-1,,Ikuna,wantlike,ikeːla/idoboha,ikeːla/idoboha,<???>,,Mitterhofer2013,,false
 Itipula-wantlike-1,,Itipula,wantlike,iːkeːla,iːkeːla,iː k eː l a,,Mitterhofer2013,,false
 Kanamalenga-wantlike-1,,Kanamalenga,wantlike,idoboha,idoboha,i d o b o h a,,Mitterhofer2013,,false
 Liwengi-wantlike-1,,Liwengi,wantlike,iːkʰeːla,iːkʰeːla,iː kʰ eː l a,,Mitterhofer2013,,false
 Ikuna-helpv-1,,Ikuna,helpv,itaːŋga,itaːŋga,i t aː ŋ g a,,Mitterhofer2013,,false
 Itipula-helpv-1,,Itipula,helpv,iːtaːŋga,iːtaːŋga,iː t aː ŋ g a,,Mitterhofer2013,,false
-Kanamalenga-helpv-1,,Kanamalenga,helpv,iːtaŋgilitdʒa,iːtaŋgilitdʒa,iː t a ŋ g i l i t d ʒ a,,Mitterhofer2013,,false
+Kanamalenga-helpv-1,,Kanamalenga,helpv,iːtaŋgilitdʒa,iːtaŋgilitdʒa,iː t a ŋ g i l i t dʒ a,,Mitterhofer2013,,false
 Liwengi-helpv-1,,Liwengi,helpv,iːtaːŋga,iːtaːŋga,iː t aː ŋ g a,,Mitterhofer2013,,false
 Ikuna-walkv-1,,Ikuna,walkv,igeːnda,igeːnda,i g eː n d a,,Mitterhofer2013,,false
 Itipula-walkv-1,,Itipula,walkv,igeːnda,igeːnda,i g eː n d a,,Mitterhofer2013,,false
@@ -1616,22 +1616,22 @@ Ikuna-runv-1,,Ikuna,runv,iːɲla,iːɲla,iː ɲ l a,,Mitterhofer2013,,false
 Itipula-runv-1,,Itipula,runv,iːɲila,iːɲila,iː ɲ i l a,,Mitterhofer2013,,false
 Kanamalenga-runv-1,,Kanamalenga,runv,iɲla,iɲla,i ɲ l a,,Mitterhofer2013,,false
 Liwengi-runv-1,,Liwengi,runv,iːnjila,iːnjila,iː n j i l a,,Mitterhofer2013,,false
-Ikuna-pullrope-1,,Ikuna,pullrope,iːkwega,iːkwega,iː k w e g a,,Mitterhofer2013,,false
-Itipula-pullrope-1,,Itipula,pullrope,iːkwega,iːkwega,iː k w e g a,,Mitterhofer2013,,false
-Kanamalenga-pullrope-1,,Kanamalenga,pullrope,ikweːga,ikweːga,i k w eː g a,,Mitterhofer2013,,false
-Liwengi-pullrope-1,,Liwengi,pullrope,iːkwega,iːkwega,iː k w e g a,,Mitterhofer2013,,false
-Ikuna-come-1,,Ikuna,come,ihwaːtsa,ihwaːtsa,i h w aː t s a,,Mitterhofer2013,,false
-Itipula-come-1,,Itipula,come,iːkwatsa,iːkwatsa,iː k w a t s a,,Mitterhofer2013,,false
-Kanamalenga-come-1,,Kanamalenga,come,ihwatdʒa,ihwatdʒa,i h w a t d ʒ a,,Mitterhofer2013,,false
-Liwengi-come-1,,Liwengi,come,ihwatsa,ihwatsa,i h w a t s a,,Mitterhofer2013,,false
+Ikuna-pullrope-1,,Ikuna,pullrope,iːkwega,iːkwega,iː kw e g a,,Mitterhofer2013,,false
+Itipula-pullrope-1,,Itipula,pullrope,iːkwega,iːkwega,iː kw e g a,,Mitterhofer2013,,false
+Kanamalenga-pullrope-1,,Kanamalenga,pullrope,ikweːga,ikweːga,i kw eː g a,,Mitterhofer2013,,false
+Liwengi-pullrope-1,,Liwengi,pullrope,iːkwega,iːkwega,iː kw e g a,,Mitterhofer2013,,false
+Ikuna-come-1,,Ikuna,come,ihwaːtsa,ihwaːtsa,i hw aː ts a,,Mitterhofer2013,,false
+Itipula-come-1,,Itipula,come,iːkwatsa,iːkwatsa,iː kw a ts a,,Mitterhofer2013,,false
+Kanamalenga-come-1,,Kanamalenga,come,ihwatdʒa,ihwatdʒa,i hw a t dʒ a,,Mitterhofer2013,,false
+Liwengi-come-1,,Liwengi,come,ihwatsa,ihwatsa,i hw a ts a,,Mitterhofer2013,,false
 Ikuna-leavev-1,,Ikuna,leavev,ahegile,ahegile,a h e g i l e,,Mitterhofer2013,,false
 Itipula-leavev-1,,Itipula,leavev,ahegile,ahegile,a h e g i l e,,Mitterhofer2013,,false
 Kanamalenga-leavev-1,,Kanamalenga,leavev,ahegile,ahegile,a h e g i l e,,Mitterhofer2013,,false
 Liwengi-leavev-1,,Liwengi,leavev,ahegile,ahegile,a h e g i l e,,Mitterhofer2013,,false
-Ikuna-fallv-1,,Ikuna,fallv,iːgwa,iːgwa,iː g w a,,Mitterhofer2013,,false
-Itipula-fallv-1,,Itipula,fallv,iːgwa,iːgwa,iː g w a,,Mitterhofer2013,,false
-Kanamalenga-fallv-1,,Kanamalenga,fallv,agwe,agwe,a g w e,,Mitterhofer2013,,false
-Liwengi-fallv-1,,Liwengi,fallv,iːgwa,iːgwa,iː g w a,,Mitterhofer2013,,false
+Ikuna-fallv-1,,Ikuna,fallv,iːgwa,iːgwa,iː gw a,,Mitterhofer2013,,false
+Itipula-fallv-1,,Itipula,fallv,iːgwa,iːgwa,iː gw a,,Mitterhofer2013,,false
+Kanamalenga-fallv-1,,Kanamalenga,fallv,agwe,agwe,a gw e,,Mitterhofer2013,,false
+Liwengi-fallv-1,,Liwengi,fallv,iːgwa,iːgwa,iː gw a,,Mitterhofer2013,,false
 Ikuna-turnv-1,,Ikuna,turnv,iːpituha,iːpituha,iː p i t u h a,,Mitterhofer2013,,false
 Itipula-turnv-1,,Itipula,turnv,iːseːduka,iːseːduka,iː s eː d u k a,,Mitterhofer2013,,false
 Kanamalenga-turnv-1,,Kanamalenga,turnv,ipituha,ipituha,i p i t u h a,,Mitterhofer2013,,false
@@ -1658,35 +1658,35 @@ Kanamalenga-plantv-1,,Kanamalenga,plantv,ijaːla,ijaːla,i j aː l a,,Mitterhofe
 Liwengi-plantv-1,,Liwengi,plantv,iːjala,iːjala,iː j a l a,,Mitterhofer2013,,false
 Ikuna-harvestv-1,,Ikuna,harvestv,isogola,isogola,i s o g o l a,,Mitterhofer2013,,false
 Itipula-harvestv-1,,Itipula,harvestv,iːsogola,iːsogola,iː s o g o l a,,Mitterhofer2013,,false
-Kanamalenga-harvestv-1,,Kanamalenga,harvestv,ikuːndʒa,ikuːndʒa,i k uː n d ʒ a,,Mitterhofer2013,,false
+Kanamalenga-harvestv-1,,Kanamalenga,harvestv,ikuːndʒa,ikuːndʒa,i k uː n dʒ a,,Mitterhofer2013,,false
 Liwengi-harvestv-1,,Liwengi,harvestv,ivaːmbula,ivaːmbula,i v aː m b u l a,,Mitterhofer2013,,false
 Ikuna-grind-1,,Ikuna,grind,iːhaːlula,iːhaːlula,iː h aː l u l a,,Mitterhofer2013,,false
 Itipula-grind-1,,Itipula,grind,iːhalula,iːhalula,iː h a l u l a,,Mitterhofer2013,,false
 Kanamalenga-grind-1,,Kanamalenga,grind,ihaːnula,ihaːnula,i h aː n u l a,,Mitterhofer2013,,false
 Liwengi-grind-1,,Liwengi,grind,iːhamla,iːhamla,iː h a m l a,,Mitterhofer2013,,false
-Ikuna-huntv-1,,Ikuna,huntv,ifwiːma,ifwiːma,i f w iː m a,,Mitterhofer2013,,false
-Itipula-huntv-1,,Itipula,huntv,iːfwiːma,iːfwiːma,iː f w iː m a,,Mitterhofer2013,,false
-Kanamalenga-huntv-1,,Kanamalenga,huntv,ifwiːma,ifwiːma,i f w iː m a,,Mitterhofer2013,,false
-Liwengi-huntv-1,,Liwengi,huntv,iːfwiːma,iːfwiːma,iː f w iː m a,,Mitterhofer2013,,false
+Ikuna-huntv-1,,Ikuna,huntv,ifwiːma,ifwiːma,i fw iː m a,,Mitterhofer2013,,false
+Itipula-huntv-1,,Itipula,huntv,iːfwiːma,iːfwiːma,iː fw iː m a,,Mitterhofer2013,,false
+Kanamalenga-huntv-1,,Kanamalenga,huntv,ifwiːma,ifwiːma,i fw iː m a,,Mitterhofer2013,,false
+Liwengi-huntv-1,,Liwengi,huntv,iːfwiːma,iːfwiːma,iː fw iː m a,,Mitterhofer2013,,false
 Ikuna-cultivate-1,,Ikuna,cultivate,iːlima,iːlima,iː l i m a,,Mitterhofer2013,,false
 Itipula-cultivate-1,,Itipula,cultivate,iːlima,iːlima,iː l i m a,,Mitterhofer2013,,false
 Kanamalenga-cultivate-1,,Kanamalenga,cultivate,iːlima,iːlima,iː l i m a,,Mitterhofer2013,,false
 Liwengi-cultivate-1,,Liwengi,cultivate,iːlima,iːlima,iː l i m a,,Mitterhofer2013,,false
 Ikuna-workv-1,,Ikuna,workv,iːpagala,iːpagala,iː p a g a l a,,Mitterhofer2013,,false
 Itipula-workv-1,,Itipula,workv,iːfanjakazi,iːfanjakazi,iː f a n j a k a z i,,Mitterhofer2013,,false
-Kanamalenga-workv-1,,Kanamalenga,workv,iːlima malimo,iːlima malimo,iːlima malimo,,Mitterhofer2013,,false
-Liwengi-workv-1,,Liwengi,workv,iːfania,iːfania,iː f a n ia,,Mitterhofer2013,,false
-Ikuna-buildhouse-1,,Ikuna,buildhouse,iːtseːŋga,iːtseːŋga,iː t s eː ŋ g a,,Mitterhofer2013,,false
-Itipula-buildhouse-1,,Itipula,buildhouse,iːtseŋga,iːtseŋga,iː t s e ŋ g a,,Mitterhofer2013,,false
-Kanamalenga-buildhouse-1,,Kanamalenga,buildhouse,idʒeːŋga,idʒeːŋga,i d ʒ eː ŋ g a,,Mitterhofer2013,,false
-Liwengi-buildhouse-1,,Liwengi,buildhouse,iːtseːŋga,iːtseːŋga,iː t s eː ŋ g a,,Mitterhofer2013,,false
+Kanamalenga-workv-1,,Kanamalenga,workv,iːlima malimo,iːlima malimo,iː l i m a _ m a l i m o,,Mitterhofer2013,,false
+Liwengi-workv-1,,Liwengi,workv,iːfania,iːfania,iː f a n i a,,Mitterhofer2013,,false
+Ikuna-buildhouse-1,,Ikuna,buildhouse,iːtseːŋga,iːtseːŋga,iː ts eː ŋ g a,,Mitterhofer2013,,false
+Itipula-buildhouse-1,,Itipula,buildhouse,iːtseŋga,iːtseŋga,iː ts e ŋ g a,,Mitterhofer2013,,false
+Kanamalenga-buildhouse-1,,Kanamalenga,buildhouse,idʒeːŋga,idʒeːŋga,i dʒ eː ŋ g a,,Mitterhofer2013,,false
+Liwengi-buildhouse-1,,Liwengi,buildhouse,iːtseːŋga,iːtseːŋga,iː ts eː ŋ g a,,Mitterhofer2013,,false
 Ikuna-pushv-1,,Ikuna,pushv,iːdima,iːdima,iː d i m a,,Mitterhofer2013,,false
 Itipula-pushv-1,,Itipula,pushv,iːdima,iːdima,iː d i m a,,Mitterhofer2013,,false
-Kanamalenga-pushv-1,,Kanamalenga,pushv,isuŋanitdʒa,isuŋanitdʒa,i s u ŋ a n i t d ʒ a,,Mitterhofer2013,,false
+Kanamalenga-pushv-1,,Kanamalenga,pushv,isuŋanitdʒa,isuŋanitdʒa,i s u ŋ a n i t dʒ a,,Mitterhofer2013,,false
 Liwengi-pushv-1,,Liwengi,pushv,iːdima,iːdima,iː d i m a,,Mitterhofer2013,,false
-Ikuna-make-1,,Ikuna,make,iwuiapa,iwuiapa,i w uia p a,,Mitterhofer2013,,false
+Ikuna-make-1,,Ikuna,make,iwuiapa,iwuiapa,i w u i a p a,,Mitterhofer2013,,false
 Itipula-make-1,,Itipula,make,iːtengeneza,iːtengeneza,iː t e n g e n e z a,,Mitterhofer2013,,false
-Kanamalenga-make-1,,Kanamalenga,make,igelanidʒa,igelanidʒa,i g e l a n i d ʒ a,,Mitterhofer2013,,false
+Kanamalenga-make-1,,Kanamalenga,make,igelanidʒa,igelanidʒa,i g e l a n i dʒ a,,Mitterhofer2013,,false
 Liwengi-make-1,,Liwengi,make,iːwujapa,iːwujapa,iː w u j a p a,,Mitterhofer2013,,false
 Ikuna-sew-1,,Ikuna,sew,iːhona,iːhona,iː h o n a,,Mitterhofer2013,,false
 Itipula-sew-1,,Itipula,sew,iːhona,iːhona,iː h o n a,,Mitterhofer2013,,false
@@ -1701,29 +1701,29 @@ Itipula-hitv-1,,Itipula,hitv,iːtoʋa,iːtoʋa,iː t o ʋ a,,Mitterhofer2013,,fa
 Kanamalenga-hitv-1,,Kanamalenga,hitv,iːtoʋa,iːtoʋa,iː t o ʋ a,,Mitterhofer2013,,false
 Liwengi-hitv-1,,Liwengi,hitv,iːtova,iːtova,iː t o v a,,Mitterhofer2013,,false
 Ikuna-slaughterv-1,,Ikuna,slaughterv,iːdumula,iːdumula,iː d u m u l a,,Mitterhofer2013,,false
-Itipula-slaughterv-1,,Itipula,slaughterv,iːhinsa,iːhinsa,iː h i n s a,,Mitterhofer2013,,false
+Itipula-slaughterv-1,,Itipula,slaughterv,iːhinsa,iːhinsa,iː h i ns a,,Mitterhofer2013,,false
 Kanamalenga-slaughterv-1,,Kanamalenga,slaughterv,idumula,idumula,i d u m u l a,,Mitterhofer2013,,false
 Liwengi-slaughterv-1,,Liwengi,slaughterv,iːdumla,iːdumla,iː d u m l a,,Mitterhofer2013,,false
 Ikuna-cuthorizontallyegatree-1,,Ikuna,cuthorizontallyegatree,iheːŋga,iheːŋga,i h eː ŋ g a,,Mitterhofer2013,,false
 Itipula-cuthorizontallyegatree-1,,Itipula,cuthorizontallyegatree,iːdumula,iːdumula,iː d u m u l a,,Mitterhofer2013,,false
 Kanamalenga-cuthorizontallyegatree-1,,Kanamalenga,cuthorizontallyegatree,iheːŋga,iheːŋga,i h eː ŋ g a,,Mitterhofer2013,,false
 Liwengi-cuthorizontallyegatree-1,,Liwengi,cuthorizontallyegatree,iːnjeːnja,iːnjeːnja,iː n j eː n j a,,Mitterhofer2013,,false
-Ikuna-washv-1,,Ikuna,washv,ihogofia,ihogofia,i h o g o f ia,,Mitterhofer2013,,false
+Ikuna-washv-1,,Ikuna,washv,ihogofia,ihogofia,i h o g o f i a,,Mitterhofer2013,,false
 Itipula-washv-1,,Itipula,washv,ihogofja,ihogofja,i h o g o f j a,,Mitterhofer2013,,false
-Kanamalenga-washv-1,,Kanamalenga,washv,ikalafia,ikalafia,i k a l a f ia,,Mitterhofer2013,,false
+Kanamalenga-washv-1,,Kanamalenga,washv,ikalafia,ikalafia,i k a l a f i a,,Mitterhofer2013,,false
 Liwengi-washv-1,,Liwengi,washv,iːkalafja,iːkalafja,iː k a l a f j a,,Mitterhofer2013,,false
-Ikuna-hidev-1,,Ikuna,hidev,iː6ha,iː6ha,iː 6 h a,,Mitterhofer2013,,false
-Itipula-hidev-1,,Itipula,hidev,iː6ha,iː6ha,iː 6 h a,,Mitterhofer2013,,false
-Kanamalenga-hidev-1,,Kanamalenga,hidev,iː6ha,iː6ha,iː 6 h a,,Mitterhofer2013,,false
-Liwengi-hidev-1,,Liwengi,hidev,iː6ha,iː6ha,iː 6 h a,,Mitterhofer2013,,false
+Ikuna-hidev-1,,Ikuna,hidev,iː6ha,iː6ha,iː <?> h a,,Mitterhofer2013,,false
+Itipula-hidev-1,,Itipula,hidev,iː6ha,iː6ha,iː <?> h a,,Mitterhofer2013,,false
+Kanamalenga-hidev-1,,Kanamalenga,hidev,iː6ha,iː6ha,iː <?> h a,,Mitterhofer2013,,false
+Liwengi-hidev-1,,Liwengi,hidev,iː6ha,iː6ha,iː <?> h a,,Mitterhofer2013,,false
 Ikuna-marryofman-1,,Ikuna,marryofman,itoːla,itoːla,i t oː l a,,Mitterhofer2013,,false
 Itipula-marryofman-1,,Itipula,marryofman,itoːla,itoːla,i t oː l a,,Mitterhofer2013,,false
 Kanamalenga-marryofman-1,,Kanamalenga,marryofman,itoːla,itoːla,i t oː l a,,Mitterhofer2013,,false
 Liwengi-marryofman-1,,Liwengi,marryofman,iːtoːla,iːtoːla,iː t oː l a,,Mitterhofer2013,,false
-Ikuna-steal-1,,Ikuna,steal,ihiːtsa,ihiːtsa,i h iː t s a,,Mitterhofer2013,,false
-Itipula-steal-1,,Itipula,steal,ihiːtsa,ihiːtsa,i h iː t s a,,Mitterhofer2013,,false
-Kanamalenga-steal-1,,Kanamalenga,steal,ihiːdʒa,ihiːdʒa,i h iː d ʒ a,,Mitterhofer2013,,false
-Liwengi-steal-1,,Liwengi,steal,ihiːtsa,ihiːtsa,i h iː t s a,,Mitterhofer2013,,false
+Ikuna-steal-1,,Ikuna,steal,ihiːtsa,ihiːtsa,i h iː ts a,,Mitterhofer2013,,false
+Itipula-steal-1,,Itipula,steal,ihiːtsa,ihiːtsa,i h iː ts a,,Mitterhofer2013,,false
+Kanamalenga-steal-1,,Kanamalenga,steal,ihiːdʒa,ihiːdʒa,i h iː dʒ a,,Mitterhofer2013,,false
+Liwengi-steal-1,,Liwengi,steal,ihiːtsa,ihiːtsa,i h iː ts a,,Mitterhofer2013,,false
 Ikuna-killv-1,,Ikuna,killv,iːkʰoma,iːkʰoma,iː kʰ o m a,,Mitterhofer2013,,false
 Itipula-killv-1,,Itipula,killv,iːkoma,iːkoma,iː k o m a,,Mitterhofer2013,,false
 Kanamalenga-killv-1,,Kanamalenga,killv,iːkoma,iːkoma,iː k o m a,,Mitterhofer2013,,false
@@ -1731,14 +1731,14 @@ Liwengi-killv-1,,Liwengi,killv,iːkʰona,iːkʰona,iː kʰ o n a,,Mitterhofer201
 Ikuna-stab-1,,Ikuna,stab,iːhoma,iːhoma,iː h o m a,,Mitterhofer2013,,false
 Kanamalenga-stab-1,,Kanamalenga,stab,iːhoma,iːhoma,iː h o m a,,Mitterhofer2013,,false
 Liwengi-stab-1,,Liwengi,stab,iːhoma,iːhoma,iː h o m a,,Mitterhofer2013,,false
-Ikuna-flyofbird-1,,Ikuna,flyofbird,itsuːmba,itsuːmba,i t s uː m b a,,Mitterhofer2013,,false
+Ikuna-flyofbird-1,,Ikuna,flyofbird,itsuːmba,itsuːmba,i ts uː m b a,,Mitterhofer2013,,false
 Itipula-flyofbird-1,,Itipula,flyofbird,iːguluka,iːguluka,iː g u l u k a,,Mitterhofer2013,,false
-Kanamalenga-flyofbird-1,,Kanamalenga,flyofbird,itʃuːmba,itʃuːmba,i t ʃ uː m b a,,Mitterhofer2013,,false
-Liwengi-flyofbird-1,,Liwengi,flyofbird,iːtsuːmba,iːtsuːmba,iː t s uː m b a,,Mitterhofer2013,,false
-Ikuna-goin-1,,Ikuna,goin,ihwiːŋgila,ihwiːŋgila,i h w iː ŋ g i l a,,Mitterhofer2013,,false
-Itipula-goin-1,,Itipula,goin,iːkwiŋgiːla,iːkwiŋgiːla,iː k w i ŋ g iː l a,,Mitterhofer2013,,false
-Kanamalenga-goin-1,,Kanamalenga,goin,ihwiːŋgila,ihwiːŋgila,i h w iː ŋ g i l a,,Mitterhofer2013,,false
-Liwengi-goin-1,,Liwengi,goin,iːhwiːŋgila,iːhwiːŋgila,iː h w iː ŋ g i l a,,Mitterhofer2013,,false
+Kanamalenga-flyofbird-1,,Kanamalenga,flyofbird,itʃuːmba,itʃuːmba,i tʃ uː m b a,,Mitterhofer2013,,false
+Liwengi-flyofbird-1,,Liwengi,flyofbird,iːtsuːmba,iːtsuːmba,iː ts uː m b a,,Mitterhofer2013,,false
+Ikuna-goin-1,,Ikuna,goin,ihwiːŋgila,ihwiːŋgila,i hw iː ŋ g i l a,,Mitterhofer2013,,false
+Itipula-goin-1,,Itipula,goin,iːkwiŋgiːla,iːkwiŋgiːla,iː kw i ŋ g iː l a,,Mitterhofer2013,,false
+Kanamalenga-goin-1,,Kanamalenga,goin,ihwiːŋgila,ihwiːŋgila,i hw iː ŋ g i l a,,Mitterhofer2013,,false
+Liwengi-goin-1,,Liwengi,goin,iːhwiːŋgila,iːhwiːŋgila,iː hw iː ŋ g i l a,,Mitterhofer2013,,false
 Ikuna-goout-1,,Ikuna,goout,iːhuma,iːhuma,iː h u m a,,Mitterhofer2013,,false
 Itipula-goout-1,,Itipula,goout,iːhuma,iːhuma,iː h u m a,,Mitterhofer2013,,false
 Kanamalenga-goout-1,,Kanamalenga,goout,iːhuma,iːhuma,iː h u m a,,Mitterhofer2013,,false
@@ -1753,7 +1753,7 @@ Kanamalenga-returnv-1,,Kanamalenga,returnv,ipiluha,ipiluha,i p i l u h a,,Mitter
 Liwengi-returnv-1,,Liwengi,returnv,iːgomoha,iːgomoha,iː g o m o h a,,Mitterhofer2013,,false
 Ikuna-dreamv-1,,Ikuna,dreamv,iloːta,iloːta,i l oː t a,,Mitterhofer2013,,false
 Itipula-dreamv-1,,Itipula,dreamv,iluluːta,iluluːta,i l u l uː t a,,Mitterhofer2013,,false
-Kanamalenga-dreamv-1,,Kanamalenga,dreamv,iloːta maloːto,iloːta maloːto,iloːta maloːto,,Mitterhofer2013,,false
+Kanamalenga-dreamv-1,,Kanamalenga,dreamv,iloːta maloːto,iloːta maloːto,i l oː t a _ m a l oː t o,,Mitterhofer2013,,false
 Liwengi-dreamv-1,,Liwengi,dreamv,iːloːta,iːloːta,iː l oː t a,,Mitterhofer2013,,false
 Ikuna-coagulateofblood-1,,Ikuna,coagulateofblood,jigimile,jigimile,j i g i m i l e,,Mitterhofer2013,,false
 Itipula-coagulateofblood-1,,Itipula,coagulateofblood,iːgimile,iːgimile,iː g i m i l e,,Mitterhofer2013,,false
@@ -1763,10 +1763,10 @@ Ikuna-makeofferingstothedead-1,,Ikuna,makeofferingstothedead,ifuːɲa,ifuːɲa,i
 Itipula-makeofferingstothedead-1,,Itipula,makeofferingstothedead,iːfuɲa,iːfuɲa,iː f u ɲ a,,Mitterhofer2013,,false
 Kanamalenga-makeofferingstothedead-1,,Kanamalenga,makeofferingstothedead,ifuːɲa,ifuːɲa,i f uː ɲ a,,Mitterhofer2013,,false
 Liwengi-makeofferingstothedead-1,,Liwengi,makeofferingstothedead,iːtʰehela,iːtʰehela,iː tʰ e h e l a,,Mitterhofer2013,,false
-Ikuna-mixv-1,,Ikuna,mixv,ihaːnsa,ihaːnsa,i h aː n s a,,Mitterhofer2013,,false
+Ikuna-mixv-1,,Ikuna,mixv,ihaːnsa,ihaːnsa,i h aː ns a,,Mitterhofer2013,,false
 Itipula-mixv-1,,Itipula,mixv,iːtimbula,iːtimbula,iː t i m b u l a,,Mitterhofer2013,,false
 Kanamalenga-mixv-1,,Kanamalenga,mixv,iluːŋga,iluːŋga,i l uː ŋ g a,,Mitterhofer2013,,false
-Liwengi-mixv-1,,Liwengi,mixv,iːhansa,iːhansa,iː h a n s a,,Mitterhofer2013,,false
+Liwengi-mixv-1,,Liwengi,mixv,iːhansa,iːhansa,iː h a ns a,,Mitterhofer2013,,false
 Ikuna-openv-1,,Ikuna,openv,idiːndula,idiːndula,i d iː n d u l a,,Mitterhofer2013,,false
 Itipula-openv-1,,Itipula,openv,idiːndula,idiːndula,i d iː n d u l a,,Mitterhofer2013,,false
 Kanamalenga-openv-1,,Kanamalenga,openv,idiːndula,idiːndula,i d iː n d u l a,,Mitterhofer2013,,false
@@ -1775,34 +1775,34 @@ Ikuna-closev-1,,Ikuna,closev,idiːnda,idiːnda,i d iː n d a,,Mitterhofer2013,,f
 Itipula-closev-1,,Itipula,closev,idiːnda,idiːnda,i d iː n d a,,Mitterhofer2013,,false
 Kanamalenga-closev-1,,Kanamalenga,closev,idiːnda,idiːnda,i d iː n d a,,Mitterhofer2013,,false
 Liwengi-closev-1,,Liwengi,closev,idiːnda,idiːnda,i d iː n d a,,Mitterhofer2013,,false
-Ikuna-remember-1,,Ikuna,remember,ihwihwuːha,ihwihwuːha,i h w i h w uː h a,,Mitterhofer2013,,false
-Itipula-remember-1,,Itipula,remember,iːkwiːwuka,iːkwiːwuka,iː k w iː w u k a,,Mitterhofer2013,,false
-Kanamalenga-remember-1,,Kanamalenga,remember,ihwiwuha,ihwiwuha,i h w i w u h a,,Mitterhofer2013,,false
+Ikuna-remember-1,,Ikuna,remember,ihwihwuːha,ihwihwuːha,i hw i hw uː h a,,Mitterhofer2013,,false
+Itipula-remember-1,,Itipula,remember,iːkwiːwuka,iːkwiːwuka,iː kw iː w u k a,,Mitterhofer2013,,false
+Kanamalenga-remember-1,,Kanamalenga,remember,ihwiwuha,ihwiwuha,i hw i w u h a,,Mitterhofer2013,,false
 Liwengi-remember-1,,Liwengi,remember,iːwihe,iːwihe,iː w i h e,,Mitterhofer2013,,false
-Ikuna-forget-1,,Ikuna,forget,iseːmwa,iseːmwa,i s eː m w a,,Mitterhofer2013,,false
-Itipula-forget-1,,Itipula,forget,aseːmiːlwe,aseːmiːlwe,a s eː m iː l w e,,Mitterhofer2013,,false
-Kanamalenga-forget-1,,Kanamalenga,forget,iseːmwa,iseːmwa,i s eː m w a,,Mitterhofer2013,,false
-Liwengi-forget-1,,Liwengi,forget,iːseːmwa,iːseːmwa,iː s eː m w a,,Mitterhofer2013,,false
+Ikuna-forget-1,,Ikuna,forget,iseːmwa,iseːmwa,i s eː mw a,,Mitterhofer2013,,false
+Itipula-forget-1,,Itipula,forget,aseːmiːlwe,aseːmiːlwe,a s eː m iː lw e,,Mitterhofer2013,,false
+Kanamalenga-forget-1,,Kanamalenga,forget,iseːmwa,iseːmwa,i s eː mw a,,Mitterhofer2013,,false
+Liwengi-forget-1,,Liwengi,forget,iːseːmwa,iːseːmwa,iː s eː mw a,,Mitterhofer2013,,false
 Ikuna-answerv-1,,Ikuna,answerv,iganula,iganula,i g a n u l a,,Mitterhofer2013,,false
 Itipula-answerv-1,,Itipula,answerv,ʋidiŋine,ʋidiŋine,ʋ i d i ŋ i n e,,Mitterhofer2013,,false
 Kanamalenga-answerv-1,,Kanamalenga,answerv,iːhiga,iːhiga,iː h i g a,,Mitterhofer2013,,false
-Liwengi-answerv-1,,Liwengi,answerv,ihwidiha,ihwidiha,i h w i d i h a,,Mitterhofer2013,,false
+Liwengi-answerv-1,,Liwengi,answerv,ihwidiha,ihwidiha,i hw i d i h a,,Mitterhofer2013,,false
 Ikuna-breakv-1,,Ikuna,breakv,iːkoma,iːkoma,iː k o m a,,Mitterhofer2013,,false
 Itipula-breakv-1,,Itipula,breakv,iːdeɲa,iːdeɲa,iː d e ɲ a,,Mitterhofer2013,,false
-Kanamalenga-breakv-1,,Kanamalenga,breakv,ipadʒula,ipadʒula,i p a d ʒ u l a,,Mitterhofer2013,,false
+Kanamalenga-breakv-1,,Kanamalenga,breakv,ipadʒula,ipadʒula,i p a dʒ u l a,,Mitterhofer2013,,false
 Liwengi-breakv-1,,Liwengi,breakv,iːmenjula,iːmenjula,iː m e n j u l a,,Mitterhofer2013,,false
 Ikuna-coverup-1,,Ikuna,coverup,iːgubiha,iːgubiha,iː g u b i h a,,Mitterhofer2013,,false
 Itipula-coverup-1,,Itipula,coverup,igubika,igubika,i g u b i k a,,Mitterhofer2013,,false
-Kanamalenga-coverup-1,,Kanamalenga,coverup,agubiçie,agubiçie,a g u b i ç ie,,Mitterhofer2013,,false
+Kanamalenga-coverup-1,,Kanamalenga,coverup,agubiçie,agubiçie,a g u b i ç i e,,Mitterhofer2013,,false
 Liwengi-coverup-1,,Liwengi,coverup,iːgubiha,iːgubiha,iː g u b i h a,,Mitterhofer2013,,false
 Ikuna-bringupachild-1,,Ikuna,bringupachild,ikoːŋga,ikoːŋga,i k oː ŋ g a,,Mitterhofer2013,,false
 Itipula-bringupachild-1,,Itipula,bringupachild,iːkoŋga,iːkoŋga,iː k o ŋ g a,,Mitterhofer2013,,false
 Kanamalenga-bringupachild-1,,Kanamalenga,bringupachild,ikoːŋga,ikoːŋga,i k oː ŋ g a,,Mitterhofer2013,,false
 Liwengi-bringupachild-1,,Liwengi,bringupachild,iːkoŋga,iːkoŋga,iː k o ŋ g a,,Mitterhofer2013,,false
-Ikuna-follow-1,,Ikuna,follow,ifuaːta,ifuaːta,i f uaː t a,,Mitterhofer2013,,false
-Itipula-follow-1,,Itipula,follow,iːfuata,iːfuata,iː f ua t a,,Mitterhofer2013,,false
+Ikuna-follow-1,,Ikuna,follow,ifuaːta,ifuaːta,i f u aː t a,,Mitterhofer2013,,false
+Itipula-follow-1,,Itipula,follow,iːfuata,iːfuata,iː f u a t a,,Mitterhofer2013,,false
 Kanamalenga-follow-1,,Kanamalenga,follow,ihelela,ihelela,i h e l e l a,,Mitterhofer2013,,false
-Liwengi-follow-1,,Liwengi,follow,wiloŋwitse,wiloŋwitse,w i l o ŋ w i t s e,,Mitterhofer2013,,false
+Liwengi-follow-1,,Liwengi,follow,wiloŋwitse,wiloŋwitse,w i l o ŋw i ts e,,Mitterhofer2013,,false
 Ikuna-getlost-1,,Ikuna,getlost,ajagile,ajagile,a j a g i l e,,Mitterhofer2013,,false
 Itipula-getlost-1,,Itipula,getlost,ajagile,ajagile,a j a g i l e,,Mitterhofer2013,,false
 Kanamalenga-getlost-1,,Kanamalenga,getlost,ajagile,ajagile,a j a g i l e,,Mitterhofer2013,,false
@@ -1814,11 +1814,11 @@ Liwengi-stirv-1,,Liwengi,stirv,itiːmbula,itiːmbula,i t iː m b u l a,,Mitterho
 Ikuna-knockv-1,,Ikuna,knockv,ikoŋoːna,ikoŋoːna,i k o ŋ oː n a,,Mitterhofer2013,,false
 Itipula-knockv-1,,Itipula,knockv,iːkoŋona,iːkoŋona,iː k o ŋ o n a,,Mitterhofer2013,,false
 Kanamalenga-knockv-1,,Kanamalenga,knockv,iːtoʋa,iːtoʋa,iː t o ʋ a,,Mitterhofer2013,,false
-Liwengi-knockv-1,,Liwengi,knockv,ihodetsa,ihodetsa,i h o d e t s a,,Mitterhofer2013,,false
-Ikuna-takeleave-1,,Ikuna,takeleave,ahwilaga,ahwilaga,a h w i l a g a,,Mitterhofer2013,,false
-Itipula-takeleave-1,,Itipula,takeleave,ahwitawula,ahwitawula,a h w i t a w u l a,,Mitterhofer2013,,false
-Kanamalenga-takeleave-1,,Kanamalenga,takeleave,ihwiːlaga,ihwiːlaga,i h w iː l a g a,,Mitterhofer2013,,false
-Liwengi-takeleave-1,,Liwengi,takeleave,ahwiːlaga,ahwiːlaga,a h w iː l a g a,,Mitterhofer2013,,false
+Liwengi-knockv-1,,Liwengi,knockv,ihodetsa,ihodetsa,i h o d e ts a,,Mitterhofer2013,,false
+Ikuna-takeleave-1,,Ikuna,takeleave,ahwilaga,ahwilaga,a hw i l a g a,,Mitterhofer2013,,false
+Itipula-takeleave-1,,Itipula,takeleave,ahwitawula,ahwitawula,a hw i t a w u l a,,Mitterhofer2013,,false
+Kanamalenga-takeleave-1,,Kanamalenga,takeleave,ihwiːlaga,ihwiːlaga,i hw iː l a g a,,Mitterhofer2013,,false
+Liwengi-takeleave-1,,Liwengi,takeleave,ahwiːlaga,ahwiːlaga,a hw iː l a g a,,Mitterhofer2013,,false
 Ikuna-swallowv-1,,Ikuna,swallowv,iːmila,iːmila,iː m i l a,,Mitterhofer2013,,false
 Itipula-swallowv-1,,Itipula,swallowv,iːmila,iːmila,iː m i l a,,Mitterhofer2013,,false
 Kanamalenga-swallowv-1,,Kanamalenga,swallowv,iːmila,iːmila,iː m i l a,,Mitterhofer2013,,false
@@ -1826,7 +1826,7 @@ Liwengi-swallowv-1,,Liwengi,swallowv,iːmila,iːmila,iː m i l a,,Mitterhofer201
 Ikuna-lick-1,,Ikuna,lick,inaːʋa,inaːʋa,i n aː ʋ a,,Mitterhofer2013,,false
 Itipula-lick-1,,Itipula,lick,iːnaːʋa,iːnaːʋa,iː n aː ʋ a,,Mitterhofer2013,,false
 Kanamalenga-lick-1,,Kanamalenga,lick,inaːla,inaːla,i n aː l a,,Mitterhofer2013,,false
-Liwengi-lick-1,,Liwengi,lick,iːmiaŋga,iːmiaŋga,iː m ia ŋ g a,,Mitterhofer2013,,false
+Liwengi-lick-1,,Liwengi,lick,iːmiaŋga,iːmiaŋga,iː m i a ŋ g a,,Mitterhofer2013,,false
 Ikuna-sniff-1,,Ikuna,sniff,inuːsa,inuːsa,i n uː s a,,Mitterhofer2013,,false
 Itipula-sniff-1,,Itipula,sniff,iːnusa,iːnusa,iː n u s a,,Mitterhofer2013,,false
 Kanamalenga-sniff-1,,Kanamalenga,sniff,inuːsa,inuːsa,i n uː s a,,Mitterhofer2013,,false
@@ -1842,51 +1842,51 @@ Liwengi-bathe-1,,Liwengi,bathe,iːkalava,iːkalava,iː k a l a v a,,Mitterhofer2
 Ikuna-stopdoing-1,,Ikuna,stopdoing,ibiçila,ibiçila,i b i ç i l a,,Mitterhofer2013,,false
 Itipula-stopdoing-1,,Itipula,stopdoing,iːbihila,iːbihila,iː b i h i l a,,Mitterhofer2013,,false
 Kanamalenga-stopdoing-1,,Kanamalenga,stopdoing,ahululeha,ahululeha,a h u l u l e h a,,Mitterhofer2013,,false
-Liwengi-stopdoing-1,,Liwengi,stopdoing,ahwilehela,ahwilehela,a h w i l e h e l a,,Mitterhofer2013,,false
-Ikuna-scratchoneself-1,,Ikuna,scratchoneself,ihwiːhuːʋa,ihwiːhuːʋa,i h w iː h uː ʋ a,,Mitterhofer2013,,false
-Itipula-scratchoneself-1,,Itipula,scratchoneself,akwiːkapa,akwiːkapa,a k w iː k a p a,,Mitterhofer2013,,false
-Kanamalenga-scratchoneself-1,,Kanamalenga,scratchoneself,ahwiːhuʋa,ahwiːhuʋa,a h w iː h u ʋ a,,Mitterhofer2013,,false
-Liwengi-scratchoneself-1,,Liwengi,scratchoneself,ahwiːkapu,ahwiːkapu,a h w iː k a p u,,Mitterhofer2013,,false
+Liwengi-stopdoing-1,,Liwengi,stopdoing,ahwilehela,ahwilehela,a hw i l e h e l a,,Mitterhofer2013,,false
+Ikuna-scratchoneself-1,,Ikuna,scratchoneself,ihwiːhuːʋa,ihwiːhuːʋa,i hw iː h uː ʋ a,,Mitterhofer2013,,false
+Itipula-scratchoneself-1,,Itipula,scratchoneself,akwiːkapa,akwiːkapa,a kw iː k a p a,,Mitterhofer2013,,false
+Kanamalenga-scratchoneself-1,,Kanamalenga,scratchoneself,ahwiːhuʋa,ahwiːhuʋa,a hw iː h u ʋ a,,Mitterhofer2013,,false
+Liwengi-scratchoneself-1,,Liwengi,scratchoneself,ahwiːkapu,ahwiːkapu,a hw iː k a p u,,Mitterhofer2013,,false
 Ihanja-ant-1,,Ihanja,ant,ɲalafu,ɲalafu,ɲ a l a f u,,Mitterhofer2013,,false
 Itambo-ant-1,,Itambo,ant,lihalafu,lihalafu,l i h a l a f u,,Mitterhofer2013,,false
 Lwanzali-ant-1,,Lwanzali,ant,lihalafu,lihalafu,l i h a l a f u,,Mitterhofer2013,,false
 Ihanja-ball-1,,Ihanja,ball,mpila,mpila,m p i l a,,Mitterhofer2013,,false
-Itambo-ball-1,,Itambo,ball,mpira deni,mpira deni,mpira deni,,Mitterhofer2013,,false
+Itambo-ball-1,,Itambo,ball,mpira deni,mpira deni,m p i r a _ d e n i,,Mitterhofer2013,,false
 Lwanzali-ball-1,,Lwanzali,ball,mpira,mpira,m p i r a,,Mitterhofer2013,,false
 Ihanja-bamboo-1,,Ihanja,bamboo,lilaːsi,lilaːsi,l i l aː s i,,Mitterhofer2013,,false
 Itambo-bamboo-1,,Itambo,bamboo,lilɑːsi,lilɑːsi,l i l ɑː s i,,Mitterhofer2013,,false
 Lwanzali-bamboo-1,,Lwanzali,bamboo,lilaːsi,lilaːsi,l i l aː s i,,Mitterhofer2013,,false
 Ihanja-basket-1,,Ihanja,basket,ndilo,ndilo,n d i l o,,Mitterhofer2013,,false
-Itambo-basket-1,,Itambo,basket,kikoːndo/ndiːlo,kikoːndo/ndiːlo,k i k oː n d o / n d iː l o,,Mitterhofer2013,,false
-Lwanzali-basket-1,,Lwanzali,basket,kikoːndo/ndiːlo,kikoːndo/ndiːlo,k i k oː n d o / n d iː l o,,Mitterhofer2013,,false
+Itambo-basket-1,,Itambo,basket,kikoːndo/ndiːlo,kikoːndo/ndiːlo,<???>,,Mitterhofer2013,,false
+Lwanzali-basket-1,,Lwanzali,basket,kikoːndo/ndiːlo,kikoːndo/ndiːlo,<???>,,Mitterhofer2013,,false
 Ihanja-bean-1,,Ihanja,bean,doːki,doːki,d oː k i,,Mitterhofer2013,,false
-Itambo-bean-1,,Itambo,bean,mbwaːnda,mbwaːnda,m b w aː n d a,,Mitterhofer2013,,false
-Lwanzali-bean-1,,Lwanzali,bean,mbwaːnda,mbwaːnda,m b w aː n d a,,Mitterhofer2013,,false
+Itambo-bean-1,,Itambo,bean,mbwaːnda,mbwaːnda,m bw aː n d a,,Mitterhofer2013,,false
+Lwanzali-bean-1,,Lwanzali,bean,mbwaːnda,mbwaːnda,m bw aː n d a,,Mitterhofer2013,,false
 Ihanja-begin-1,,Ihanja,begin,huʋaːŋga,huʋaːŋga,h u ʋ aː ŋ g a,,Mitterhofer2013,,false
 Itambo-begin-1,,Itambo,begin,kuʋaːŋga,kuʋaːŋga,k u ʋ aː ŋ g a,,Mitterhofer2013,,false
 Lwanzali-begin-1,,Lwanzali,begin,kuvaːŋga,kuvaːŋga,k u v aː ŋ g a,,Mitterhofer2013,,false
 Ihanja-book-1,,Ihanja,book,ihaːte,ihaːte,i h aː t e,,Mitterhofer2013,,false
-Itambo-book-1,,Itambo,book,lihaːmba/haːte,lihaːmba/haːte,l i h aː m b a / h aː t e,,Mitterhofer2013,,false
+Itambo-book-1,,Itambo,book,lihaːmba/haːte,lihaːmba/haːte,l i h aː m b a <?> aː t e,,Mitterhofer2013,,false
 Lwanzali-book-1,,Lwanzali,book,ihaːte,ihaːte,i h aː t e,,Mitterhofer2013,,false
-Ihanja-case-1,,Ihanja,case,noːŋgwa,noːŋgwa,n oː ŋ g w a,,Mitterhofer2013,,false
-Itambo-case-1,,Itambo,case,noːndwa,noːndwa,n oː n d w a,,Mitterhofer2013,,false
-Lwanzali-case-1,,Lwanzali,case,noːŋgwa,noːŋgwa,n oː ŋ g w a,,Mitterhofer2013,,false
-Ihanja-corn-1,,Ihanja,corn,litsebele,litsebele,l i t s e b e l e,,Mitterhofer2013,,false
-Itambo-corn-1,,Itambo,corn,matʃebele,matʃebele,m a t ʃ e b e l e,,Mitterhofer2013,,false
-Lwanzali-corn-1,,Lwanzali,corn,matsebele,matsebele,m a t s e b e l e,,Mitterhofer2013,,false
-Ihanja-door-1,,Ihanja,door,lwuiːtsi,lwuiːtsi,l w uiː t s i,,Mitterhofer2013,,false
-Itambo-door-1,,Itambo,door,lwuiːtsi,lwuiːtsi,l w uiː t s i,,Mitterhofer2013,,false
-Lwanzali-door-1,,Lwanzali,door,lwiːtsi,lwiːtsi,l w iː t s i,,Mitterhofer2013,,false
+Ihanja-case-1,,Ihanja,case,noːŋgwa,noːŋgwa,n oː ŋ gw a,,Mitterhofer2013,,false
+Itambo-case-1,,Itambo,case,noːndwa,noːndwa,n oː n dw a,,Mitterhofer2013,,false
+Lwanzali-case-1,,Lwanzali,case,noːŋgwa,noːŋgwa,n oː ŋ gw a,,Mitterhofer2013,,false
+Ihanja-corn-1,,Ihanja,corn,litsebele,litsebele,l i ts e b e l e,,Mitterhofer2013,,false
+Itambo-corn-1,,Itambo,corn,matʃebele,matʃebele,m a tʃ e b e l e,,Mitterhofer2013,,false
+Lwanzali-corn-1,,Lwanzali,corn,matsebele,matsebele,m a ts e b e l e,,Mitterhofer2013,,false
+Ihanja-door-1,,Ihanja,door,lwuiːtsi,lwuiːtsi,lw u iː ts i,,Mitterhofer2013,,false
+Itambo-door-1,,Itambo,door,lwuiːtsi,lwuiːtsi,lw u iː ts i,,Mitterhofer2013,,false
+Lwanzali-door-1,,Lwanzali,door,lwiːtsi,lwiːtsi,lw iː ts i,,Mitterhofer2013,,false
 Itambo-eyelid-1,,Itambo,eyelid,kiːho,kiːho,k iː h o,,Mitterhofer2013,,false
-Ihanja-nforest-1,,Ihanja,nforest,hwikuːŋu,hwikuːŋu,h w i k uː ŋ u,,Mitterhofer2013,,false
+Ihanja-nforest-1,,Ihanja,nforest,hwikuːŋu,hwikuːŋu,hw i k uː ŋ u,,Mitterhofer2013,,false
 Itambo-nforest-1,,Itambo,nforest,kudaːsi,kudaːsi,k u d aː s i,,Mitterhofer2013,,false
 Lwanzali-nforest-1,,Lwanzali,nforest,daːsi,daːsi,d aː s i,,Mitterhofer2013,,false
 Ihanja-fox-1,,Ihanja,fox,likeheʋa,likeheʋa,l i k e h e ʋ a,,Mitterhofer2013,,false
 Itambo-fox-1,,Itambo,fox,likeːʋe,likeːʋe,l i k eː ʋ e,,Mitterhofer2013,,false
 Lwanzali-fox-1,,Lwanzali,fox,likeːkeʋa,likeːkeʋa,l i k eː k e ʋ a,,Mitterhofer2013,,false
 Ihanja-frog-1,,Ihanja,frog,liŋgodofu,liŋgodofu,l i ŋ g o d o f u,,Mitterhofer2013,,false
-Itambo-frog-1,,Itambo,frog,liuːla,liuːla,l iuː l a,,Mitterhofer2013,,false
-Lwanzali-frog-1,,Lwanzali,frog,liula,liula,l iu l a,,Mitterhofer2013,,false
+Itambo-frog-1,,Itambo,frog,liuːla,liuːla,l i uː l a,,Mitterhofer2013,,false
+Lwanzali-frog-1,,Lwanzali,frog,liula,liula,l i u l a,,Mitterhofer2013,,false
 Ihanja-goodness-1,,Ihanja,goodness,wunofu,wunofu,w u n o f u,,Mitterhofer2013,,false
 Itambo-goodness-1,,Itambo,goodness,wunofu,wunofu,w u n o f u,,Mitterhofer2013,,false
 Lwanzali-goodness-1,,Lwanzali,goodness,wunofu,wunofu,w u n o f u,,Mitterhofer2013,,false
@@ -1895,7 +1895,7 @@ Itambo-grandmother-1,,Itambo,grandmother,paːpa,paːpa,p aː p a,,Mitterhofer201
 Lwanzali-grandmother-1,,Lwanzali,grandmother,paːpa,paːpa,p aː p a,,Mitterhofer2013,,false
 Ihanja-happiness-1,,Ihanja,happiness,lukeːlo,lukeːlo,l u k eː l o,,Mitterhofer2013,,false
 Itambo-happiness-1,,Itambo,happiness,lukeːlo,lukeːlo,l u k eː l o,,Mitterhofer2013,,false
-Lwanzali-happiness-1,,Lwanzali,happiness,lukheːlo,lukheːlo,l u k h eː l o,,Mitterhofer2013,,false
+Lwanzali-happiness-1,,Lwanzali,happiness,lukheːlo,lukheːlo,l u kh eː l o,,Mitterhofer2013,,false
 Ihanja-hate-1,,Ihanja,hate,huʋiːpa,huʋiːpa,h u ʋ iː p a,,Mitterhofer2013,,false
 Itambo-hate-1,,Itambo,hate,ligoːga,ligoːga,l i g oː g a,,Mitterhofer2013,,false
 Lwanzali-hate-1,,Lwanzali,hate,kuʋiːpa,kuʋiːpa,k u ʋ iː p a,,Mitterhofer2013,,false
@@ -1908,12 +1908,12 @@ Lwanzali-herd-1,,Lwanzali,herd,lupiːŋga,lupiːŋga,l u p iː ŋ g a,,Mitterhof
 Ihanja-here-1,,Ihanja,here,baːha,baːha,b aː h a,,Mitterhofer2013,,false
 Itambo-here-1,,Itambo,here,apa,apa,a p a,,Mitterhofer2013,,false
 Lwanzali-here-1,,Lwanzali,here,apʰa,apʰa,a pʰ a,,Mitterhofer2013,,false
-Ihanja-hundred-1,,Ihanja,hundred,ligana limwiːŋga,ligana limwiːŋga,ligana limwiːŋga,,Mitterhofer2013,,false
+Ihanja-hundred-1,,Ihanja,hundred,ligana limwiːŋga,ligana limwiːŋga,l i g a n a _ l i mw iː ŋ g a,,Mitterhofer2013,,false
 Itambo-hundred-1,,Itambo,hundred,ligana,ligana,l i g a n a,,Mitterhofer2013,,false
-Lwanzali-hundred-1,,Lwanzali,hundred,ligana limwiːŋga,ligana limwiːŋga,ligana limwiːŋga,,Mitterhofer2013,,false
+Lwanzali-hundred-1,,Lwanzali,hundred,ligana limwiːŋga,ligana limwiːŋga,l i g a n a _ l i mw iː ŋ g a,,Mitterhofer2013,,false
 Ihanja-thousand-1,,Ihanja,thousand,mbilima,mbilima,m b i l i m a,,Mitterhofer2013,,false
-Itambo-thousand-1,,Itambo,thousand,mbilima imwinga,mbilima imwinga,mbilima imwinga,,Mitterhofer2013,,false
-Lwanzali-thousand-1,,Lwanzali,thousand,mbilima jimwiŋga,mbilima jimwiŋga,mbilima jimwiŋga,,Mitterhofer2013,,false
+Itambo-thousand-1,,Itambo,thousand,mbilima imwinga,mbilima imwinga,m b i l i m a _ i mw i n g a,,Mitterhofer2013,,false
+Lwanzali-thousand-1,,Lwanzali,thousand,mbilima jimwiŋga,mbilima jimwiŋga,m b i l i m a _ j i mw i ŋ g a,,Mitterhofer2013,,false
 Ihanja-insect-1,,Ihanja,insect,ligoːŋgoli,ligoːŋgoli,l i g oː ŋ g o l i,,Mitterhofer2013,,false
 Itambo-insect-1,,Itambo,insect,kikɔːko,kikɔːko,k i k ɔː k o,,Mitterhofer2013,,false
 Lwanzali-insect-1,,Lwanzali,insect,kikʰoːkʰo,kikʰoːkʰo,k i kʰ oː kʰ o,,Mitterhofer2013,,false
@@ -1923,24 +1923,24 @@ Lwanzali-journey-1,,Lwanzali,journey,lugeːndo,lugeːndo,l u g eː n d o,,Mitter
 Ihanja-bena-1,,Ihanja,bena,hibena,hibena,h i b e n a,,Mitterhofer2013,,false
 Itambo-bena-1,,Itambo,bena,kibena,kibena,k i b e n a,,Mitterhofer2013,,false
 Lwanzali-bena-1,,Lwanzali,bena,kibena,kibena,k i b e n a,,Mitterhofer2013,,false
-Ihanja-grainbin-1,,Ihanja,grainbin,hisaːntsi,hisaːntsi,h i s aː n t s i,,Mitterhofer2013,,false
-Itambo-grainbin-1,,Itambo,grainbin,kisaːntʃi,kisaːntʃi,k i s aː n t ʃ i,,Mitterhofer2013,,false
-Lwanzali-grainbin-1,,Lwanzali,grainbin,kisaːnsi,kisaːnsi,k i s aː n s i,,Mitterhofer2013,,false
+Ihanja-grainbin-1,,Ihanja,grainbin,hisaːntsi,hisaːntsi,h i s aː n ts i,,Mitterhofer2013,,false
+Itambo-grainbin-1,,Itambo,grainbin,kisaːntʃi,kisaːntʃi,k i s aː n tʃ i,,Mitterhofer2013,,false
+Lwanzali-grainbin-1,,Lwanzali,grainbin,kisaːnsi,kisaːnsi,k i s aː ns i,,Mitterhofer2013,,false
 Ihanja-locust-1,,Ihanja,locust,nɖeːɖe,nɖeːɖe,n ɖ eː ɖ e,,Mitterhofer2013,,false
-Itambo-locust-1,,Itambo,locust,maːnsi,maːnsi,m aː n s i,,Mitterhofer2013,,false
+Itambo-locust-1,,Itambo,locust,maːnsi,maːnsi,m aː ns i,,Mitterhofer2013,,false
 Lwanzali-locust-1,,Lwanzali,locust,maɖeːɖe,maɖeːɖe,m a ɖ eː ɖ e,,Mitterhofer2013,,false
 Ihanja-money-1,,Ihanja,money,ligobeli,ligobeli,l i g o b e l i,,Mitterhofer2013,,false
 Itambo-money-1,,Itambo,money,mapesa,mapesa,m a p e s a,,Mitterhofer2013,,false
-Lwanzali-money-1,,Lwanzali,money,kʲuma/lipeːsa,kʲuma/lipeːsa,kʲ u m a / l i p eː s a,,Mitterhofer2013,,false
-Ihanja-mosquito-1,,Ihanja,mosquito,ntsuguni,ntsuguni,n t s u g u n i,,Mitterhofer2013,,false
+Lwanzali-money-1,,Lwanzali,money,kʲuma/lipeːsa,kʲuma/lipeːsa,<???>,,Mitterhofer2013,,false
+Ihanja-mosquito-1,,Ihanja,mosquito,ntsuguni,ntsuguni,n ts u g u n i,,Mitterhofer2013,,false
 Itambo-mosquito-1,,Itambo,mosquito,kimugege,kimugege,k i m u g e g e,,Mitterhofer2013,,false
 Lwanzali-mosquito-1,,Lwanzali,mosquito,limugege,limugege,l i m u g e g e,,Mitterhofer2013,,false
-Ihanja-njombe-1,,Ihanja,njombe,Huntsoːmbe,Huntsoːmbe,H u n t s oː m b e,,Mitterhofer2013,,false
-Itambo-njombe-1,,Itambo,njombe,Kuntsombe,Kuntsombe,K u n t s o m b e,,Mitterhofer2013,,false
-Lwanzali-njombe-1,,Lwanzali,njombe,Intsoːmbe,Intsoːmbe,I n t s oː m b e,,Mitterhofer2013,,false
-Ihanja-pain-1,,Ihanja,pain,wuʋaː6,wuʋaː6,w u ʋ aː 6,,Mitterhofer2013,,false
-Itambo-pain-1,,Itambo,pain,wuʋaː6,wuʋaː6,w u ʋ aː 6,,Mitterhofer2013,,false
-Lwanzali-pain-1,,Lwanzali,pain,umuwaː6,umuwaː6,u m u w aː 6,,Mitterhofer2013,,false
+Ihanja-njombe-1,,Ihanja,njombe,Huntsoːmbe,Huntsoːmbe,<H> u n ts oː m b e,,Mitterhofer2013,,false
+Itambo-njombe-1,,Itambo,njombe,Kuntsombe,Kuntsombe,<K> u n ts o m b e,,Mitterhofer2013,,false
+Lwanzali-njombe-1,,Lwanzali,njombe,Intsoːmbe,Intsoːmbe,<I> n ts oː m b e,,Mitterhofer2013,,false
+Ihanja-pain-1,,Ihanja,pain,wuʋaː6,wuʋaː6,w u ʋ aː <?>,,Mitterhofer2013,,false
+Itambo-pain-1,,Itambo,pain,wuʋaː6,wuʋaː6,w u ʋ aː <?>,,Mitterhofer2013,,false
+Lwanzali-pain-1,,Lwanzali,pain,umuwaː6,umuwaː6,u m u w aː <?>,,Mitterhofer2013,,false
 Ihanja-pity-1,,Ihanja,pity,lusuːŋgu,lusuːŋgu,l u s uː ŋ g u,,Mitterhofer2013,,false
 Itambo-pity-1,,Itambo,pity,lusuːŋgu,lusuːŋgu,l u s uː ŋ g u,,Mitterhofer2013,,false
 Lwanzali-pity-1,,Lwanzali,pity,lusuːŋgu,lusuːŋgu,l u s uː ŋ g u,,Mitterhofer2013,,false
@@ -1953,54 +1953,54 @@ Lwanzali-sheep-1,,Lwanzali,sheep,iŋolo,iŋolo,i ŋ o l o,,Mitterhofer2013,,fals
 Ihanja-shoe-1,,Ihanja,shoe,hilaːtu,hilaːtu,h i l aː t u,,Mitterhofer2013,,false
 Itambo-shoe-1,,Itambo,shoe,kilaːto,kilaːto,k i l aː t o,,Mitterhofer2013,,false
 Lwanzali-shoe-1,,Lwanzali,shoe,kilaːto,kilaːto,k i l aː t o,,Mitterhofer2013,,false
-Ihanja-us-1,,Ihanja,us,uhweːhwe,uhweːhwe,u h w eː h w e,,Mitterhofer2013,,false
-Itambo-us-1,,Itambo,us,neːfwe,neːfwe,n eː f w e,,Mitterhofer2013,,false
-Lwanzali-us-1,,Lwanzali,us,uneːfwe,uneːfwe,u n eː f w e,,Mitterhofer2013,,false
+Ihanja-us-1,,Ihanja,us,uhweːhwe,uhweːhwe,u hw eː hw e,,Mitterhofer2013,,false
+Itambo-us-1,,Itambo,us,neːfwe,neːfwe,n eː fw e,,Mitterhofer2013,,false
+Lwanzali-us-1,,Lwanzali,us,uneːfwe,uneːfwe,u n eː fw e,,Mitterhofer2013,,false
 Ihanja-song-1,,Ihanja,song,luwiːmbo,luwiːmbo,l u w iː m b o,,Mitterhofer2013,,false
-Itambo-song-1,,Itambo,song,lwiːmbo,lwiːmbo,l w iː m b o,,Mitterhofer2013,,false
-Lwanzali-song-1,,Lwanzali,song,lwiːmbo,lwiːmbo,l w iː m b o,,Mitterhofer2013,,false
+Itambo-song-1,,Itambo,song,lwiːmbo,lwiːmbo,lw iː m b o,,Mitterhofer2013,,false
+Lwanzali-song-1,,Lwanzali,song,lwiːmbo,lwiːmbo,lw iː m b o,,Mitterhofer2013,,false
 Ihanja-sunflower-1,,Ihanja,sunflower,lindeːndele,lindeːndele,l i n d eː n d e l e,,Mitterhofer2013,,false
 Itambo-sunflower-1,,Itambo,sunflower,baŋgamajeːje,baŋgamajeːje,b a ŋ g a m a j eː j e,,Mitterhofer2013,,false
 Lwanzali-sunflower-1,,Lwanzali,sunflower,ibaŋgajeːje,ibaŋgajeːje,i b a ŋ g a j eː j e,,Mitterhofer2013,,false
 Ihanja-sweetpotato-1,,Ihanja,sweetpotato,lijawo,lijawo,l i j a w o,,Mitterhofer2013,,false
 Itambo-sweetpotato-1,,Itambo,sweetpotato,lijawo,lijawo,l i j a w o,,Mitterhofer2013,,false
-Lwanzali-sweetpotato-1,,Lwanzali,sweetpotato,liawo,liawo,l ia w o,,Mitterhofer2013,,false
-Ihanja-teacher-1,,Ihanja,teacher,mwuigitsi,mwuigitsi,m w ui g i t s i,,Mitterhofer2013,,false
-Itambo-teacher-1,,Itambo,teacher,mwiganitsi,mwiganitsi,m w i g a n i t s i,,Mitterhofer2013,,false
-Lwanzali-teacher-1,,Lwanzali,teacher,muwulaniːtsi,muwulaniːtsi,m u w u l a n iː t s i,,Mitterhofer2013,,false
+Lwanzali-sweetpotato-1,,Lwanzali,sweetpotato,liawo,liawo,l i a w o,,Mitterhofer2013,,false
+Ihanja-teacher-1,,Ihanja,teacher,mwuigitsi,mwuigitsi,mw u i g i ts i,,Mitterhofer2013,,false
+Itambo-teacher-1,,Itambo,teacher,mwiganitsi,mwiganitsi,mw i g a n i ts i,,Mitterhofer2013,,false
+Lwanzali-teacher-1,,Lwanzali,teacher,muwulaniːtsi,muwulaniːtsi,m u w u l a n iː ts i,,Mitterhofer2013,,false
 Ihanja-trickv-1,,Ihanja,trickv,mudeːsi,mudeːsi,m u d eː s i,,Mitterhofer2013,,false
-Itambo-trickv-1,,Itambo,trickv,kutsaːŋga,kutsaːŋga,k u t s aː ŋ g a,,Mitterhofer2013,,false
-Lwanzali-trickv-1,,Lwanzali,trickv,kutsaːŋga,kutsaːŋga,k u t s aː ŋ g a,,Mitterhofer2013,,false
-Ihanja-town-1,,Ihanja,town,mutsiːni,mutsiːni,m u t s iː n i,,Mitterhofer2013,,false
+Itambo-trickv-1,,Itambo,trickv,kutsaːŋga,kutsaːŋga,k u ts aː ŋ g a,,Mitterhofer2013,,false
+Lwanzali-trickv-1,,Lwanzali,trickv,kutsaːŋga,kutsaːŋga,k u ts aː ŋ g a,,Mitterhofer2013,,false
+Ihanja-town-1,,Ihanja,town,mutsiːni,mutsiːni,m u ts iː n i,,Mitterhofer2013,,false
 Itambo-town-1,,Itambo,town,mudiːni,mudiːni,m u d iː n i,,Mitterhofer2013,,false
 Lwanzali-town-1,,Lwanzali,town,iːɲi,iːɲi,iː ɲ i,,Mitterhofer2013,,false
-Ihanja-truth-1,,Ihanja,truth,ndaʃieːne,ndaʃieːne,n d a ʃ ieː n e,,Mitterhofer2013,,false
-Itambo-truth-1,,Itambo,truth,lwandakiene,lwandakiene,l w a n d a k ie n e,,Mitterhofer2013,,false
-Lwanzali-truth-1,,Lwanzali,truth,ulwakoːlwi,ulwakoːlwi,u l w a k oː l w i,,Mitterhofer2013,,false
-Ihanja-wasp-1,,Ihanja,wasp,lindeːmbwe,lindeːmbwe,l i n d eː m b w e,,Mitterhofer2013,,false
-Itambo-wasp-1,,Itambo,wasp,matendeːfwa,matendeːfwa,m a t e n d eː f w a,,Mitterhofer2013,,false
-Lwanzali-wasp-1,,Lwanzali,wasp,lindendeːfwa,lindendeːfwa,l i n d e n d eː f w a,,Mitterhofer2013,,false
-Ihanja-youcan-1,,Ihanja,youcan,hwiweːsa,hwiweːsa,h w i w eː s a,,Mitterhofer2013,,false
+Ihanja-truth-1,,Ihanja,truth,ndaʃieːne,ndaʃieːne,n d a ʃ i eː n e,,Mitterhofer2013,,false
+Itambo-truth-1,,Itambo,truth,lwandakiene,lwandakiene,lw a n d a k i e n e,,Mitterhofer2013,,false
+Lwanzali-truth-1,,Lwanzali,truth,ulwakoːlwi,ulwakoːlwi,u lw a k oː lw i,,Mitterhofer2013,,false
+Ihanja-wasp-1,,Ihanja,wasp,lindeːmbwe,lindeːmbwe,l i n d eː m bw e,,Mitterhofer2013,,false
+Itambo-wasp-1,,Itambo,wasp,matendeːfwa,matendeːfwa,m a t e n d eː fw a,,Mitterhofer2013,,false
+Lwanzali-wasp-1,,Lwanzali,wasp,lindendeːfwa,lindendeːfwa,l i n d e n d eː fw a,,Mitterhofer2013,,false
+Ihanja-youcan-1,,Ihanja,youcan,hwiweːsa,hwiweːsa,hw i w eː s a,,Mitterhofer2013,,false
 Itambo-youcan-1,,Itambo,youcan,ndiweːsa,ndiweːsa,n d i w eː s a,,Mitterhofer2013,,false
 Lwanzali-youcan-1,,Lwanzali,youcan,ndiʋeːsa,ndiʋeːsa,n d i ʋ eː s a,,Mitterhofer2013,,false
-Ihanja-allthepeople-1,,Ihanja,allthepeople,aʋaːnu woːnda,aʋaːnu woːnda,aʋaːnu woːnda,,Mitterhofer2013,,false
-Itambo-allthepeople-1,,Itambo,allthepeople,ʋaːnu ʋoːnta,ʋaːnu ʋoːnta,ʋaːnu ʋoːnta,,Mitterhofer2013,,false
-Lwanzali-allthepeople-1,,Lwanzali,allthepeople,aʋaːnu woːnda,aʋaːnu woːnda,aʋaːnu woːnda,,Mitterhofer2013,,false
-Ihanja-ourcow-1,,Ihanja,ourcow,seːŋga tseːsu,seːŋga tseːsu,seːŋga tseːsu,,Mitterhofer2013,,false
-Itambo-ourcow-1,,Itambo,ourcow,seːŋga ja ʋiːsu,seːŋga ja ʋiːsu,seːŋga ja ʋiːsu,,Mitterhofer2013,,false
-Lwanzali-ourcow-1,,Lwanzali,ourcow,seːŋga tsɪːsu,seːŋga tsɪːsu,seːŋga tsɪːsu,,Mitterhofer2013,,false
-Ihanja-ourfields-1,,Ihanja,ourfields,miguːnda geːsu,miguːnda geːsu,miguːnda geːsu,,Mitterhofer2013,,false
-Itambo-ourfields-1,,Itambo,ourfields,miguːnda ja ʋiːsu,miguːnda ja ʋiːsu,miguːnda ja ʋiːsu,,Mitterhofer2013,,false
-Lwanzali-ourfields-1,,Lwanzali,ourfields,miguːnda gɪːsu,miguːnda gɪːsu,miguːnda gɪːsu,,Mitterhofer2013,,false
-Ihanja-ourchair-1,,Ihanja,ourchair,hidego ʃeːsu,hidego ʃeːsu,hidego ʃeːsu,,Mitterhofer2013,,false
-Itambo-ourchair-1,,Itambo,ourchair,kidego kia ʋiːsu,kidego kia ʋiːsu,kidego kia ʋiːsu,,Mitterhofer2013,,false
-Lwanzali-ourchair-1,,Lwanzali,ourchair,kidego kɪːsu,kidego kɪːsu,kidego kɪːsu,,Mitterhofer2013,,false
-Ihanja-ourchairs-1,,Ihanja,ourchairs,fidego fieːsu,fidego fieːsu,fidego fieːsu,,Mitterhofer2013,,false
-Itambo-ourchairs-1,,Itambo,ourchairs,fidego fia ʋiːsu,fidego fia ʋiːsu,fidego fia ʋiːsu,,Mitterhofer2013,,false
-Ihanja-ourtrees-1,,Ihanja,ourtrees,mabihi geːsu,mabihi geːsu,mabihi geːsu,,Mitterhofer2013,,false
-Itambo-ourtrees-1,,Itambo,ourtrees,mabiki ga ʋisu,mabiki ga ʋisu,mabiki ga ʋisu,,Mitterhofer2013,,false
-Ihanja-thismychair-1,,Ihanja,thismychair,ihideːgo ihi ʃaːŋgu,ihideːgo ihi ʃaːŋgu,ihideːgo ihi ʃaːŋgu,,Mitterhofer2013,,false
-Itambo-thismychair-1,,Itambo,thismychair,kideːgo iki kiaŋgu,kideːgo iki kiaŋgu,kideːgo iki kiaŋgu,,Mitterhofer2013,,false
+Ihanja-allthepeople-1,,Ihanja,allthepeople,aʋaːnu woːnda,aʋaːnu woːnda,a ʋ aː n u _ w oː n d a,,Mitterhofer2013,,false
+Itambo-allthepeople-1,,Itambo,allthepeople,ʋaːnu ʋoːnta,ʋaːnu ʋoːnta,ʋ aː n u _ ʋ oː n t a,,Mitterhofer2013,,false
+Lwanzali-allthepeople-1,,Lwanzali,allthepeople,aʋaːnu woːnda,aʋaːnu woːnda,a ʋ aː n u _ w oː n d a,,Mitterhofer2013,,false
+Ihanja-ourcow-1,,Ihanja,ourcow,seːŋga tseːsu,seːŋga tseːsu,s eː ŋ g a _ ts eː s u,,Mitterhofer2013,,false
+Itambo-ourcow-1,,Itambo,ourcow,seːŋga ja ʋiːsu,seːŋga ja ʋiːsu,s eː ŋ g a _ j a _ ʋ iː s u,,Mitterhofer2013,,false
+Lwanzali-ourcow-1,,Lwanzali,ourcow,seːŋga tsɪːsu,seːŋga tsɪːsu,s eː ŋ g a _ ts ɪː s u,,Mitterhofer2013,,false
+Ihanja-ourfields-1,,Ihanja,ourfields,miguːnda geːsu,miguːnda geːsu,m i g uː n d a _ g eː s u,,Mitterhofer2013,,false
+Itambo-ourfields-1,,Itambo,ourfields,miguːnda ja ʋiːsu,miguːnda ja ʋiːsu,m i g uː n d a _ j a _ ʋ iː s u,,Mitterhofer2013,,false
+Lwanzali-ourfields-1,,Lwanzali,ourfields,miguːnda gɪːsu,miguːnda gɪːsu,m i g uː n d a _ g ɪː s u,,Mitterhofer2013,,false
+Ihanja-ourchair-1,,Ihanja,ourchair,hidego ʃeːsu,hidego ʃeːsu,h i d e g o _ ʃ eː s u,,Mitterhofer2013,,false
+Itambo-ourchair-1,,Itambo,ourchair,kidego kia ʋiːsu,kidego kia ʋiːsu,k i d e g o _ k i a _ ʋ iː s u,,Mitterhofer2013,,false
+Lwanzali-ourchair-1,,Lwanzali,ourchair,kidego kɪːsu,kidego kɪːsu,k i d e g o _ k ɪː s u,,Mitterhofer2013,,false
+Ihanja-ourchairs-1,,Ihanja,ourchairs,fidego fieːsu,fidego fieːsu,f i d e g o _ f i eː s u,,Mitterhofer2013,,false
+Itambo-ourchairs-1,,Itambo,ourchairs,fidego fia ʋiːsu,fidego fia ʋiːsu,f i d e g o _ f i a _ ʋ iː s u,,Mitterhofer2013,,false
+Ihanja-ourtrees-1,,Ihanja,ourtrees,mabihi geːsu,mabihi geːsu,m a b i h i _ g eː s u,,Mitterhofer2013,,false
+Itambo-ourtrees-1,,Itambo,ourtrees,mabiki ga ʋisu,mabiki ga ʋisu,m a b i k i _ g a _ ʋ i s u,,Mitterhofer2013,,false
+Ihanja-thismychair-1,,Ihanja,thismychair,ihideːgo ihi ʃaːŋgu,ihideːgo ihi ʃaːŋgu,i h i d eː g o _ i h i _ ʃ aː ŋ g u,,Mitterhofer2013,,false
+Itambo-thismychair-1,,Itambo,thismychair,kideːgo iki kiaŋgu,kideːgo iki kiaŋgu,k i d eː g o _ i k i _ k i a ŋ g u,,Mitterhofer2013,,false
 Ihanja-up-1,,Ihanja,up,huʃaːɲa,huʃaːɲa,h u ʃ aː ɲ a,,Mitterhofer2013,,false
-Itambo-up-1,,Itambo,up,kukiaːɲa,kukiaːɲa,k u k iaː ɲ a,,Mitterhofer2013,,false
-Lwanzali-up-1,,Lwanzali,up,kukiaːɲa,kukiaːɲa,k u k iaː ɲ a,,Mitterhofer2013,,false
+Itambo-up-1,,Itambo,up,kukiaːɲa,kukiaːɲa,k u k i aː ɲ a,,Mitterhofer2013,,false
+Lwanzali-up-1,,Lwanzali,up,kukiaːɲa,kukiaːɲa,k u k i aː ɲ a,,Mitterhofer2013,,false

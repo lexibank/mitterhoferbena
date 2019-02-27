@@ -10,11 +10,11 @@ Conceptlist in Concepticon: [Mitterhofer-2013-353](http://concepticon.clld.org/c
 
 
 
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
+![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
 ![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 50%](https://img.shields.io/badge/BIPA-50%25-red.svg "BIPA: 50%")
-![CLTS SoundClass: 50%](https://img.shields.io/badge/CLTS%20SoundClass-50%25-red.svg "CLTS SoundClass: 50%")
+![BIPA: 75%](https://img.shields.io/badge/BIPA-75%25-yellow.svg "BIPA: 75%")
+![CLTS SoundClass: 75%](https://img.shields.io/badge/CLTS%20SoundClass-75%25-yellow.svg "CLTS SoundClass: 75%")
 
 - **Varieties:** 13
 - **Concepts:** 355
@@ -22,6 +22,6 @@ Conceptlist in Concepticon: [Mitterhofer-2013-353](http://concepticon.clld.org/c
 - **Synonymy:** 1.00
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 12,220
-- **Segments:** 132 (66 BIPA errors, 66 CTLS sound class errors, 66 CLTS modified)
-- **Inventory size (avg):** 45.69
+- **Tokens:** 12,190
+- **Segments:** 69 (17 BIPA errors, 17 CTLS sound class errors, 52 CLTS modified)
+- **Inventory size (avg):** 42.46

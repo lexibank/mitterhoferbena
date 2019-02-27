@@ -17,7 +17,7 @@
             "dc:title": "environment",
             "properties": {
                 "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb",
-                "concepticon_version": "pyconcepticon-1.4.0-50-g100c401"
+                "concepticon_version": "pyconcepticon-1.4.0-63-g85acb1f"
             }
         }
     ],
@@ -51,7 +51,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },

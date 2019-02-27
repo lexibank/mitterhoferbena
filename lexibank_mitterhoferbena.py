@@ -83,7 +83,6 @@ class Dataset(BaseDataset):
                         Parameter_ID=slug(concept),
                         Value=form,
                         Form=form,
-                        Segments=ipa2tokens(form),
                         Source='Mitterhofer2013',
                         Loan=False
                         ):
