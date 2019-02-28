@@ -22,6 +22,6 @@ Conceptlist in Concepticon: [Mitterhofer-2013-353](http://concepticon.clld.org/c
 - **Synonymy:** 1.01
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 12,505
-- **Segments:** 55 (0 BIPA errors, 0 CTLS sound class errors, 55 CLTS modified)
-- **Inventory size (avg):** 36.77
+- **Tokens:** 12,508
+- **Segments:** 52 (0 BIPA errors, 0 CTLS sound class errors, 52 CLTS modified)
+- **Inventory size (avg):** 35.62

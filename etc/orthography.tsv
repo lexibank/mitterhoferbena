@@ -47,12 +47,12 @@ w	w	liwoho, litaːwa	Liwengi, Itipula, Kanamalenga, Ikuna, Ukalawa, Ujindile, Lw
 ^ʃ	ʃ	ʃaːla, ʃeːlu	Liwengi, Ikuna, Ujindile, Kanamalenga, Makanjaula, Ukalawa, Wangama, Utengule, Ihanja	51	U+005e U+0283
 ^w	w	wiːme, wulaːŋga	Ujindile, Ikuna, Itipula, Liwengi, Kanamalenga, Ukalawa, Itambo, Ihanja, Lwanzali, Wangama, Utengule	50	U+005e U+0077
 _	_	iːkina ŋgoma, mugoːsi ʋaːŋgu	Itambo, Ihanja, Kanamalenga, Lwanzali, Liwengi, Ikuna, Wangama, Utengule, Ukalawa, Itipula, Ujindile	50	U+005f
-ns	ns	muhiːnsa, lukaːnsi	Ikuna, Itipula, Ukalawa, Ujindile, Makanjaula, Liwengi, Utalingoro, Itambo, Ihanja, Lwanzali, Wangama	42	U+006e U+0073
+ns	n s	muhiːnsa, lukaːnsi	Ikuna, Itipula, Ukalawa, Ujindile, Makanjaula, Liwengi, Utalingoro, Itambo, Ihanja, Lwanzali, Wangama	42	U+006e U+0073
 ^s	s	seːŋga, sagala	Ikuna, Ujindile, Itipula, Liwengi, Ukalawa, Itambo, Ihanja, Lwanzali, Kanamalenga, Makanjaula, Utalingoro, Wangama, Utengule	39	U+005e U+0073
 dʒ	dʒ	hidʒiːdʒi, kidʒidʒi	Kanamalenga, Itipula, Ujindile, Liwengi, Ukalawa	39	U+0064 U+0292
 v	v	juːva, mwajuːva	Liwengi, Ujindile, Itipula, Ukalawa, Makanjaula, Ikuna, Lwanzali	31	U+0076
 ^mw	m w	mwaːna, mwaːha	Liwengi, Ikuna, Ujindile, Itipula, Ukalawa, Kanamalenga, Itambo, Ihanja, Utengule	30	U+005e U+006d U+0077
-hw	h w	iːhweheːla, ihwiːŋgila	Kanamalenga, Ikuna, Liwengi, Ihanja, Itipula	30	U+0068 U+0077
+hw	hʷ	iːhweheːla, ihwiːŋgila	Kanamalenga, Ikuna, Liwengi, Ihanja, Itipula	30	U+0068 U+0077
 mw	m w	wutamwa, ligana limwiːŋga	Liwengi, Ikuna, Ujindile, Ukalawa, Itipula, Lwanzali, Kanamalenga, Itambo, Ihanja	28	U+006d U+0077
 ^ɲ	ɲ	ɲalupala, ɲama	Kanamalenga, Ujindile, Ikuna, Utengule, Ihanja, Itipula, Lwanzali, Wangama	23	U+005e U+0272
 ^j	j	jaːja, jipuːla	Kanamalenga, Ikuna, Itipula, Ujindile, Ukalawa, Liwengi	21	U+005e U+006a
@@ -62,10 +62,10 @@ bw	b w	lideːmbwe, libwa	Ikuna, Ihanja, Lwanzali, Kanamalenga, Ujindile, Ukalawa
 z	z	lifiːnza, lukonze	Liwengi, Utengule, Ujindile, Itipula, Wangama, Utalingoro	17	U+007a
 fw	f w	iːfwa, mwiːfwa	Itipula, Liwengi, Ikuna, Itambo, Lwanzali, Kanamalenga, Ujindile	16	U+0066 U+0077
 tʃ	tʃ	lutʃitʃi, ntʃala	Kanamalenga, Itambo, Utalingoro, Ujindile, Itipula, Ihanja	16	U+0074 U+0283
-^mm	m̩ m	mmene, mmbeju	Ujindile, Makanjaula, Itipula, Itambo, Utalingoro, Utengule, Ikuna, Liwengi, Ukalawa	16	U+005e U+006d U+006d
+^mm	mː	mmene, mmbeju	Ujindile, Makanjaula, Itipula, Itambo, Utalingoro, Utengule, Ikuna, Liwengi, Ukalawa	16	U+005e U+006d U+006d
 ɖ	ɖ	ɖaːnɖa, ɖaːɖa	Ihanja, Kanamalenga, Lwanzali, Wangama, Ukalawa, Ujindile, Ikuna, Itipula	15	U+0256
 ^u	u	uwaːpa, umaːma	Lwanzali, Liwengi, Wangama, Makanjaula, Ikuna, Itipula, Ihanja, Utalingoro, Ujindile, Ukalawa	15	U+005e U+0075
-kw	kw	iːkwega, likwaːti	Itipula, Ikuna, Itambo, Liwengi, Kanamalenga, Ukalawa	13	U+006b U+0077
+kw	k w	iːkwega, likwaːti	Itipula, Ikuna, Itambo, Liwengi, Kanamalenga, Ukalawa	13	U+006b U+0077
 ^d	d	daːnda, duːŋu	Itipula, Makanjaula, Ikuna, Itambo, Ihanja, Utalingoro, Lwanzali, Utengule, Liwengi, Ukalawa	11	U+005e U+0064
 x	x	mafuluxa, likambaːxo	Ujindile, Ikuna, Kanamalenga, Ihanja	11	U+0078
 ^b	b	biːhi, baŋgamajeːje	Ihanja, Ikuna, Ukalawa, Itambo, Liwengi, Utalingoro, Kanamalenga, Wangama, Utengule, Ujindile	11	U+005e U+0062
@@ -77,7 +77,7 @@ kʰ	kʰ	ʃikʰomi, kikʰoːkʰo	Liwengi, Lwanzali, Ikuna	9	U+006b U+02b0
 ^p	p	piːpi, paːpa	Itambo, Lwanzali, Itipula, Ikuna, Ihanja, Liwengi, Ukalawa	9	U+005e U+0070
 ʃ	ʃ	huʃaːɲa, ihideːgo ihi ʃaːŋgu	Ihanja, Utalingoro, Ikuna, Liwengi, Utengule	9	U+0283
 6$	ɐ	musuː6, wuʋaː6	Liwengi, Ikuna, Itambo, Lwanzali, Utengule, Kanamalenga, Ihanja	8	U+0036 U+0024
-^hw	h w	hwiʋala, hwiwala	Liwengi, Ihanja, Ujindile, Ikuna, Kanamalenga	8	U+005e U+0068 U+0077
+^hw	hʷ	hwiʋala, hwiwala	Liwengi, Ihanja, Ujindile, Ikuna, Kanamalenga	8	U+005e U+0068 U+0077
 tw	t w	mutwe, mutwa	Ikuna, Ujindile, Itipula, Ukalawa	8	U+0074 U+0077
 dw	d w	lutoːndwe, lutoːndwi	Ikuna, Itipula, Itambo, Liwengi, Kanamalenga, Ujindile, Ukalawa	7	U+0064 U+0077
 ^g	g	golo, gulamile	Ikuna, Ukalawa, Liwengi, Itipula	6	U+005e U+0067
@@ -96,8 +96,8 @@ kikoːndo/ndiːlo	<???>	kikoːndo/ndiːlo	Lwanzali, Itambo	2	U+006b U+0069 U+006
 /ʃ	<?>	hitsafu/ʃibaja, ɲawu/ʃimugogo	Liwengi, Utengule	2	U+002f U+0283
 tʰ	tʰ	lutʰaːŋgo, iːtʰehela	Liwengi, Lwanzali	2	U+0074 U+02b0
 r	r	mpira deni, mpira	Lwanzali, Itambo	2	U+0072
-mm	m̩ m	immene, immepo	Liwengi, Lwanzali	2	U+006d U+006d
-kh	kh	lukheːlo, likhambaːho	Liwengi, Lwanzali	2	U+006b U+0068
+mm	mː	immene, immepo	Liwengi, Lwanzali	2	U+006d U+006d
+kh	kʰ	lukheːlo, likhambaːho	Liwengi, Lwanzali	2	U+006b U+0068
 ɲ$	ɲ	muːɲ	Ujindile, Kanamalenga	2	U+0272 U+0024
 ^ms	ms	msaka, msaga	Ujindile, Ikuna	2	U+005e U+006d U+0073
 ^r	r	rahisi	Itipula	1	U+005e U+0072
@@ -107,7 +107,7 @@ libulugutu/lisiːhidza	<???>	libulugutu/lisiːhidza	Liwengi	1	U+006c U+0069 U+00
 I	i	Intsoːmbe	Lwanzali	1	U+005e U+0049
 ^gw	g w	gwaːpa	Kanamalenga	1	U+005e U+0067 U+0077
 pw	p w	iːpwiha	Liwengi	1	U+0070 U+0077
-ds	ds	ndsuhi	Liwengi	1	U+0064 U+0073
+ds	ts	ndsuhi	Liwengi	1	U+0064 U+0073
 ikeːla/idoboha	<???>	ikeːla/idoboha	Ikuna	1	U+0069 U+006b U+0065 U+02d0 U+006c U+0061 U+002f U+0069 U+0064 U+006f U+0062 U+006f U+0068 U+0061
 y	y	kienyeji	Ihanja	1	U+0079
 soːka/ŋgiːnda	<???>	soːka/ŋgiːnda	Itipula	1	U+0073 U+006f U+02d0 U+006b U+0061 U+002f U+014b U+0067 U+0069 U+02d0 U+006e U+0064 U+0061
@@ -115,7 +115,7 @@ H	h	Huntsoːmbe	Ihanja	1	U+005e U+0048
 ɔ$	ɔ	gɔlɔ	Ukalawa	1	U+0254 U+0024
 pʰ	pʰ	apʰa	Lwanzali	1	U+0070 U+02b0
 K	k	Kuntsombe	Itambo	1	U+005e U+004b
-^ns	ns	nsala	Utalingoro	1	U+005e U+006e U+0073
+^ns	n s	nsala	Utalingoro	1	U+005e U+006e U+0073
 ^sw	sw	swi	Kanamalenga	1	U+005e U+0073 U+0077
 ɔː	ɔː	kikɔːko	Itambo	1	U+0254 U+02d0
 /h	<?>	lihaːmba/haːte	Itambo	1	U+002f U+0068
