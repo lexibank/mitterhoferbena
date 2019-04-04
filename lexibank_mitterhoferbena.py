@@ -8,6 +8,7 @@ from pylexibank.util import getEvoBibAsBibtex
 from lingpy import *
 import attr
 from clldutils.misc import slug
+from tqdm import tqdm
 
 
 @attr.s
@@ -25,15 +26,6 @@ class Dataset(BaseDataset):
     id = 'mitterhoferbena'
     language_class=OurLanguage
 
-    def cmd_download(self, **kw):
-        """
-        Download files to the raw/ directory. You can use helpers methods of
-        `self.raw`, e.g.
-
-        >>> self.raw.download(url, fname)
-        """
-        pass
-
     def split_forms(self, item, value):
         value = self.lexemes.get(value, value)
         return [self.clean_form(item, form) for form in value.split('/')]
@@ -47,11 +39,6 @@ class Dataset(BaseDataset):
         concept2id = {c.english: c.concepticon_id 
                 for c in
                 self.conceptlist.concepts.values()}
-        concept2id['cooking pot (clay)'] = '1462'
-        concept2id['big knife'] = '1352'
-        concept2id['grain bin'] = ''
-        concept2id['this my chair'] = ''
-        concept2id['up'] = '1591'
 
         header, rest = csv[0], csv[1:]
         idx = 1
@@ -71,19 +58,18 @@ class Dataset(BaseDataset):
                         Name=concept,
                         Concepticon_ID = concept2id[concept])
 
-
             wl = Wordlist(D)
 
             ds.add_sources(*self.raw.read_bib())
             ds.add_languages(id_factory=lambda l: l['Name'])
             for idx, language, concept, form in \
-                wl.iter_rows('doculect', 'concept', 'form'):
-                for row in ds.add_lexemes(
-                        Language_ID=language,
-                        Parameter_ID=slug(concept),
-                        Value=form,
-                        Form=form,
-                        Source='Mitterhofer2013',
-                        Loan=False
-                        ):
-                    pass
+                tqdm(wl.iter_rows('doculect', 'concept', 'form'),
+                    desc='cldfify', total=len(wl)):
+                ds.add_lexemes(
+                    Language_ID=language,
+                    Parameter_ID=slug(concept),
+                    Value=form,
+                    Form=form,
+                    Source='Mitterhofer2013',
+                    Loan=False
+                    )

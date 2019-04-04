@@ -2,7 +2,9 @@
     "@context": "http://www.w3.org/ns/csvw",
     "dc:bibliographicCitation": "Mitterhofer, Bernadette. 2013. Lessons from a dialect survey of Bena: Analyzing wordlists. SIL International.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:format": "http://concepticon.clld.org/contributions/Mitterhofer-2013-353",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Mitterhofer-2013-355"
+    ],
     "dc:identifier": "",
     "dc:source": "sources.bib",
     "dc:title": "Bena dialect survey",
@@ -16,8 +18,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.1-135-gce9d923",
-                "concepticon_version": "pyconcepticon-1.4.0-81-g0e705c2"
+                "glottolog_version": "v3.4-1-g07a9b54",
+                "concepticon_version": "pyconcepticon-1.4.0-175-g5f81abc"
             }
         }
     ],
@@ -51,7 +53,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
@@ -153,6 +155,26 @@
                         "name": "Macroarea"
                     },
                     {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
                         "datatype": "string",
                         "name": "Family"
                     },
@@ -163,14 +185,6 @@
                     {
                         "datatype": "string",
                         "name": "Coverage"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Longitude"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Latitude"
                     },
                     {
                         "datatype": "string",
