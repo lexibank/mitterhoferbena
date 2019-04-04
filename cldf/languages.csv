@@ -1,14 +1,14 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,Type,Coverage,Longitude,Latitude,Date,Transcriber
-Ihanja,Ihanja,,,,,,short wordlist,,34.6563,-9.10589,9/15/2009,Andy Huber
-Ikuna,Ikuna,,,,,,full wordlist,,34.9083,-9.13708,9/12/2009,Michelle Morrison
-Itambo,Itambo,,,,,,short wordlist,,35.32647,-9.36073,9/10/2009,Andy Huber
-Itipula,Itipula,,,,,,full wordlist,,35.21523,-9.34988,9/8/2009,Michelle Morrison
-Kanamalenga,Kanamalenga,,,,,,full wordlist,,34.63776,-8.91872,9/16/2009,Michelle Morrison
-Liwengi,Liwengi,,,,,,full wordlist,,35.12116,-9.58491,9/7/2009,Andy Huber
-Lwanzali,Lwanzali,,,,,,short wordlist,,35.27635,-9.3404,9/10/2009,Andy Huber
-Makanjaula,Makanjaula,,,,,,short wordlist,,34.79638,-9.52396,9/9/2009,Andy Huber
-Ujindile,Ujindile,,,,,,full wordlist,,34.50936,-9.24553,9/14/2009,Michelle Morrison
-Ukalawa,Ukalawa,,,,,,full wordlist,,35.28047,-9.18589,9/11/2009,Michelle Morrison
-Utalingoro,Utalingoro,,,,,,short wordlist,,34.70918,-9.4366,9/9/2009,Andy Huber
-Utengule,Utengule,,,,,,short wordlist,,34.76754,-8.94924,9/15/2009,Andy Huber
-Wangama,Wangama,,,,,,short wordlist,,34.497,-9.17368,9/14/2009,Andy Huber
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Type,Coverage,Date,Transcriber
+Ihanja,Ihanja,ihan1234,,,,-9.10589,34.6563,,short wordlist,,9/15/2009,Andy Huber
+Ikuna,Ikuna,ikun1241,,,,-9.13708,34.9083,,full wordlist,,9/12/2009,Michelle Morrison
+Itambo,Itambo,itam1234,,,,-9.36073,35.32647,,short wordlist,,9/10/2009,Andy Huber
+Itipula,Itipula,itip1234,,,,-9.34988,35.21523,,full wordlist,,9/8/2009,Michelle Morrison
+Kanamalenga,Kanamalenga,kana1293,,,,-8.91872,34.63776,,full wordlist,,9/16/2009,Michelle Morrison
+Liwengi,Liwengi,liwe1234,,,,-9.58491,35.12116,,full wordlist,,9/7/2009,Andy Huber
+Lwanzali,Lwanzali,lwan1234,,,,-9.3404,35.27635,,short wordlist,,9/10/2009,Andy Huber
+Makanjaula,Makanjaula,maka1325,,,,-9.52396,34.79638,,short wordlist,,9/9/2009,Andy Huber
+Ujindile,Ujindile,ujin1234,,,,-9.24553,34.50936,,full wordlist,,9/14/2009,Michelle Morrison
+Ukalawa,Ukalawa,ukal1234,,,,-9.18589,35.28047,,full wordlist,,9/11/2009,Michelle Morrison
+Utalingoro,Utalingoro,utal1238,,,,-9.4366,34.70918,,short wordlist,,9/9/2009,Andy Huber
+Utengule,Utengule,uten1234,,,,-8.94924,34.76754,,short wordlist,,9/15/2009,Andy Huber
+Wangama,Wangama,wang1302,,,,-9.17368,34.497,,short wordlist,,9/14/2009,Andy Huber
