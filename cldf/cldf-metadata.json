@@ -1,11 +1,16 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Mitterhofer, Bernadette. 2013. Lessons from a dialect survey of Bena: Analyzing wordlists. SIL International.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Mitterhofer-2013-355"
     ],
     "dc:identifier": "",
+    "dc:isVersionOf": null,
+    "dc:license": null,
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Bena dialect survey",
     "rdf:ID": "mitterhoferbena",
@@ -17,7 +22,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
+                "glottolog_version": "v4.0",
                 "concepticon_version": "v2.0"
             }
         }
