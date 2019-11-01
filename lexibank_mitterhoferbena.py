@@ -1,5 +1,4 @@
 from pathlib import Path
-from csv import DictReader
 
 import attr
 from clldutils.misc import slug
@@ -33,16 +32,15 @@ class Dataset(BaseDataset):
         )
         languages = args.writer.add_languages(id_factory=lambda l: l["Name"])
 
-        with open(self.raw_dir / "Wordlist.tsv") as wordlist:
-            reader = DictReader(wordlist, delimiter="\t")
+        reader = self.raw_dir.read_csv(self.raw_dir / "Wordlist.tsv", dicts=True, delimiter="\t")
 
-            for row in progressbar(reader):
-                lexemes = {k: v for k, v in row.items() if k in languages}
-                for language, lexeme in lexemes.items():
-                    args.writer.add_forms_from_value(
-                        Language_ID=language,
-                        Parameter_ID=concepts[row["CONCEPT"]],
-                        Value=lexeme,
-                        Source="Mitterhofer2013",
-                        Loan=False,
-                    )
+        for row in progressbar(reader):
+            lexemes = {k: v for k, v in row.items() if k in languages}
+            for language, lexeme in lexemes.items():
+                args.writer.add_forms_from_value(
+                    Language_ID=language,
+                    Parameter_ID=concepts[row["CONCEPT"]],
+                    Value=lexeme,
+                    Source="Mitterhofer2013",
+                    Loan=False,
+                )
