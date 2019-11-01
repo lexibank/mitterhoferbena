@@ -3,30 +3,55 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Mitterhofer, Bernadette. 2013. Lessons from a dialect survey of Bena: Analyzing wordlists. SIL International.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Mitterhofer-2013-355"
     ],
-    "dc:identifier": "",
     "dc:isVersionOf": null,
-    "dc:license": null,
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Bena dialect survey",
+    "dcat:accessURL": "git@github.com:lexibank/mitterhoferbena",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "git@github.com:lexibank/mitterhoferbena",
+            "dc:created": "v1.0.1-1-g0507e79"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "git@github.com:glottolog/glottolog",
+            "dc:created": "v4.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "git@github.com:concepticon/concepticon-data",
+            "dc:created": "v2.1.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.7.3"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
     "rdf:ID": "mitterhoferbena",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
-    "notes": [
-        {
-            "dc:title": "environment",
-            "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.0"
-            }
-        }
-    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",

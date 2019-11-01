@@ -4,9 +4,9 @@ Cite the source dataset as
 
 > Mitterhofer, Bernadette. 2013. Lessons from a dialect survey of Bena: Analyzing wordlists. SIL International.
 
-Conceptlists in Concepticon:
-- [Mitterhofer-2013-355](http://concepticon.clld.org/contributions/Mitterhofer-2013-355)
 
+Conceptlists in Concepticon:
+- [Mitterhofer-2013-355](https://concepticon.clld.org/contributions/Mitterhofer-2013-355)
 ## Statistics
 
 
@@ -20,6 +20,7 @@ Conceptlists in Concepticon:
 - **Varieties:** 13
 - **Concepts:** 355
 - **Lexemes:** 2,017
+- **Sources:** 1
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
 - **Tokens:** 12,503
