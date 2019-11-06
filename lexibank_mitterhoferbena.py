@@ -9,7 +9,7 @@ from pylexibank.util import progressbar
 
 
 @attr.s
-class BenaLanguage(Language):
+class CustomLanguage(Language):
     Type = attr.ib(default=None)
     Coverage = attr.ib(default=None)
     Longitude = attr.ib(default=None)
@@ -21,7 +21,7 @@ class BenaLanguage(Language):
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "mitterhoferbena"
-    language_class = BenaLanguage
+    language_class = CustomLanguage
 
     form_spec = FormSpec(separators="/")
 

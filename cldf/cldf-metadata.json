@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/mitterhoferbena",
-            "dc:created": "v1.0.1-3-g1533ac0"
+            "dc:created": "v1.0.1-4-g51a0551"
         },
         {
             "rdf:type": "prov:Entity",
@@ -28,7 +28,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "git@github.com:concepticon/concepticon-data",
-            "dc:created": "v2.1.0"
+            "dc:created": "v2.2.0"
         },
         {
             "rdf:type": "prov:Entity",

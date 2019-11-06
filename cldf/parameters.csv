@@ -252,7 +252,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 251_diginthefield,dig (in the field),1418,DIG
 252_weedvbyhand,weed (V-by hand),,
 253_plantv,plant (V),1486,PLANT (SOMETHING)
-254_harvestv,harvest (V),611,HARVEST
+254_harvestv,harvest (V),1827,HARVEST CROPS
 255_grind,grind,1033,GRIND
 256_huntv,hunt (V),1435,HUNT
 257_cultivate,cultivate,1541,CULTIVATE
@@ -298,14 +298,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 297_sniff,sniff,375,SNIFF
 298_kneel,kneel,66,KNEEL
 299_bathe,bathe,138,BATHE
-300_stopdoing,stop doing,1928,CEASE
+300_stopdoing,stop doing,3351,STOP DOING
 301_scratchoneself,scratch oneself,1436,SCRATCH
 302_ant,ant,587,ANT
 303_ball,ball,1845,BALL
 304_bamboo,bamboo,1927,BAMBOO
 305_basket,basket,1539,BASKET
 306_bean,bean,832,BEAN
-307_begin,begin,1806,BEGIN
+307_begin,begin,3447,BEGIN OR START
 308_book,book,963,BOOK
 309_case,case,1465,BOX
 310_corn,corn,506,MAIZE
@@ -319,7 +319,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 318_happiness,happiness,1495,HAPPY
 319_hate,hate,1607,HATE
 320_helpn,help (N),1897,HELP
-321_herd,herd,1143,OVEN
+321_herd,herd,2885,HERD (SOMETHING)
 322_here,here,136,HERE
 323_hundred,hundred,1634,HUNDRED
 324_thousand,thousand,1843,THOUSAND
