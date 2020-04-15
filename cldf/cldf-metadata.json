@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/mitterhoferbena",
-            "dc:created": "v2.0"
+            "dc:created": "v2.0-1-gfa10941"
         },
         {
             "rdf:type": "prov:Entity",
