@@ -47,7 +47,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 46_father,father,1217,FATHER
 47_mother,mother,1216,MOTHER
 48_brotheroldersamesex,"brother (older, same sex)",1759,OLDER BROTHER
-49_mothersbrother,mother's brother,1984,MOTHER'S BROTHER
+49_mothersbrother,mother's brother,2692,MATERNAL UNCLE (MOTHER'S BROTHER)
 50_child,child,2099,CHILD
 51_sonboy,son/boy,2391,BOY OR SON
 52_daughtergirl,daughter/girl,2392,DAUGHTER OR GIRL
@@ -105,7 +105,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 104_hunger,hunger,1864,HUNGER
 105_thirst,thirst,848,THIRST
 106_utensil,utensil,738,THING
-107_cookingpotclay,cooking pot (clay),,
+107_cookingpotclay,cooking pot (clay),3653,COOKING POT
 108_burdenloadcarriedonhead,"burden, load (carried on head)",1679,LOAD
 109_ironmetal,iron/metal,621,IRON
 110_hoe,hoe,284,HOE
@@ -236,7 +236,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 235_showv,show (V),1039,SHOW
 236_hear,hear,1408,HEAR
 237_die,die,1494,DIE
-238_know,know,1410,KNOW (SOMETHING)
+238_know,know,3626,KNOW
 239_countv,count (V),1420,COUNT
 240_wantlike,want/like,1784,WANT
 241_helpv,help (V),1897,HELP
@@ -292,7 +292,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 291_getlost,get lost,423,GET LOST
 292_stirv,stir (V),696,STIR
 293_knockv,knock (V),2396,KNOCK
-294_takeleave,take leave,,
+294_takeleave,take leave,1752,LEAVE
 295_swallowv,swallow (V),897,SWALLOW
 296_lick,lick,319,LICK
 297_sniff,sniff,375,SNIFF
@@ -316,7 +316,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 315_frog,frog,503,FROG
 316_goodness,goodness,1035,GOOD
 317_grandmother,grandmother,1496,GRANDMOTHER
-318_happiness,happiness,1495,HAPPY
+318_happiness,happiness,,
 319_hate,hate,1607,HATE
 320_helpn,help (N),1897,HELP
 321_herd,herd,2885,HERD (SOMETHING)
