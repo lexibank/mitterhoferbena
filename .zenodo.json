@@ -1,0 +1,36 @@
+{
+    "title": "CLDF dataset derived from Mitterhofer's \"Dialect Survey of Bena\" from 2013",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Tiago Tresoldi"
+        },
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Christoph Rzymski"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Jonathan Roper",
+            "type": "Other"
+        },
+        {
+            "name": "Mariann Proos",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Mitterhofer, Bernadette. 2013. Lessons from a dialect survey of Bena: Analyzing wordlists. SIL International.</p>\n</blockquote>"
+}
