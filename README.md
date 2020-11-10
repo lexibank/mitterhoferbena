@@ -4,6 +4,8 @@ Cite the source dataset as
 
 > Mitterhofer, Bernadette. 2013. Lessons from a dialect survey of Bena: Analyzing wordlists. SIL International.
 
+This dataset is licensed under a CC-BY-4.0 license
+
 
 Conceptlists in Concepticon:
 - [Mitterhofer-2013-355](https://concepticon.clld.org/contributions/Mitterhofer-2013-355)

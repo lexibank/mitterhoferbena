@@ -1,7 +1,7 @@
 {
     "title": "CLDF dataset derived from Mitterhofer's \"Dialect Survey of Bena\" from 2013",
     "url": "",
-    "license": "",
+    "license": "CC-BY-4.0",
     "conceptlist": "Mitterhofer-2013-355",
     "citation": "Mitterhofer, Bernadette. 2013. Lessons from a dialect survey of Bena: Analyzing wordlists. SIL International."
 }
