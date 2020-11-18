@@ -12,7 +12,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/mitterhoferbena.svg?branch=master)](https://travis-ci.org/lexibank/mitterhoferbena)
+[![Build Status](https://travis-ci.org/XachaB/mitterhoferbena.svg?branch=master)](https://travis-ci.org/XachaB/mitterhoferbena)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -25,9 +25,9 @@ Conceptlists in Concepticon:
 - **Sources:** 1
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 12,503
-- **Segments:** 55 (0 BIPA errors, 0 CTLS sound class errors, 55 CLTS modified)
-- **Inventory size (avg):** 36.23
+- **Tokens:** 12,505
+- **Segments:** 54 (0 BIPA errors, 0 CTLS sound class errors, 54 CLTS modified)
+- **Inventory size (avg):** 36.08
 
 # Contributors
 
