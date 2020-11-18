@@ -12,7 +12,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/XachaB/mitterhoferbena.svg?branch=master)](https://travis-ci.org/XachaB/mitterhoferbena)
+[![Build Status](https://travis-ci.org/lexibank/mitterhoferbena.svg?branch=master)](https://travis-ci.org/lexibank/mitterhoferbena)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
