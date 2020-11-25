@@ -287,11 +287,11 @@ Ukalawa-42_man-1,,Ukalawa,42_man,mukigoːsi,mukigoːsi,m u k i g oː s i,,Mitter
 Utalingoro-42_man-1,,Utalingoro,42_man,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false,^m u g oː s i$,default
 Utengule-42_man-1,,Utengule,42_man,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false,^m u g oː s i$,default
 Wangama-42_man-1,,Wangama,42_man,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false,^m u g oː s i$,default
-Ihanja-43_husband-1,,Ihanja,43_husband,mugoːsi_ʋaːŋgu,mugoːsi_ʋaːŋgu,m u g oː s i _ ʋ aː ŋ g u,,Mitterhofer2013,,false,^m u g oː s i _ ʋ aː ŋ g u$,default
-Ikuna-43_husband-1,,Ikuna,43_husband,mugoːsi_ʋaːŋgu,mugoːsi_ʋaːŋgu,m u g oː s i _ ʋ aː ŋ g u,,Mitterhofer2013,,false,^m u g oː s i _ ʋ aː ŋ g u$,default
+Ihanja-43_husband-1,,Ihanja,43_husband,mugoːsi_ʋaːŋgu,mugoːsi_ʋaːŋgu,m u g oː s i + ʋ aː ŋ g u,,Mitterhofer2013,,false,^m u g oː s i _ ʋ aː ŋ g u$,default
+Ikuna-43_husband-1,,Ikuna,43_husband,mugoːsi_ʋaːŋgu,mugoːsi_ʋaːŋgu,m u g oː s i + ʋ aː ŋ g u,,Mitterhofer2013,,false,^m u g oː s i _ ʋ aː ŋ g u$,default
 Itambo-43_husband-1,,Itambo,43_husband,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false,^m u g oː s i$,default
 Itipula-43_husband-1,,Itipula,43_husband,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false,^m u g oː s i$,default
-Kanamalenga-43_husband-1,,Kanamalenga,43_husband,mugoːsi_ʋaːŋgu,mugoːsi_ʋaːŋgu,m u g oː s i _ ʋ aː ŋ g u,,Mitterhofer2013,,false,^m u g oː s i _ ʋ aː ŋ g u$,default
+Kanamalenga-43_husband-1,,Kanamalenga,43_husband,mugoːsi_ʋaːŋgu,mugoːsi_ʋaːŋgu,m u g oː s i + ʋ aː ŋ g u,,Mitterhofer2013,,false,^m u g oː s i _ ʋ aː ŋ g u$,default
 Liwengi-43_husband-1,,Liwengi,43_husband,mwadaːda,mwadaːda,m w a d aː d a,,Mitterhofer2013,,false,^mw a d aː d a$,default
 Lwanzali-43_husband-1,,Lwanzali,43_husband,mukigoːsi,mukigoːsi,m u k i g oː s i,,Mitterhofer2013,,false,^m u k i g oː s i$,default
 Makanjaula-43_husband-1,,Makanjaula,43_husband,mugoːsi,mugoːsi,m u g oː s i,,Mitterhofer2013,,false,^m u g oː s i$,default
@@ -640,11 +640,11 @@ Kanamalenga-83_shadeoftree-1,,Kanamalenga,83_shadeoftree,mwiŋgiːki,mwiŋgiːki
 Liwengi-83_shadeoftree-1,,Liwengi,83_shadeoftree,musiːho,musiːho,m u s iː h o,,Mitterhofer2013,,false,^m u s iː h o$,default
 Ujindile-83_shadeoftree-1,,Ujindile,83_shadeoftree,mwisiːxo,mwisiːxo,m w i s iː x o,,Mitterhofer2013,,false,^mw i s iː x o$,default
 Ukalawa-83_shadeoftree-1,,Ukalawa,83_shadeoftree,mwiːfuɲi,mwiːfuɲi,m w iː f u ɲ i,,Mitterhofer2013,,false,^mw iː f u ɲ i$,default
-Ikuna-84_walkingstick-1,,Ikuna,84_walkingstick,msaga,msaga,ms a g a,,Mitterhofer2013,,false,^ms a g a$,default
+Ikuna-84_walkingstick-1,,Ikuna,84_walkingstick,msaga,msaga,m s a g a,,Mitterhofer2013,,false,^ms a g a$,default
 Itipula-84_walkingstick-1,,Itipula,84_walkingstick,musagi,musagi,m u s a g i,,Mitterhofer2013,,false,^m u s a g i$,default
 Kanamalenga-84_walkingstick-1,,Kanamalenga,84_walkingstick,lusoːndʒo,lusoːndʒo,l u s oː n dʒ o,,Mitterhofer2013,,false,^l u s oː n dʒ o$,default
 Liwengi-84_walkingstick-1,,Liwengi,84_walkingstick,musagi,musagi,m u s a g i,,Mitterhofer2013,,false,^m u s a g i$,default
-Ujindile-84_walkingstick-1,,Ujindile,84_walkingstick,msaka,msaka,ms a k a,,Mitterhofer2013,,false,^ms a k a$,default
+Ujindile-84_walkingstick-1,,Ujindile,84_walkingstick,msaka,msaka,m s a k a,,Mitterhofer2013,,false,^ms a k a$,default
 Ukalawa-84_walkingstick-1,,Ukalawa,84_walkingstick,musaga,musaga,m u s a g a,,Mitterhofer2013,,false,^m u s a g a$,default
 Ikuna-85_rootoftree-1,,Ikuna,85_rootoftree,lidela,lidela,l i d e l a,,Mitterhofer2013,,false,^l i d e l a$,default
 Itipula-85_rootoftree-1,,Itipula,85_rootoftree,mudela,mudela,m u d e l a,,Mitterhofer2013,,false,^m u d e l a$,default

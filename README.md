@@ -25,18 +25,19 @@ Conceptlists in Concepticon:
 - **Sources:** 1
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 12,503
-- **Segments:** 55 (0 BIPA errors, 0 CTLS sound class errors, 55 CLTS modified)
-- **Inventory size (avg):** 36.23
+- **Tokens:** 12,505
+- **Segments:** 53 (0 BIPA errors, 0 CTLS sound class errors, 53 CLTS modified)
+- **Inventory size (avg):** 35.85
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Tiago Tresoldi | @tresoldi | patron, profiles, language mapping | Author
-Johann-Mattis List | @LinguList | code, integration | Author
-Christoph Rzymski | @chrzyki | code, integration | Author
+Tiago Tresoldi | @tresoldi | patron, profiles, language mapping | Other 
+Johann-Mattis List | @LinguList | code, integration | Other
+Christoph Rzymski | @chrzyki | code, integration | Other
 Jonathan Roper | | help with data preparation | Other
 Mariann Proos | | help with data preparation | Other
+Mitterhofer, Bernadette | | original data collection | Author
 
 
