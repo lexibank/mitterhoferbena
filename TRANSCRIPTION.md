@@ -76,8 +76,11 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|------|------------|-----------|--------|------------|
+|:-------------------------|:------------|:-----------|:---------------|:--------------------------|
+| Ihanja-43_husband-1 | Ihanja | 43_husband | mugoːsi_ʋaːŋgu | m u g oː s i _ ʋ aː ŋ g u |
+| Ikuna-43_husband-1 | Ikuna | 43_husband | mugoːsi_ʋaːŋgu | m u g oː s i _ ʋ aː ŋ g u |
+| Kanamalenga-43_husband-1 | Kanamalenga | 43_husband | mugoːsi_ʋaːŋgu | m u g oː s i _ ʋ aː ŋ g u |
 
-(0 rows)
+(3 rows)
 
 

@@ -1,14 +1,14 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Type,Coverage,Date,Transcriber
-Ihanja,Ihanja,ihan1234,Ihanja,,Africa,-9.10589,34.6563,Atlantic-Congo,short wordlist,,9/15/2009,Andy Huber
-Ikuna,Ikuna,ikun1241,Ikuna,,Africa,-9.13708,34.9083,Atlantic-Congo,full wordlist,,9/12/2009,Michelle Morrison
-Itambo,Itambo,itam1234,Itambo,,Africa,-9.36073,35.32647,Atlantic-Congo,short wordlist,,9/10/2009,Andy Huber
-Itipula,Itipula,itip1234,Itipula,,Africa,-9.34988,35.21523,Atlantic-Congo,full wordlist,,9/8/2009,Michelle Morrison
-Kanamalenga,Kanamalenga,kana1293,Kanamalenga,,Africa,-8.91872,34.63776,Atlantic-Congo,full wordlist,,9/16/2009,Michelle Morrison
-Liwengi,Liwengi,liwe1234,Liwengi,,Africa,-9.58491,35.12116,Atlantic-Congo,full wordlist,,9/7/2009,Andy Huber
-Lwanzali,Lwanzali,lwan1234,Lwanzali,,Africa,-9.3404,35.27635,Atlantic-Congo,short wordlist,,9/10/2009,Andy Huber
-Makanjaula,Makanjaula,maka1325,Makanjaula,,Africa,-9.52396,34.79638,Atlantic-Congo,short wordlist,,9/9/2009,Andy Huber
-Ujindile,Ujindile,ujin1234,Ujindile,,Africa,-9.24553,34.50936,Atlantic-Congo,full wordlist,,9/14/2009,Michelle Morrison
-Ukalawa,Ukalawa,ukal1234,Ukalawa,,Africa,-9.18589,35.28047,Atlantic-Congo,full wordlist,,9/11/2009,Michelle Morrison
-Utalingoro,Utalingoro,utal1238,Utalingoro,,Africa,-9.4366,34.70918,Atlantic-Congo,short wordlist,,9/9/2009,Andy Huber
-Utengule,Utengule,uten1234,Utengule,,Africa,-8.94924,34.76754,Atlantic-Congo,short wordlist,,9/15/2009,Andy Huber
-Wangama,Wangama,wang1302,Wangama,,Africa,-9.17368,34.497,Atlantic-Congo,short wordlist,,9/14/2009,Andy Huber
+ID,Name,Glottocode,Glottolog_Name,Macroarea,Latitude,Longitude,Family,Type,Date,Transcriber
+Ihanja,Ihanja,ihan1234,Ihanja,Africa,-9.10589,34.6563,Atlantic-Congo,short wordlist,9/15/2009,Andy Huber
+Ikuna,Ikuna,ikun1241,Ikuna,Africa,-9.13708,34.9083,Atlantic-Congo,full wordlist,9/12/2009,Michelle Morrison
+Itambo,Itambo,itam1234,Itambo,Africa,-9.36073,35.32647,Atlantic-Congo,short wordlist,9/10/2009,Andy Huber
+Itipula,Itipula,itip1234,Itipula,Africa,-9.34988,35.21523,Atlantic-Congo,full wordlist,9/8/2009,Michelle Morrison
+Kanamalenga,Kanamalenga,kana1293,Kanamalenga,Africa,-8.91872,34.63776,Atlantic-Congo,full wordlist,9/16/2009,Michelle Morrison
+Liwengi,Liwengi,liwe1234,Liwengi,Africa,-9.58491,35.12116,Atlantic-Congo,full wordlist,9/7/2009,Andy Huber
+Lwanzali,Lwanzali,lwan1234,Lwanzali,Africa,-9.3404,35.27635,Atlantic-Congo,short wordlist,9/10/2009,Andy Huber
+Makanjaula,Makanjaula,maka1325,Makanjaula,Africa,-9.52396,34.79638,Atlantic-Congo,short wordlist,9/9/2009,Andy Huber
+Ujindile,Ujindile,ujin1234,Ujindile,Africa,-9.24553,34.50936,Atlantic-Congo,full wordlist,9/14/2009,Michelle Morrison
+Ukalawa,Ukalawa,ukal1234,Ukalawa,Africa,-9.18589,35.28047,Atlantic-Congo,full wordlist,9/11/2009,Michelle Morrison
+Utalingoro,Utalingoro,utal1238,Utalingoro,Africa,-9.4366,34.70918,Atlantic-Congo,short wordlist,9/9/2009,Andy Huber
+Utengule,Utengule,uten1234,Utengule,Africa,-8.94924,34.76754,Atlantic-Congo,short wordlist,9/15/2009,Andy Huber
+Wangama,Wangama,wang1302,Wangama,Africa,-9.17368,34.497,Atlantic-Congo,short wordlist,9/14/2009,Andy Huber
