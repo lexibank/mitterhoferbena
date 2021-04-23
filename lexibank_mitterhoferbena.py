@@ -11,7 +11,6 @@ from pylexibank.util import progressbar
 @attr.s
 class CustomLanguage(Language):
     Type = attr.ib(default=None)
-    Coverage = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     Latitude = attr.ib(default=None)
     Date = attr.ib(default=None)
@@ -44,3 +43,11 @@ class Dataset(BaseDataset):
                     Source="Mitterhofer2013",
                     Loan=False,
                 )
+
+        # We explicitly remove the ISO code column since the languages in
+        # this datasets do not have an ISO code.
+        args.writer.cldf["LanguageTable"].tableSchema.columns = [
+            col
+            for col in args.writer.cldf["LanguageTable"].tableSchema.columns
+            if col.name != "ISO639P3code"
+        ]
