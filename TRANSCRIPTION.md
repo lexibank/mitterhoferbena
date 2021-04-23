@@ -34,7 +34,7 @@
 | ʋ | 119 | ✓ | ✓ |
 | ɲ | 85 | ✓ | ✓ |
 | ʃ | 62 | ✓ | ✓ |
-| + | 47 | ✓ | ✓ |
+| + | 50 | ✓ | ✓ |
 | dʒ | 39 | ✓ | ✓ |
 | hʷ | 38 | ✓ | ✓ |
 | ç | 36 | ✓ | ✓ |
@@ -46,7 +46,6 @@
 | ɐ | 14 | ✓ | ✓ |
 | kʰ | 13 | ✓ | ✓ |
 | x | 11 | ✓ | ✓ |
-| _ | 3 | ✓ | ✓ |
 | kw | 3 | ✓ | ✓ |
 | r | 3 | ✓ | ✓ |
 | ɪː | 3 | ✓ | ✓ |
@@ -60,7 +59,7 @@
 | y | 1 | ✓ | ✓ |
 | ɔː | 1 | ✓ | ✓ |
 
-(54 rows)
+(53 rows)
 
 
 
@@ -76,11 +75,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-------------------------|:------------|:-----------|:---------------|:--------------------------|
-| Ihanja-43_husband-1 | Ihanja | 43_husband | mugoːsi_ʋaːŋgu | m u g oː s i _ ʋ aː ŋ g u |
-| Ikuna-43_husband-1 | Ikuna | 43_husband | mugoːsi_ʋaːŋgu | m u g oː s i _ ʋ aː ŋ g u |
-| Kanamalenga-43_husband-1 | Kanamalenga | 43_husband | mugoːsi_ʋaːŋgu | m u g oː s i _ ʋ aː ŋ g u |
+|------|------------|-----------|--------|------------|
 
-(3 rows)
+(0 rows)
 
 
