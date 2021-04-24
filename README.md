@@ -12,7 +12,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/mitterhoferbena.svg?branch=master)](https://travis-ci.org/lexibank/mitterhoferbena)
+[![CLDF validation](https://github.com/lexibank/mitterhoferbena/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/mitterhoferbena/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -33,7 +33,12 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
+<<<<<<< HEAD
 Tiago Tresoldi | @tresoldi | patron, profiles, language mapping | Other 
+=======
+Bernadette Mitterhofer | | | Author
+Tiago Tresoldi | @tresoldi | patron, profiles, language mapping | Other
+>>>>>>> 64d2b4eb4bab203c5781030b09a8447828a8148b
 Johann-Mattis List | @LinguList | code, integration | Other
 Christoph Rzymski | @chrzyki | code, integration | Other
 Jonathan Roper | | help with data preparation | Other

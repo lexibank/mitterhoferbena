@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/mitterhoferbena",
-            "dc:created": "v2.0-7-g086cb2f"
+            "dc:created": "v2.0-11-gb4e3a09"
         },
         {
             "rdf:type": "prov:Entity",
@@ -184,11 +184,6 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
-                        "name": "ISO639P3code"
-                    },
-                    {
-                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
                         "name": "Macroarea"
                     },
@@ -219,10 +214,6 @@
                     {
                         "datatype": "string",
                         "name": "Type"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Coverage"
                     },
                     {
                         "datatype": "string",
