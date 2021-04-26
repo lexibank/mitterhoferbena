@@ -5,8 +5,33 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
-    "contributors": [],
+    "creators": [
+        {
+            "name": "Bernadette Mitterhofer"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
+        },
+        {
+            "name": "Jonathan Roper",
+            "type": "Other"
+        },
+        {
+            "name": "Mariann Proos",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
