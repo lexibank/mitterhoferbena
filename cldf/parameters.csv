@@ -71,7 +71,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 70_bull,bull,1008,BULL
 71_calf,calf,1989,CALF
 72_chicken,chicken,1318,CHICKEN
-73_cockroooster,cock/roooster,1878,COCK
+73_cockroooster,cock/roooster,1511,ROOSTER
 74_bird,bird,937,BIRD
 75_snake,snake,730,SNAKE
 76_fish,fish,227,FISH
@@ -314,7 +314,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 313_nforest,(n) forest,420,FOREST
 314_fox,fox,1312,FOX
 315_frog,frog,503,FROG
-316_goodness,goodness,1035,GOOD
+316_goodness,goodness,,
 317_grandmother,grandmother,1496,GRANDMOTHER
 318_happiness,happiness,,
 319_hate,hate,1607,HATE

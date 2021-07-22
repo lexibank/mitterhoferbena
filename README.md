@@ -1,8 +1,16 @@
 # CLDF dataset derived from Mitterhofer's "Dialect Survey of Bena" from 2013
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/mitterhoferbena/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/mitterhoferbena/actions?query=workflow%3ACLDF-validation)
 
-> Mitterhofer, Bernadette. 2013. Lessons from a dialect survey of Bena: Analyzing wordlists. SIL International.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Mitterhofer, Bernadette. 2013. Lessons from a dialect survey of Bena: Analyzing wordlists. SIL International.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -41,3 +49,10 @@ Jonathan Roper | | help with data preparation | Other
 Mariann Proos | | help with data preparation | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

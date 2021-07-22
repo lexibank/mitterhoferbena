@@ -1,15 +1,12 @@
 from pathlib import Path
 
 import attr
+import pylexibank
 from clldutils.misc import slug
-from pylexibank import Language
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.forms import FormSpec
-from pylexibank.util import progressbar
 
 
 @attr.s
-class CustomLanguage(Language):
+class CustomLanguage(pylexibank.Language):
     Type = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     Latitude = attr.ib(default=None)
@@ -17,12 +14,12 @@ class CustomLanguage(Language):
     Transcriber = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "mitterhoferbena"
     language_class = CustomLanguage
 
-    form_spec = FormSpec(separators="/")
+    form_spec = pylexibank.FormSpec(separators="/")
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
@@ -33,7 +30,7 @@ class Dataset(BaseDataset):
 
         reader = self.raw_dir.read_csv(self.raw_dir / "Wordlist.tsv", dicts=True, delimiter="\t")
 
-        for row in progressbar(reader):
+        for row in pylexibank.progressbar(reader):
             lexemes = {k: v for k, v in row.items() if k in languages}
             for language, lexeme in lexemes.items():
                 args.writer.add_forms_from_value(
