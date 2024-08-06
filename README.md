@@ -27,14 +27,14 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 13
-- **Concepts:** 355
+- **Varieties:** 13 (linked to 13 different Glottocodes)
+- **Concepts:** 355 (linked to 336 different Concepticon concept sets)
 - **Lexemes:** 2,017
 - **Sources:** 1
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
 - **Tokens:** 12,505
-- **Segments:** 53 (0 BIPA errors, 0 CTLS sound class errors, 53 CLTS modified)
+- **Segments:** 53 (0 BIPA errors, 0 CLTS sound class errors, 53 CLTS modified)
 - **Inventory size (avg):** 35.85
 
 # Contributors
@@ -43,8 +43,8 @@ Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Bernadette Mitterhofer | | | Author
 Tiago Tresoldi | @tresoldi | patron, profiles, language mapping | Other
-Johann-Mattis List | @LinguList | code, integration | Other
-Christoph Rzymski | @chrzyki | code, integration | Other
+Johann-Mattis List | @LinguList | code, integration | Editor
+Christoph Rzymski | @chrzyki | code, integration | Editor
 Jonathan Roper | | help with data preparation | Other
 Mariann Proos | | help with data preparation | Other
 
