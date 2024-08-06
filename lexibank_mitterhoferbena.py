@@ -42,7 +42,7 @@ class Dataset(pylexibank.Dataset):
                 )
 
         # We explicitly remove the ISO code column since the languages in
-        # this datasets do not have an ISO code.
+        # this dataset do not have ISO codes.
         args.writer.cldf["LanguageTable"].tableSchema.columns = [
             col
             for col in args.writer.cldf["LanguageTable"].tableSchema.columns
